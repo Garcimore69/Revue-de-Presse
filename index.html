@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Revue de presse</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink: #10161d;
+    --panel: #1a222b;
+    --panel-raised: #212b36;
+    --paper: #eee7d8;
+    --paper-dim: #b9b2a1;
+    --brass: #c99a4b;
+    --brass-dim: #7a6136;
+    --wire-blue: #6f93a6;
+    --rule: #313d49;
+  }
+  *{ box-sizing: border-box; }
+  html{ scroll-behavior: smooth; }
+  body{
+    margin:0;
+    background:var(--ink);
+    color:var(--paper);
+    font-family:'Inter', sans-serif;
+    line-height:1.45;
+  }
+  a{ color:inherit; }
+
+  header{
+    padding: 28px 20px 18px;
+    border-bottom: 1px solid var(--rule);
+    position: sticky;
+    top:0;
+    background: var(--ink);
+    z-index: 10;
+  }
+  .masthead{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap: 8px 16px;
+    max-width: 880px;
+    margin: 0 auto;
+  }
+  .masthead h1{
+    font-family:'Fraunces', serif;
+    font-optical-sizing: auto;
+    font-weight:700;
+    font-size: clamp(28px, 5vw, 40px);
+    margin:0;
+    letter-spacing: -0.01em;
+  }
+  .dateline{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color: var(--brass);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+  #status{
+    font-family:'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--paper-dim);
+    max-width: 880px;
+    margin: 10px auto 0;
+  }
+
+  .filters{
+    max-width: 880px;
+    margin: 16px auto 0;
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+  }
+  .filter-row{ display:flex; flex-wrap:wrap; gap:6px; align-items:center; }
+  .filter-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: var(--paper-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    width: 82px;
+    flex-shrink:0;
+  }
+  .chip{
+    font-family:'IBM Plex Mono', monospace;
+    font-size: 12px;
+    padding: 5px 10px;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    background: transparent;
+    color: var(--paper-dim);
+    cursor:pointer;
+    transition: all .15s ease;
+  }
+  .chip:hover{ border-color: var(--brass-dim); color: var(--paper); }
+  .chip.active{
+    background: var(--brass);
+    border-color: var(--brass);
+    color: var(--ink);
+    font-weight:500;
+  }
+
+  main{ max-width: 880px; margin: 0 auto; padding: 24px 20px 80px; }
+
+  .theme-section{ margin-bottom: 34px; }
+  .theme-section h2{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size: 20px;
+    margin: 0 0 4px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--brass-dim);
+  }
+  .theme-count{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    color: var(--paper-dim);
+    font-weight:400;
+  }
+
+  .article{
+    display:block;
+    text-decoration:none;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .article:hover .article-title{ color: var(--brass); }
+  .stamp{
+    font-family:'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    color: var(--wire-blue);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 5px;
+  }
+  .stamp .sep{ color: var(--rule); margin: 0 4px; }
+  .article-title{
+    font-family:'Fraunces', serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--paper);
+    transition: color .15s ease;
+  }
+  .article-summary{
+    font-size: 14px;
+    color: var(--paper-dim);
+    margin-top: 5px;
+    max-width: 68ch;
+  }
+
+  .empty{
+    font-family:'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--paper-dim);
+    padding: 40px 0;
+    text-align:center;
+  }
+
+  @media (max-width: 520px){
+    .filter-label{ width:auto; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="masthead">
+    <h1>Revue de presse</h1>
+    <div class="dateline" id="dateline">—</div>
+  </div>
+  <div id="status">Chargement des articles…</div>
+
+  <div class="filters">
+    <div class="filter-row">
+      <span class="filter-label">Sujets</span>
+      <span id="theme-chips"></span>
+    </div>
+    <div class="filter-row">
+      <span class="filter-label">Langue</span>
+      <span id="lang-chips"></span>
+    </div>
+  </div>
+</header>
+
+<main id="content"></main>
+
+<script>
+const LANG_LABELS = { fr: "Francophone", en: "Anglo-saxonne", es: "Hispanophone" };
+const STORAGE_THEMES = "revue-de-presse:themes";
+const STORAGE_LANGS = "revue-de-presse:langs";
+
+let data = { themes: {}, articles: [] };
+let activeThemes = null; // null = tout, sinon Set
+let activeLangs = null;
+
+function loadPrefs(key){
+  try {
+    const raw = localStorage.getItem(key);
+    return raw ? new Set(JSON.parse(raw)) : null;
+  } catch(e){ return null; }
+}
+function savePrefs(key, set){
+  localStorage.setItem(key, JSON.stringify([...set]));
+}
+
+function formatDate(iso){
+  try {
+    const d = new Date(iso);
+    return d.toLocaleString('fr-FR', { day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit' });
+  } catch(e){ return iso; }
+}
+
+function renderChips(){
+  const themeWrap = document.getElementById('theme-chips');
+  const langWrap = document.getElementById('lang-chips');
+  themeWrap.innerHTML = '';
+  langWrap.innerHTML = '';
+
+  Object.entries(data.themes).forEach(([id, label]) => {
+    const btn = document.createElement('button');
+    btn.className = 'chip' + (activeThemes.has(id) ? ' active' : '');
+    btn.textContent = label;
+    btn.onclick = () => {
+      activeThemes.has(id) ? activeThemes.delete(id) : activeThemes.add(id);
+      savePrefs(STORAGE_THEMES, activeThemes);
+      renderChips();
+      renderArticles();
+    };
+    themeWrap.appendChild(btn);
+  });
+
+  Object.entries(LANG_LABELS).forEach(([id, label]) => {
+    const btn = document.createElement('button');
+    btn.className = 'chip' + (activeLangs.has(id) ? ' active' : '');
+    btn.textContent = label;
+    btn.onclick = () => {
+      activeLangs.has(id) ? activeLangs.delete(id) : activeLangs.add(id);
+      savePrefs(STORAGE_LANGS, activeLangs);
+      renderChips();
+      renderArticles();
+    };
+    langWrap.appendChild(btn);
+  });
+}
+
+function renderArticles(){
+  const content = document.getElementById('content');
+  content.innerHTML = '';
+
+  const themeOrder = Object.keys(data.themes).filter(id => activeThemes.has(id));
+  let totalShown = 0;
+
+  themeOrder.forEach(themeId => {
+    const articles = data.articles.filter(a =>
+      a.themes.includes(themeId) && activeLangs.has(a.lang)
+    );
+    if (articles.length === 0) return;
+    totalShown += articles.length;
+
+    const section = document.createElement('section');
+    section.className = 'theme-section';
+    section.innerHTML = `<h2>${data.themes[themeId]} <span class="theme-count">(${articles.length})</span></h2>`;
+
+    articles.forEach(a => {
+      const el = document.createElement('a');
+      el.className = 'article';
+      el.href = a.link;
+      el.target = '_blank';
+      el.rel = 'noopener noreferrer';
+      el.innerHTML = `
+        <div class="stamp">${a.source}<span class="sep">·</span>${a.country}<span class="sep">·</span>${formatDate(a.pubDate)}</div>
+        <div class="article-title">${a.title}</div>
+        ${a.summary ? `<div class="article-summary">${a.summary}</div>` : ''}
+      `;
+      section.appendChild(el);
+    });
+
+    content.appendChild(section);
+  });
+
+  if (totalShown === 0){
+    content.innerHTML = '<div class="empty">Aucun article pour cette sélection de sujets / langues.</div>';
+  }
+}
+
+async function init(){
+  const statusEl = document.getElementById('status');
+  try {
+    const res = await fetch('articles.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    data = await res.json();
+  } catch (e) {
+    statusEl.textContent = "Impossible de charger articles.json (le premier run de l'action GitHub n'a peut-être pas encore eu lieu).";
+    return;
+  }
+
+  activeThemes = loadPrefs(STORAGE_THEMES) || new Set(Object.keys(data.themes));
+  activeLangs = loadPrefs(STORAGE_LANGS) || new Set(Object.keys(LANG_LABELS));
+
+  document.getElementById('dateline').textContent = 'Mise à jour · ' + formatDate(data.generated_at);
+  statusEl.textContent = data.articles.length + ' articles récupérés.';
+
+  renderChips();
+  renderArticles();
+}
+
+init();
+</script>
+</body>
+</html>

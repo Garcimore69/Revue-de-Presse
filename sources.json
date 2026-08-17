@@ -1,0 +1,49 @@
+[
+  { "name": "Le Monde", "lang": "fr", "country": "France", "url": "https://www.lemonde.fr/rss/une.xml", "verified": true },
+  { "name": "Le Figaro", "lang": "fr", "country": "France", "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml", "verified": true },
+  { "name": "L'Humanité", "lang": "fr", "country": "France", "url": "https://www.humanite.fr/rss.xml", "verified": false, "note": "URL à vérifier, non testée" },
+  { "name": "Mediapart", "lang": "fr", "country": "France", "url": "https://www.mediapart.fr/articles/feed", "verified": true },
+  { "name": "Rue89", "lang": "fr", "country": "France", "url": "", "disabled": true, "note": "Rue89 a fusionné avec L'Obs en 2018, plus de flux RSS autonome. Désactivé — remplacez par un autre média si besoin." },
+  { "name": "20 Minutes", "lang": "fr", "country": "France", "url": "https://www.20minutes.fr/feeds/rss-une.xml", "verified": true },
+  { "name": "Le Canard Enchaîné", "lang": "fr", "country": "France", "url": "", "disabled": true, "note": "Pas de site d'actualité en ligne avec flux RSS (journal papier). Désactivé." },
+  { "name": "L'Équipe", "lang": "fr", "country": "France", "url": "https://dwh.lequipe.fr/api/edito/rss?path=/", "verified": false, "note": "URL à vérifier" },
+
+  { "name": "La Libre Belgique", "lang": "fr", "country": "Belgique", "url": "https://www.lalibre.be/arc/outboundfeeds/rss/", "verified": true },
+  { "name": "RTBF Info", "lang": "fr", "country": "Belgique", "url": "https://rss.rtbf.be/article/rss/highlight_rtbfinfo.xml", "verified": false, "note": "URL à vérifier" },
+  { "name": "Le Soir", "lang": "fr", "country": "Belgique", "url": "https://www.lesoir.be/rss.xml", "verified": false, "note": "URL à vérifier" },
+  { "name": "20 Minutes Belgique", "lang": "fr", "country": "Belgique", "url": "", "disabled": true, "note": "20 Minutes n'a pas d'édition belge distincte. Désactivé." },
+
+  { "name": "Le Temps", "lang": "fr", "country": "Suisse", "url": "https://www.letemps.ch/articles.rss", "verified": true },
+  { "name": "Le Matin (Suisse)", "lang": "fr", "country": "Suisse", "url": "", "disabled": true, "note": "Le Matin a changé de format en 2020, pas de flux RSS stable identifié. À vérifier manuellement." },
+  { "name": "20 Minutes Suisse", "lang": "fr", "country": "Suisse", "url": "https://www.20min.ch/rss/rss.tmpl?type=rss&get=alle_stories", "verified": false, "note": "URL à vérifier" },
+
+  { "name": "El Watan", "lang": "fr", "country": "Algérie", "url": "https://www.elwatan.com/feed", "verified": false, "note": "URL à vérifier" },
+
+  { "name": "Albayane", "lang": "fr", "country": "Maroc", "url": "https://albayane.press.ma/feed/", "verified": false, "note": "URL devinée (convention WordPress), à vérifier" },
+  { "name": "Au fait Maroc", "lang": "fr", "country": "Maroc", "url": "https://www.aufaitmaroc.com/feed", "verified": false, "note": "URL devinée, à vérifier" },
+  { "name": "Aujourd'hui le Maroc", "lang": "fr", "country": "Maroc", "url": "https://aujourdhui.ma/feed", "verified": false, "note": "URL devinée, à vérifier" },
+  { "name": "Le Canard Libéré", "lang": "fr", "country": "Maroc", "url": "https://lecanardlibere.com/feed/", "verified": false, "note": "URL devinée, à vérifier" },
+  { "name": "Les Inspirations Éco", "lang": "fr", "country": "Maroc", "url": "https://leseco.ma/feed/", "verified": false, "note": "URL devinée, à vérifier" },
+
+  { "name": "La Presse (Tunisie)", "lang": "fr", "country": "Tunisie", "url": "https://lapresse.tn/feed/", "verified": true },
+
+  { "name": "Le Devoir", "lang": "fr", "country": "Canada", "url": "https://www.ledevoir.com/rss/manchettes.xml", "verified": true },
+  { "name": "Journal de Montréal", "lang": "fr", "country": "Canada", "url": "https://www.journaldemontreal.com/rss.xml", "verified": false, "note": "URL à vérifier" },
+  { "name": "L'Eau Vive", "lang": "fr", "country": "Canada", "url": "https://leau-vive.ca/feed/", "verified": false, "note": "Petit média, flux non confirmé" },
+
+  { "name": "APA News (français)", "lang": "fr", "country": "Afrique", "url": "https://fr.apanews.net/feed/", "verified": false, "note": "URL à vérifier" },
+  { "name": "RFI", "lang": "fr", "country": "France/Afrique", "url": "https://www.rfi.fr/fr/rss", "verified": true },
+
+  { "name": "Courrier International", "lang": "fr", "country": "France", "url": "https://www.courrierinternational.com/feed/all/rss.xml", "verified": true },
+
+  { "name": "The Times", "lang": "en", "country": "Royaume-Uni", "url": "", "disabled": true, "note": "Pas de flux RSS public connu (paywall strict). Désactivé — à remplacer si besoin." },
+  { "name": "The Guardian", "lang": "en", "country": "Royaume-Uni", "url": "https://www.theguardian.com/international/rss", "verified": true },
+  { "name": "The Washington Post", "lang": "en", "country": "États-Unis", "url": "https://feeds.washingtonpost.com/rss/world", "verified": false, "note": "WaPo a réduit ses flux RSS publics, URL à vérifier" },
+  { "name": "The Independent", "lang": "en", "country": "Royaume-Uni", "url": "https://www.independent.co.uk/rss", "verified": true },
+  { "name": "The Daily Telegraph", "lang": "en", "country": "Royaume-Uni", "url": "", "disabled": true, "note": "Pas de flux RSS public confirmé. Désactivé — à vérifier manuellement." },
+  { "name": "Financial Times", "lang": "en", "country": "Royaume-Uni", "url": "https://www.ft.com/rss/home/international", "verified": true },
+  { "name": "The Economist", "lang": "en", "country": "Royaume-Uni", "url": "https://www.economist.com/international/rss.xml", "verified": false, "note": "URL à vérifier, contenu limité par paywall" },
+
+  { "name": "El País", "lang": "es", "country": "Espagne", "url": "https://elpais.com/rss/elpais/portada.xml", "verified": true },
+  { "name": "El Mundo", "lang": "es", "country": "Espagne", "url": "https://www.elmundo.es/rss/portada.xml", "verified": false, "note": "URL à vérifier" }
+]

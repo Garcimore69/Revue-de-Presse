@@ -1,0 +1,50 @@
+{
+  "politique_nationale": {
+    "label": "Politique nationale",
+    "keywords_fr": ["gouvernement", "assemblée nationale", "élysée", "ministre", "parti politique", "sénat", "élection présidentielle", "premier ministre"],
+    "keywords_en": ["parliament", "prime minister", "congress", "white house", "cabinet reshuffle"],
+    "keywords_es": ["gobierno", "parlamento", "elecciones", "presidente", "ministro"]
+  },
+  "politique_internationale": {
+    "label": "Politique internationale",
+    "keywords_fr": ["diplomatie", "sommet", "union européenne", "onu", "otan", "relations internationales", "ambassade"],
+    "keywords_en": ["diplomacy", "summit", "united nations", "nato", "european union", "foreign policy"],
+    "keywords_es": ["diplomacia", "cumbre", "unión europea", "onu", "otan"]
+  },
+  "geopolitique": {
+    "label": "Géopolitique",
+    "keywords_fr": ["guerre", "conflit", "tensions", "invasion", "sanctions", "armée", "géopolitique", "cessez-le-feu"],
+    "keywords_en": ["war", "conflict", "invasion", "sanctions", "military", "geopolitics", "ceasefire"],
+    "keywords_es": ["guerra", "conflicto", "invasión", "sanciones", "geopolítica"]
+  },
+  "economie": {
+    "label": "Économie",
+    "keywords_fr": ["économie", "inflation", "croissance", "bourse", "pib", "chômage", "banque centrale", "budget"],
+    "keywords_en": ["economy", "inflation", "growth", "stock market", "gdp", "unemployment", "central bank"],
+    "keywords_es": ["economía", "inflación", "crecimiento", "bolsa", "pib", "desempleo"]
+  },
+  "environnement_climat": {
+    "label": "Environnement / Climat",
+    "keywords_fr": ["climat", "environnement", "réchauffement", "biodiversité", "énergie renouvelable", "pollution", "cop2"],
+    "keywords_en": ["climate", "environment", "global warming", "biodiversity", "renewable energy", "pollution"],
+    "keywords_es": ["clima", "medio ambiente", "calentamiento", "biodiversidad", "energía renovable"]
+  },
+  "ia_tech": {
+    "label": "IA / Tech",
+    "keywords_fr": ["intelligence artificielle", " ia ", "technologie", "numérique", "startup", "informatique", "algorithme"],
+    "keywords_en": ["artificial intelligence", " ai ", "technology", "startup", "software", "algorithm"],
+    "keywords_es": ["inteligencia artificial", "tecnología", "startup", "algoritmo"]
+  },
+  "jeux_video": {
+    "label": "Jeux vidéo",
+    "keywords_fr": ["jeu vidéo", "jeux vidéo", "gaming", "console", "playstation", "xbox", "nintendo", "esport"],
+    "keywords_en": ["video game", "gaming", "console", "playstation", "xbox", "nintendo", "esports"],
+    "keywords_es": ["videojuego", "videojuegos", "gaming", "consola"]
+  },
+  "culture": {
+    "label": "Culture",
+    "keywords_fr": ["culture", "cinéma", "littérature", "musique", "exposition", "festival", "roman", "musée"],
+    "keywords_en": ["culture", "cinema", "film", "literature", "music", "exhibition", "festival", "museum"],
+    "keywords_es": ["cultura", "cine", "literatura", "música", "exposición", "festival", "museo"]
+  }
+}
