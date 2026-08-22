@@ -11,9 +11,9 @@ from datetime import datetime, timezone
 import feedparser
 import requests
 
-SOURCES_PATH = "config/sources.json"
-THEMES_PATH = "config/themes.json"
-OUTPUT_PATH = "docs/articles.json"
+SOURCES_PATH = "sources.json"
+THEMES_PATH = "themes.json"
+OUTPUT_PATH = "articles.json"
 MAX_PER_SOURCE = 30
 TIMEOUT = 15
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; RevueDePresseBot/1.0)"}
