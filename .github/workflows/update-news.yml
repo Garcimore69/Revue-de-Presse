@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "revue-de-presse-bot"
           git config user.email "actions@github.com"
-          git add docs/articles.json
+          git add articles.json
           git diff --quiet --cached || git commit -m "Mise à jour automatique de la revue de presse"
           git push
