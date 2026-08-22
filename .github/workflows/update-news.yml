@@ -22,7 +22,7 @@ jobs:
         run: pip install feedparser requests
 
       - name: Récupérer et filtrer les articles
-        run: python scripts/fetch_news.py
+        run: python fetch_news.py
 
       - name: Publier les changements
         run: |
