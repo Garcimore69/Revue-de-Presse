@@ -85,7 +85,10 @@ def parse_date(article):
         "%Y-%m-%dT%H:%M:%S%z",
     ):
         try:
-            return datetime.strptime(article["pubDate"], fmt)
+            dt = datetime.strptime(article["pubDate"], fmt)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt
         except Exception:
             continue
     return datetime.min.replace(tzinfo=timezone.utc)
