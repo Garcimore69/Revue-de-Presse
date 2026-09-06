@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T05:04:57.715990+00:00",
+  "generated_at": "2026-09-06T05:05:20.225281+00:00",
   "themes": {
     "politique_nationale": "Politique nationale",
     "politique_internationale": "Politique internationale",
@@ -12,179 +12,1322 @@
   },
   "articles": [
     {
-      "title": "L’Union Saint-Gilloise, nouveau modèle du Sporting de Charleroi : les recettes dont les Zèbres veulent s’inspirer pour grandir",
-      "summary": "L’Union Saint-Gilloise, nouveau modèle du Sporting de Charleroi : les recettes dont les Zèbres veulent s’inspirer pour grandir\n\n\t\n  \n  Les Carolos veulent s’inspirer de ce qui fonctionne à l’Union pour grandir. - Photo News  \n\n\tPendant longtemps, lorsqu’il évoquait le développement de son Sporting de Charleroi, Mehdi Bayat citait volontiers Gand en exemple. Il y avait notamment ce nouveau stade qu",
-      "link": "http://www.lesoir.be/769151/article/2026-09-05/lunion-saint-gilloise-nouveau-modele-du-sporting-de-charleroi-les-recettes-dont",
-      "source": "Le Soir",
+      "title": "La Suisse recherche son magicien d’Oz",
+      "summary": "CHRONIQUE. Entre repli et ouverture, la Suisse se débat avec sa permanente quête d’identité. L’histoire nous apprend que ce sont moins les structures politiques ou la culture du consensus qui paralysent le pays. Mais le courage de celles et ceux qui exercent le pouvoir, écrit Yves Petignat«Si nous marchons suffisamment loin, je suis sûre que nous arriverons quelque part…. Si ce chemin va vers l’in",
+      "link": "https://www.letemps.ch/articles/la-suisse-recherche-son-magicien-d-oz",
+      "source": "Le Temps",
       "lang": "fr",
-      "country": "Belgique",
+      "country": "Suisse",
       "themes": [
-        "politique_internationale",
         "culture"
       ],
-      "pubDate": "Sat, 05 Sep 2026 05:00:22 +0000"
+      "pubDate": "Sun, 06 Sep 2026 07:00:01 +0200"
     },
     {
-      "title": "Inside the reality of Man United’s budget rebuild – and the question it asks of Michael Carrick",
-      "summary": "A host of factors coalesced for United to finish the transfer window having been outspent by their rivals, despite the need to upgrade, writes Richard Jolly. It may force Carrick to adapt,  challenging a relatively unproven coach to improve the players at his disposal",
-      "link": "https://www.independent.co.uk/sport/football/man-utd-news-premier-league-transfer-michael-carrick-b3044888.html",
+      "title": "À Moscou, les émissaires de Trump ont discuté «de plans substantiels» pour l'Ukraine avec Poutine",
+      "summary": "Vladimir Poutine a rencontré samedi les émissaires américains Steve Witkoff et Jared Kushner, porteurs selon Donald Trump d'une proposition destinée à mettre fin au conflit en Ukraine.",
+      "link": "https://www.rfi.fr/fr/europe/20260906-%C3%A0-moscou-%C3%A9missaires-de-trump-ont-discut%C3%A9-de-plans-substantiels-pour-l-ukraine-avec-poutine",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 04:33:21 GMT"
+    },
+    {
+      "title": "Le message et le messager: que penser de l’affaire Jason Arday, le professeur de Cambridge accusé de plagiat qui s'est suicidé?",
+      "summary": "OPINION. Le suicide de l’ancien professeur de sociologie de l’éducation à Cambridge Jason Arday – après des accusations de plagiat – fait s’entrechoquer éthique universitaire et relents racistes. Dans cette affaire, il s’agit de ne pas tout mélanger, écrit le professeur François Grin, spécialiste de l’économie des langues et de l’éducationLe monde académique est en émoi. Peu après avoir démissionn",
+      "link": "https://www.letemps.ch/articles/le-message-et-le-messager-que-penser-de-l-affaire-jason-arday-le-professeur-de-cambridge-accuse-de-plagiat-qui-s-est-suicide",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "economie"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 06:30:09 +0200"
+    },
+    {
+      "title": "Ukraine-Russia war latest: No sign of breakthrough in Putin’s ‘highly useful’ peace talks as Trump envoys head to Kyiv",
+      "summary": "Steve Witkoff and Jared Kushner are visiting Moscow and Kyiv over the weekend",
+      "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-peace-talks-news-b3045126.html",
       "source": "The Independent",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 04:28:28 GMT"
+    },
+    {
+      "title": "Trump’s approval rating falls to all-time low in FT poll",
+      "summary": "Voters’ anxiety about economy saps popularity of US president and his Republican Party weeks before midterm elections",
+      "link": "https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1",
+      "source": "Financial Times",
       "lang": "en",
       "country": "Royaume-Uni",
       "themes": [
         "economie"
       ],
-      "pubDate": "Sat, 05 Sep 2026 05:00:00 GMT"
+      "pubDate": "Sun, 06 Sep 2026 04:01:09 GMT"
     },
     {
-      "title": "Ukraine-Russia war latest: Trump says ‘we have an idea for peace’ as US envoy heads abroad for peace talks",
-      "summary": "Russia’s Tass news agency said Witkoff and Kushner were scheduled to visit Moscow and Kyiv on Saturday and Sunday",
-      "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-coca-cola-strike-b3044543.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 04:59:25 GMT"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : une attaque russe dans l’est de l’Ukraine fait au moins quatre morts",
-      "summary": "Ces frappes meurtrières dans la ville de Kamianske interviennent alors que Donald Trump a affirmé, vendredi, que ses émissaires se rendent à Moscou et à Kiev avec un plan « visant à mettre fin à la guerre ».",
-      "link": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-une-attaque-russe-dans-l-est-de-l-ukraine-fait-au-moins-quatre-morts_6760568_3210.html",
-      "source": "Le Monde",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 06:41:10 +0200"
-    },
-    {
-      "title": "La justice argentine ordonne la restitution “historique” d’un tableau volé par les nazis",
-      "summary": "L’œuvre, Portrait d’une dame, appartenait à un galeriste juif pillé pendant la deuxième guerre mondiale. Elle est réapparue l’an dernier dans une maison de Mar del Plata. La maison de descendants de Friedrich Gustav Kadgien, “le magicien de la finance nazie”.",
-      "link": "https://www.courrierinternational.com/article/art-la-justice-argentine-ordonne-la-restitution-historique-d-un-tableau-vole-par-les-nazis_267963",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 06:33:29 +0200"
-    },
-    {
-      "title": "L'ONU adopte une réforme de la cartographie mondiale plus proche de la réalité",
-      "summary": "L'Assemblée générale de l'ONU a adopté vendredi 4 septembre une résolution pour promouvoir une représentation cartographique mondiale plus fidèle à la taille réelle des continents, agrandissant notamment l'Afrique et rétrécissant les États-Unis.",
-      "link": "https://www.rfi.fr/fr/monde/20260905-l-onu-adopte-une-r%C3%A9forme-de-la-cartographie-mondiale-plus-proche-de-la-r%C3%A9alit%C3%A9",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "politique_internationale"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 04:33:24 GMT"
-    },
-    {
-      "title": "Liban: l'armée israélienne annonce le «contrôle opérationnel» de la colline de Ali Taher",
-      "summary": "L'armée israélienne a annoncé jeudi septembre la prise de « contrôle opérationnel » de la colline stratégique de Ali Taher après des mois de pilonnage et de tentatives d’avancées terrestres. Le Premier ministre israélien, Benyamin Netanyahu, a présenté cette prise de « succès stratégique ». Le Hezbollah n’a pas confirmé l’opération mais un de ses députés a évoqué une « incertitude », et a minimisé",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20260905-liban-l-arm%C3%A9e-isra%C3%A9lienne-annonce-le-contr%C3%B4le-op%C3%A9rationnel-de-la-colline-de-ali-taher",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "politique_nationale",
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 04:23:28 GMT"
-    },
-    {
-      "title": "Jean-Noël Barrot: «Ce qui se passe en Cisjordanie est scandaleux et indigne»",
-      "summary": "À l’occasion de la Fabrique de la diplomatie, événement annuel organisé par le ministère de l’Europe et des Affaires étrangères consacré aux relations internationales et aux coulisses de la diplomatie, Jean-Noël Barrot a accordé un entretien à RFI. Dans cette interview, le ministre français de l'Europe et des Affaires étrangères est interrogé sur les grands sujets de l'actualité internationale. Il",
-      "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260905-jean-no%C3%ABl-barrot-violence-cisjordanie-scandaleux-et-indigne-israel-colons-russie",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "politique_nationale",
-        "politique_internationale"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 04:02:27 GMT"
-    },
-    {
-      "title": "Raoul Hedebouw (PTB) face à Axel Ronse (N-VA) : le choc de la rentrée",
-      "summary": "Raoul Hedebouw (PTB) face à Axel Ronse (N-VA) : le choc de la rentrée\n\n\t\n  \n  D.R.  \n\n\tPour cette rentrée politique sous le signe du budget, à la recherche de milliards, nous avons choisi de mettre face à face des personnalités de la majorité et des représentants de l’opposition ou du monde socio-économique. Le nationaliste Axel Ronse (N-VA) et le marxiste Raoul Hedebouw (PTB) ouvrent le bal. Ils ",
-      "link": "http://www.lesoir.be/769150/article/2026-09-05/raoul-hedebouw-ptb-face-axel-ronse-n-va-le-choc-de-la-rentree",
-      "source": "Le Soir",
-      "lang": "fr",
-      "country": "Belgique",
-      "themes": [
-        "politique_nationale",
-        "geopolitique",
-        "economie"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 04:00:31 +0000"
-    },
-    {
-      "title": "50? Moi? How The Muppets rocked the world with anarchy, nonsense and the inimitable Miss Piggy",
-      "summary": "Half a century on, Jim Henson’s fuzzy felt friends are as influential as Monty Python and the Beatles. It’s been a wild journey of  nightclubbing, light operas, duetting with Debbie Harry and tying John Cleese to a chairFifty years ago today, it was time to play the music and time to light the lights. On 5 September 1976, the British public first met the Muppets – an epochal moment in the history ",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/sep/05/50-moi-how-the-muppets-rocked-the-world-with-anarchy-nonsense-and-the-inimitable-miss-piggy",
+      "title": "‘Nobody will win’: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
+      "summary": "Serhii Beskrestnov says deadlock on frontline and increasing use of deep strikes is placing civilians and infrastructure at greater riskRussia and Ukraine are locked in an escalating war of long-range strikes with a growing risk to civilians in which neither side can entirely prevail, according to Volodymyr Zelenskyy’s defence technology adviser.Serhii Beskrestnov, widely known by his call sign, F",
+      "link": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
       "source": "The Guardian",
       "lang": "en",
       "country": "Royaume-Uni",
       "themes": [
-        "culture"
+        "geopolitique",
+        "ia_tech"
       ],
-      "pubDate": "Sat, 05 Sep 2026 04:00:26 GMT"
+      "pubDate": "Sun, 06 Sep 2026 04:00:55 GMT"
     },
     {
-      "title": "Programme télé de ce samedi 5 septembre : notre sélection",
-      "summary": "Programme télé de ce samedi 5 septembre : notre sélection\n\n\t\n  \n  Qui va remporter le titre ? Anne-Laure Macq fait partie des six candidats. - Martin Godefroid  \n\n\tDurant l’été, les six gagnants de « Mon plus beau village » des éditions précédentes se sont affrontés pour valoriser le patrimoine de nos régions. Les téléspectateurs votent ce soir pour les départager. L’animatrice Anne-Laure Macq a d",
-      "link": "http://www.lesoir.be/769149/article/2026-09-05/programme-tele-de-ce-samedi-5-septembre-notre-selection",
+      "title": "Sudan’s war-driven blackouts push residents toward solar power but high costs shut many out",
+      "summary": "In Sudan, many residents are turning to solar energy to cope with frequent blackouts caused by the ongoing conflict",
+      "link": "https://www.independent.co.uk/news/rapid-support-forces-khartoum-saudi-arabia-world-bank-b3045400.html",
+      "source": "The Independent",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 04:00:38 GMT"
+    },
+    {
+      "title": "L'armée israélienne ordonne aux habitants d'une zone du sud du Liban d'évacuer",
+      "summary": "L’ordre d’évacuation a été donné par Israël en prévision de frappes imminentes contre le mouvement chiite pro-iranien Hezbollah.",
+      "link": "https://www.lefigaro.fr/international/l-armee-israelienne-ordonne-aux-habitants-d-une-zone-du-sud-du-liban-d-evacuer-20260906",
+      "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 06:00:37 +0200"
+    },
+    {
+      "title": "L’un des rendez-vous floraux les plus attendus de Belgique revient bientôt",
+      "summary": "L’un des rendez-vous floraux les plus attendus de Belgique revient bientôt\n\n\t\n  \n  Sculpture STOOT - Instagram/@bloemencorsoloenhout  \n\n\tIl existe des village que l’on croise sans s’y arrêter et d’autres qui, une fois par an, se donnent entièrement à voir. Loenhout, hameau tranquille de la commune de Wuustwezel, fait partie de cette deuxième catégorie. Le temps d’un week-end, ce coin discret de la",
+      "link": "http://www.lesoir.be/769257/article/2026-09-06/lun-des-rendez-vous-floraux-les-plus-attendus-de-belgique-revient-bientot",
       "source": "Le Soir",
       "lang": "fr",
       "country": "Belgique",
       "themes": [
         "culture"
       ],
-      "pubDate": "Sat, 05 Sep 2026 04:00:24 +0000"
+      "pubDate": "Sun, 06 Sep 2026 04:00:19 +0000"
     },
     {
-      "title": "US Republicans revolt against Flock AI surveillance as tech backlash intensifies",
-      "summary": "Governors crack down on licence-plate-reading start-up bankrolled by Trump donors",
-      "link": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0?syn-25a6b1a6=1",
+      "title": "Russian gold floods through Hong Kong in wake of western sanctions",
+      "summary": "Shipments hit record high with almost 100 tonnes imported from Russia in first seven months of this year",
+      "link": "https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 04:00:12 GMT"
+    },
+    {
+      "title": "UBS demands new junior bankers show AI proficiency",
+      "summary": "Graduates and interns hoping to join Swiss bank must show they can use the technology to improve outcomes and efficiency",
+      "link": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1",
       "source": "Financial Times",
       "lang": "en",
       "country": "Royaume-Uni",
       "themes": [
         "ia_tech"
       ],
-      "pubDate": "Sat, 05 Sep 2026 04:00:23 GMT"
+      "pubDate": "Sun, 06 Sep 2026 04:00:12 GMT"
     },
     {
-      "title": "16 refus",
-      "summary": "16 refus\n\n\tC’est inédit : jamais nous n’avons eu tant de difficultés à organiser la rentrée politique dans Le Soir. Pour cette édition 2026, nous avons voulu proposer à différents responsables politiques des majorités au fédéral, en Wallonie et à Bruxelles de débattre « du » sujet qui alimentera les prochaines semaines : le budget, sachant que quasi tous les gouvernements seront en conclave cet au",
-      "link": "http://www.lesoir.be/769148/article/2026-09-05/16-refus",
+      "title": "Discussion “extrêmement franche” entre Poutine et les émissaires de Trump sur la guerre en Ukraine",
+      "summary": "Les émissaires de Donald Trump, Steve Witkoff et Jared Kushner, se sont entretenus samedi avec Vladimir Poutine à Moscou, pour tenter de trouver une issue à la guerre en Ukraine. La partie russe a salué une rencontre “extrêmement franche”, alors que les deux Américains sont attendus dimanche à Kiev. Les belligérants ont accepté d’observer une trêve de trois jours pendant les discussions.",
+      "link": "https://www.courrierinternational.com/article/geopolitique-discussion-extremement-franche-entre-poutine-et-les-emissaires-de-trump-sur-la-guerre-en-ukraine_268064",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 05:44:44 +0200"
+    },
+    {
+      "title": "Anna Kornbluh fait l’éloge de la lenteur",
+      "summary": "PENSEURS DE DEMAIN (7/7). Face aux bouleversements qui secouent la planète, “Die Zeit” mise sur sept intellectuels “des plus prometteurs” pour éclairer le chemin. Anna Kornbluh, spécialiste américaine de la littérature victorienne, défend une forme de gravité et de retenue pour parer à l’étourdissement de l’immédiateté. Et donne quelques pistes.",
+      "link": "https://www.courrierinternational.com/article/serie-d-ete-anna-kornbluh-fait-l-eloge-de-la-lenteur_264373",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 05:00:17 +0200"
+    },
+    {
+      "title": "« Le Liban a sans doute aujourd’hui le gouvernement le plus respectable de son histoire »",
+      "summary": "Le premier ministre, Nawaf Salam, ancien président de la Cour internationale de justice, accorde une priorité au droit qui n’a pas d’équivalent dans l’histoire libanaise.",
+      "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/06/le-liban-a-sans-doute-aujourd-hui-le-gouvernement-le-plus-respectable-de-son-histoire_6766769_6116995.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 05:00:07 +0200"
+    },
+    {
+      "title": "Hegseth promises to protect military members who deliver religious greetings at Air Force base",
+      "summary": "The Pentagon chief warned that the Air Force ‘will confront this’",
+      "link": "https://www.independent.co.uk/news/world/americas/us-politics/hegseth-air-force-base-religious-greetings-b3045381.html",
+      "source": "The Independent",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 02:18:59 GMT"
+    },
+    {
+      "title": "Visa pour l'image: le photojournaliste espagnol Luis Tato primé pour son travail à Madagascar",
+      "summary": "Photojournaliste espagnol de l'Agence France presse (AFP), Luis Tato a remporté ce samedi 5 septembre 2026 le Visa d'or News du festival international de photojournalisme Visa pour l'image à Perpignan.",
+      "link": "https://www.rfi.fr/fr/monde/20260906-visa-pour-l-image-le-photojournaliste-espagnol-luis-tato-prim%C3%A9-pour-son-travail-%C3%A0-madagascar",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 02:10:24 GMT"
+    },
+    {
+      "title": "Guerre en Ukraine : Les émissaires de Trump ont proposé à Poutine des « idées » pour la paix",
+      "summary": "Après avoir été reçus au Kremlin, les émissaires de Trump sont attendus pour la première fois en Ukraine pour négocier avec Zelensky",
+      "link": "https://www.20minutes.fr/monde/ukraine/4242992-20260906-guerre-ukraine-emissaires-trump-propose-poutine-idees-paix?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 02:01:54 GMT"
+    },
+    {
+      "title": "États-Unis: le Pentagone passe plusieurs hauts responsables militaires au détecteur de mensonges après une fuite",
+      "summary": "De hauts responsables militaires américains ont été soumis à un test au détecteur de mensonge durant le mois d'août, révèle cette semaine le New York Times. Le Pentagone a fait ce choix radical pour tenter de déterminer l’origine des fuites sur la pénurie de munitions rencontrée par l’armée. Du jamais vu à ce niveau et surtout dans une telle ampleur.",
+      "link": "https://www.rfi.fr/fr/monde/20260906-%C3%A9tats-unis-le-pentagone-passe-plusieurs-hauts-responsables-militaires-au-d%C3%A9tecteur-de-mensonges-apr%C3%A8s-une-fuite",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 01:08:03 GMT"
+    },
+    {
+      "title": "Parents of San Diego mosque gunman say a mental health facility failed to heed FBI warning",
+      "summary": "Federal law enforcement warned the parents of Caleb Vazquez, one of two teenagers involved in a San Diego mosque shooting, about his concerning online comments days before the attack",
+      "link": "https://www.independent.co.uk/news/fbi-san-diego-los-angeles-police-nazis-b3045380.html",
+      "source": "The Independent",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 23:41:08 GMT"
+    },
+    {
+      "title": "Los emisarios de Trump 'aterrizan' en una guerra preparada para durar",
+      "summary": "Putin ordena una pausa en los ataques en Kiev antes de la visita. Witkoff y Kushner reactivan una negociación en la que ni Putin ni Zelenski parecen confiar. Ni Kiev ni Moscú quieren cargar ante Washington con la culpa del fracaso&nbsp;Leer",
+      "link": "https://www.elmundo.es/internacional/2026/09/06/6a9c5a9ffdddff2e3a8b4584.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 06 Sep 2026 01:25:22 +0200"
+    },
+    {
+      "title": "Retour sur les demandes de Mark Carney pour la reconnaissance d’un État palestinien",
+      "summary": "L’Autorité palestinienne s’était engagée en septembre dernier à mener des réformes, à la demande du premier ministre.",
+      "link": "https://www.ledevoir.com/monde/moyen-orient/1006871/retour-demandes-mark-carney-reconnaissance-etat-palestinien",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 19:19:00 -0400"
+    },
+    {
+      "title": "U.S. military says it hit 3 Iranian tankers after Navy ships targeted",
+      "summary": "U.S. Central Command said it struck an Iranian oil tanker off the coast of Kharg Island, as well as off Jask and the Gulf of Oman.",
+      "link": "https://www.washingtonpost.com/world/2026/09/05/us-says-it-hit-3-iranian-oil-tankers-including-one-near-kharg-island/",
+      "source": "The Washington Post",
+      "lang": "en",
+      "country": "États-Unis",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 23:14:32 +0000"
+    },
+    {
+      "title": "Sénégal: à Dakar, des centaines de personnes ont manifesté contre la vie chère",
+      "summary": "Au Sénégal, plus de 200 personnes ont marché samedi 5 septembre 2026 contre la vie chère dans les rues de Dakar. La manifestation prolonge une campagne très suivie sur les réseaux sociaux : « 30 jours pour le juste prix ». Depuis le début du mois, à l’appel d’un collectif d'influenceurs et de citoyens, des milliers de Sénégalais témoignent - certains face caméra ou en filmant leurs courses - d’une",
+      "link": "https://www.rfi.fr/fr/afrique/20260905-s%C3%A9n%C3%A9gal-%C3%A0-dakar-des-centaines-de-personnes-ont-manifest%C3%A9-contre-la-vie-ch%C3%A8re",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 22:33:58 GMT"
+    },
+    {
+      "title": "Quels sont les enjeux militaires du Sommet international sur l’espace à Paris?",
+      "summary": "Paris accueillera le premier Sommet international sur l’espace les 9 et 10 septembre 2026. Cet événement abordera l’espace non plus seulement d’un point de vue scientifique mais comme un nouvel espace de confrontation stratégique.",
+      "link": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20260905-quels-sont-les-enjeux-militaires-du-sommet-international-sur-l-espace-%C3%A0-paris",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 22:07:04 GMT"
+    },
+    {
+      "title": "Kriol Jazz Festival: sur les traces de la rumba avec Wuta Mayi, pape de l’amour",
+      "summary": "En avril 2026, un groupe légendaire a « presté », comme on le dit, au Cap-Vert lors du Kriol Jazz Festival. Un évènement devenu majeur avec le temps, orchestré par José Da Silva, le producteur de feu Cesária Évora. Ce groupe fondé à Paris a ses racines à Kinshasa. Les quatre étoiles du Zaïre, c'est 40 ans d’histoire, de musique portée par des musiciens géniaux, notamment l’un des chanteurs, Wuta M",
+      "link": "https://www.rfi.fr/fr/podcasts/les-p%C3%A9pites-musicales-de-rfi/20260905-kriol-jazz-festival-sur-les-traces-de-la-rumba-avec-wuta-mayi-pape-de-l-amour",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 22:05:08 GMT"
+    },
+    {
+      "title": "Nafi Thiam calée à 1,84 m : « Ce n’est pas exceptionnel mais en ligne avec ma saison un peu compliquée »",
+      "summary": "Nafi Thiam calée à 1,84 m : « Ce n’est pas exceptionnel mais en ligne avec ma saison un peu compliquée »\n\n\t\n  \n  Nafi Thiam est resté à une hauteur modeste de 1,84 m dans le concours de hauteur. - Photo News.  \n\n\tElle était venue avec l’ambition d’améliorer son meilleur saut de l’année réussi en juin à Ratingen avec 1,84 m. Mais, dans un concours remporté avec 2,01 m par l’Australienne Eleanor Pat",
+      "link": "http://www.lesoir.be/769256/article/2026-09-06/nafi-thiam-calee-184-m-ce-nest-pas-exceptionnel-mais-en-ligne-avec-ma-saison-un",
+      "source": "Le Soir",
+      "lang": "fr",
+      "country": "Belgique",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 22:05:04 +0000"
+    },
+    {
+      "title": "À Rock en Seine, des concerts en audiodescription pour les personnes malvoyantes et non-voyantes",
+      "summary": "Les pratiques d'inclusivité des concerts se développent au fil des ans et cette année, pour la première fois, le festival Rock en Seine, qui s'est tenu fin août, expérimentait un système d'audiodescription des concerts à destination du public malvoyant et non-voyant.",
+      "link": "https://www.rfi.fr/fr/podcasts/reportage-culture/20260905-%C3%A0-rock-en-seine-des-concerts-en-audiodescription-pour-les-personnes-malvoyantes-et-non-voyantes",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 22:03:05 GMT"
+    },
+    {
+      "title": "Gaza: le championnat de football reprend vie après trois ans de bombardements israéliens",
+      "summary": "Malgré la destruction massive de la bande de Gaza par l'armée israélienne, le championnat des clubs de football reprend dans l'enclave après trois années de suspension. Ce sont 50 clubs de football gazaouis qui participent au tournoi et RFI a pu assister au premier match. Il s'est tenu à Deir el-Balah, dans le centre de l’enclave palestinienne.",
+      "link": "https://www.rfi.fr/fr/podcasts/reportage-international/20260905-gaza-le-championnat-de-football-reprend-vie-apr%C3%A8s-trois-ans-de-bombardements-isra%C3%A9liens",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 22:01:37 GMT"
+    },
+    {
+      "title": "Cisjordanie: face aux violences des colons, l'ambassadeur des États-Unis en Israël brandit la menace",
+      "summary": "L'ambassadeur des États-Unis en Israël appelle les autorités à assurer la sécurité des Palestiniens. Mike Huckabee était ce samedi 5 septembre en visite dans les territoires occupés auprès d'Américano-Palestiniens. Et face aux attaques répétées des colons, l'ambassadeur menace les auteurs de violences de « sévères conséquences ».",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260905-cisjordanie-face-aux-violences-des-colons-l-ambassadeur-des-%C3%A9tats-unis-en-isra%C3%ABl-brandit-la-menace",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 21:34:05 GMT"
+    },
+    {
+      "title": "Spider-Man: Brand New Day sets yet another box office record over a month after its release in theaters",
+      "summary": "Tom Holland flick surpassed 2015’s ‘Star Wars: The Force Awakens’ in reaching a crucial threshold",
+      "link": "https://www.independent.co.uk/arts-entertainment/films/news/spider-man-brand-new-day-box-office-record-b3045360.html",
+      "source": "The Independent",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 21:18:19 GMT"
+    },
+    {
+      "title": "Le Standard tient son match référence contre l’Antwerp",
+      "summary": "Le Standard tient son match référence contre l’Antwerp\n\n\t\n  \n  Photo News  \n\n\tPremier choc, premier gros test. Face à l’Antwerp, certes en pleine reconstruction, le Standard était mis à l’épreuve. Les Liégeois se veulent plus dominants cette saison, ils devaient encore le prouver face à un plat de résistance plus copieux. Les 60% de possession de balle en leur faveur à la pause suffisaient à prouv",
+      "link": "http://www.lesoir.be/769252/article/2026-09-05/le-standard-tient-son-match-reference-contre-lantwerp",
+      "source": "Le Soir",
+      "lang": "fr",
+      "country": "Belgique",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 21:06:28 +0000"
+    },
+    {
+      "title": "D1A : nouvelle défaite pour la RAAL La Louvière qui s’incline lourdement à Saint-Trond (4-0)",
+      "summary": "D1A : nouvelle défaite pour la RAAL La Louvière qui s’incline lourdement à Saint-Trond (4-0)\n\n\t\n  \n  BELGA  \n\n\tDeux questions accompagnaient le déplacement des Loups au Stayen ce samedi soir. La première : dans quelle mesure le premier point enfin engrangé le week-end précédent lors de la réception de Malines allait-il faire du bien au moral ? La deuxième : dans quelle mesure la fin du mercato ave",
+      "link": "http://www.lesoir.be/769250/article/2026-09-05/d1a-nouvelle-defaite-pour-la-raal-la-louviere-qui-sincline-lourdement-saint",
+      "source": "Le Soir",
+      "lang": "fr",
+      "country": "Belgique",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 20:42:23 +0000"
+    },
+    {
+      "title": "Carlota Salazar, una de las primeras graduadas en el 'boom' de la IA: \"Es una carrera en la que ganas sí o sí\"",
+      "summary": "En un mundo donde la inteligencia artificial se está llevando todas las miradas, los jóvenes luchan con los efectos que esto puede tener en el mercado laboral&nbsp;Leer",
+      "link": "https://www.elmundo.es/economia/2026/09/05/6a591393e85eceaf5b8b4590.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 22:41:31 +0200"
+    },
+    {
+      "title": "Guerre en Ukraine : les discussions entre Vladimir Poutine et les émissaires américains ont pris fin",
+      "summary": "Guerre en Ukraine : les discussions entre Vladimir Poutine et les émissaires américains ont pris fin\n\n\t\n  \n  Le président russe (au centre) a rencontré pendant environ trois heures les émissaires américains. - AFP.  \n\n\tVladimir Poutine a rencontré samedi les émissaires américains Steve Witkoff et Jared Kushner, porteurs selon Donald Trump d’une proposition destinée à mettre fin au conflit en Ukrai",
+      "link": "http://www.lesoir.be/769249/article/2026-09-05/guerre-en-ukraine-les-discussions-entre-vladimir-poutine-et-les-emissaires",
       "source": "Le Soir",
       "lang": "fr",
       "country": "Belgique",
       "themes": [
         "politique_nationale",
-        "economie"
+        "geopolitique"
       ],
-      "pubDate": "Sat, 05 Sep 2026 04:00:20 +0000"
+      "pubDate": "Sat, 05 Sep 2026 20:35:34 +0000"
     },
     {
-      "title": "‘RAMageddon’ hits consumer electronics as AI drains chip supply",
-      "summary": "Prices for phones, laptops and gaming consoles already up and retailers forecasting further increases",
-      "link": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
+      "title": "Guerre en Iran: les Gardiens de la Révolution disent avoir attaqué des pétroliers liés aux États-Unis en représailles aux frappes",
+      "summary": "Les États-Unis ont annoncé avoir frappé et détruit trois pétroliers iraniens en riposte à des tentatives d’attaques au missile contre des navires de guerre.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-promet-des-represailles-plus-dures-si-les-attaques-americaines-se-poursuivent-20260905",
+      "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 22:04:37 +0200"
+    },
+    {
+      "title": "‘Grief becomes a routine’: Farhana lost five babies. A ‘culture of silence’ exacerbated her pain",
+      "summary": "A first-of-its-kind study shows the prevalence of miscarriage in Australia, but experts fear multicultural groups remain underrepresentedFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOn a quiet street in western Sydney, Farhana Laffernis races her curious English staffy and boisterous three-year-old daughter in the front door.Insid",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/06/grief-becomes-a-routine-farhana-lost-five-babies-a-culture-of-silence-exacerbated-her-pain-ntwnfb",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 20:00:45 GMT"
+    },
+    {
+      "title": "Présidentielle 2027 : Philippe Aghion étrille les propositions économiques de Marine Le Pen et Jean-Luc Mélenchon",
+      "summary": "Le prix Nobel d’économie a notamment affirmé que la candidate RN à la prochaine présidentielle faisait «semblant d’être raisonnable», dans un entretien accordé à La Tribune Dimanche.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-philippe-aghion-etrille-les-propositions-economiques-de-marine-le-pen-et-jean-luc-melenchon-20260905",
+      "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "economie"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 21:59:48 +0200"
+    },
+    {
+      "title": "Élections régionales en Allemagne: en Saxe-Anhalt, un grand rassemblement pour dire «non» à l'AfD",
+      "summary": "En Allemagne, un grand rassemblement de la société civile est organisé ce 5 septembre 2026 à Magdebourg, capitale de la Saxe-Anhalt, en ex-Allemagne de l’Est. C’est là que l’AfD, parti d’extrême droite, pourrait remporter demain une élection régionale. Ce serait une première depuis la Seconde Guerre mondiale. Ils étaient des milliers à manifester pour la démocratie.",
+      "link": "https://www.rfi.fr/fr/europe/20260905-%C3%A9lections-r%C3%A9gionales-en-allemagne-en-saxe-anhalt-un-grand-rassemblement-pour-dire-non-%C3%A0-l-afd",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 19:57:06 GMT"
+    },
+    {
+      "title": "UNESCO-80 : La Tunisie participe aux consultations sur le projet de réforme de l’Organisation",
+      "summary": "Le Repr&#233;sentant permanent de la Tunisie aupr&#232;s de l&#8217;Organisation des Nations Unies pour l&#8217;&#233;ducation, la science et la culture (UNESCO), Dhia Khaled, a particip&#233; &#224; la r&#233;union d&#8217;information pr&#233;sid&#233;e par le Directeur g&#233;n&#233;ral de l&#8217;Organisation, Khaled El Anany, hier vendredi. Cette r&#233;union a &#233;t&#233; consacr&#233;e &#2",
+      "link": "https://www.lapresse.tn/2026/09/05/unesco-80-la-tunisie-participe-aux-consultations-sur-le-projet-de-reforme-de-lorganisation/",
+      "source": "La Presse (Tunisie)",
+      "lang": "fr",
+      "country": "Tunisie",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 19:51:16 +0000"
+    },
+    {
+      "title": "Ingebrigtsen sorry for calling 1500m rivals ‘losers’ but maintains Hocker ‘acted cowardly’",
+      "summary": "Fiery Diamond League comments partially walked backOn Hocker: ‘Cole and I talked it through after the race’The double Olympic champion Jakob Ingebrigtsen has issued a part-apology for calling his rivals “losers” and a “bunch of cowards” after a spicy men’s 1500m Diamond League final on Friday.However, Ingebrigtsen has continued to maintain that he was still right to accuse the Olympic 1500m champi",
+      "link": "https://www.theguardian.com/sport/2026/sep/05/jakob-ingebrigtsen-sorry-for-calling-1500m-rivals-maintains-cole-hocker-acted-cowardly-athletics-diamond-league",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 19:47:35 GMT"
+    },
+    {
+      "title": "Oasis: Don’t Look Back in Anger review – mammoth tour movie brings the joy and poignancy of reunion",
+      "summary": "The Gallagher brothers’ comeback concerts are given the full fan-worship treatment, but it’s impossible to begrudge the euphoria they have created“Hello … hello … It’s good to be back.” With these words – and the unfortunate possibility of a royalty payment to a certain disgraced ex-pop star – this highly enjoyable fan-worship documentary revives the memory of last year’s staggering and already my",
+      "link": "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 19:30:44 GMT"
+    },
+    {
+      "title": "Rego admite parte de responsabilidad del Gobierno en la situación de \"desborde extraordinario\" de Ceuta",
+      "summary": "Rego reconoce que la coordinación del Gobierno \"tendría que haber sido más eficiente o más rápida\" y s suma a la autocrítica de Robles&nbsp;Leer",
+      "link": "https://www.elmundo.es/espana/2026/09/05/6a9c6babe85ece4e5e8b4570.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 21:22:54 +0200"
+    },
+    {
+      "title": "Présidentielle française de 2027: le grand angle mort de la culture",
+      "summary": "CHRONIQUE. Entre obsession identitaire et soumission à la doxa néolibérale, la course à l’Elysée s’ouvre sur un grand vide de projet: l’art et la culture sont totalement absents des propositions d’une grande partie des candidatsHuit mois nous séparent de cette élection cruciale en France et déjà, les discussions s’avèrent aussi brûlantes que l’été qui s’achève. A peine la canicule retombée, le cir",
+      "link": "https://www.letemps.ch/articles/presidentielle-2027-le-grand-angle-mort-de-la-culture",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 21:21:27 +0200"
+    },
+    {
+      "title": "Arteta v Alonso, part one: a desire for control and the theory behind the chaos | Jonathan Wilson",
+      "summary": "Mikel Arteta and Xabi Alonso prepare for an intriguing tactical battle in the first Premier League meeting between old friendsControl v chaos. On the one hand, the forces of order, regimented, playing in precise patterns and, on the other, something darker, more visceral, a method that acknowledges the imperfection of the human soul, the unknowability of football in all its randomness; better, tha",
+      "link": "https://www.theguardian.com/football/2026/sep/05/mikel-arteta-xabi-alonso-chelsea-arsenal",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 19:00:44 GMT"
+    },
+    {
+      "title": "Lewis Hamilton urges Ferrari to put full weight behind F1 title challenge",
+      "summary": "Light at end of tunnel is ‘getting dimmer’Team needs to show hunger and ‘passion’ Lewis Hamilton has suggested it is time his Ferrari team put their full weight behind his efforts to challenge for the Formula One world championship if he is to have a shot at the title, and warned his chances were diminishing with every race.Hamilton trails Kimi Antonelli, the championship leader, by 59 points with",
+      "link": "https://www.theguardian.com/sport/2026/sep/05/lewis-hamilton-calls-on-ferrari-to-put-full-weight-behind-f1-title-challenge",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 18:56:22 GMT"
+    },
+    {
+      "title": "«Les lois de la jungle», épisode 2: A Kinshasa, au rythme du charbon de bois",
+      "summary": "FEUILLETON. Les habitants de la capitale emploient ce combustible artisanal pour cuisiner. Il s’agit d’une des causes majeures de la déforestation au Congo\n\n\n  \n    \n      \n      \n    \n    \n      \n    \n  \n  Entre 50&amp;nbsp;000&amp;nbsp;et 100&amp;nbsp;000&amp;nbsp;hectares de forêts partent chaque année en fumée, dans un rayon de 500&amp;nbsp;km autour de Kinshasa.\n\nLa route est étroite, encombr",
+      "link": "https://www.letemps.ch/articles/les-lois-de-la-jungle-episode-2-a-kinshasa-au-rythme-du-charbon-de-bois",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 20:55:34 +0200"
+    },
+    {
+      "title": "Exposition : La photographie tunisienne au zénith des arts italiens",
+      "summary": "Aujourd&#8217;hui samedi 5 septembre, &#224; 17h30, dans la localit&#233; sicilienne de Gibellina, proclam&#233;e capitale italienne des Arts contemporains pour l&#8217;ann&#233;e 2026, aura lieu le vernissage d&#8217;une exposition photographique intitul&#233;e &#171;Terre de Sicile et Tunisie&#8211;M&#233;moire partag&#233;e&#187;. L&#8217;&#233;v&#233;nement se d&#233;roulera en l&#8217;espace ",
+      "link": "https://www.lapresse.tn/2026/09/05/exposition-la-photographie-tunisienne-au-zenith-des-arts-italiens/",
+      "source": "La Presse (Tunisie)",
+      "lang": "fr",
+      "country": "Tunisie",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 18:45:20 +0000"
+    },
+    {
+      "title": "Xiamen : Le choix chinois pour donner un nouvel élan à l’Accord Bbnj",
+      "summary": "La Chine propose sa ville maritime du Fujian pour accueillir le Secr&#233;tariat d&#8217;un accord entr&#233; en vigueur en janvier 2026. Derri&#232;re cette candidature, P&#233;kin met en avant l&#8217;exp&#233;rience environnementale de Xiamen, ses capacit&#233;s scientifiques et sa conception d&#8217;une coop&#233;ration internationale fond&#233;e sur le partage des connaissances. La Presse &#8",
+      "link": "https://www.lapresse.tn/2026/09/05/xiamen-le-choix-chinois-pour-donner-un-nouvel-elan-a-laccord-bbnj/",
+      "source": "La Presse (Tunisie)",
+      "lang": "fr",
+      "country": "Tunisie",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 18:30:26 +0000"
+    },
+    {
+      "title": "Glasner claims VAR was ‘guessing’ after Forest are denied winner against Spurs",
+      "summary": "Oliver Glasner argued there was insufficient evidence to disallow Neco Williams’s goal against Tottenham, accusing the video assistant referee Peter Bankes of guessing that the Nottingham Forest defender handled and said ruling it out weakens the officials’ authority. Midway through the second half, Williams stooped to head in on the goalline as Sandro Tonali attempted to hook the ball clear after",
+      "link": "https://www.theguardian.com/football/2026/sep/05/nottingham-forest-tottenham-premier-league-match-report",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 17:59:25 GMT"
+    },
+    {
+      "title": "L’Afrique agrandie et les États-Unis rétrécis : L’ONU adopte une réforme de la cartographie mondiale plus proche de la réalité",
+      "summary": "Cette initiative, port&#233;e par le Togo et l&#8217;Union africaine et coparrain&#233; par la France, vise &#224; encourager les organisations internationales et les &#201;tats &#224; utiliser des repr&#233;sentations cartographiques de type &#171;Equal Earth&#187;. L&#8217;Assembl&#233;e g&#233;n&#233;rale de l&#8217;ONU a adopt&#233;, hier, &#224; 164 voix pour, une contre (les Etats-Unis) et s",
+      "link": "https://www.lapresse.tn/2026/09/05/lafrique-agrandie-et-les-etats-unis-retrecis-lonu-adopte-une-reforme-de-la-cartographie-mondiale-plus-proche-de-la-realite/",
+      "source": "La Presse (Tunisie)",
+      "lang": "fr",
+      "country": "Tunisie",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 17:45:05 +0000"
+    },
+    {
+      "title": "En plein essor, l'ONU parvient à un premier accord sur les armes autonomes",
+      "summary": "Après plusieurs années de discussions, près de 130 pays ont trouvé samedi 5 septembre un premier accord à l'ONU sur un texte définissant les armes autonomes, une première étape avant d'éventuelles négociations en vue d'un traité international.",
+      "link": "https://www.rfi.fr/fr/europe/20260905-en-plein-essor-l-onu-parvient-%C3%A0-un-premier-accord-sur-les-armes-autonomes",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 17:44:54 GMT"
+    },
+    {
+      "title": "Trump and Musk Super Pacs boost spending on midterm elections",
+      "summary": "Maga Inc and America Pac drop millions on US House and Senate candidates to keep Republicans in control of Congress",
+      "link": "https://www.ft.com/content/d8fa06e5-5929-47c9-815c-47d2221fc9e9?syn-25a6b1a6=1",
       "source": "Financial Times",
       "lang": "en",
       "country": "Royaume-Uni",
       "themes": [
-        "ia_tech",
-        "jeux_video"
+        "politique_nationale"
       ],
-      "pubDate": "Sat, 05 Sep 2026 04:00:05 GMT"
+      "pubDate": "Sat, 05 Sep 2026 17:37:49 GMT"
+    },
+    {
+      "title": "L’US Open de tennis, le tournoi dont vous êtes le héros",
+      "summary": "Si le tennis manque de stars depuis la retraite de Federer, Nadal et de Serena Williams, la Fédération américaine continue d’engranger des dollars en plaçant le spectateur au centre d’une stratégie où tous les prix sont permis si le tournoi devient «the place to be»L’ambiance est tiède en salle de conférences de presse, malgré les vrombissants efforts de la climatisation. Depuis le début de l’US O",
+      "link": "https://www.letemps.ch/articles/l-us-open-de-tennis-le-tournoi-dont-vous-etes-le-heros",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 19:37:30 +0200"
+    },
+    {
+      "title": "L'armée américaine affirme avoir «détruit» trois pétroliers iraniens, Téhéran réplique",
+      "summary": "L'armée américaine a annoncé avoir détruit samedi 5 septembre 2026 trois pétroliers iraniens dans la région du Golfe, en riposte à une attaque de Téhéran contre deux de ses navires, alors que les États-Unis répètent vouloir accentuer la pression économique contre l'Iran.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260905-l-arm%C3%A9e-am%C3%A9ricaine-affirme-avoir-d%C3%A9truit-trois-p%C3%A9troliers-iraniens",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 17:35:53 GMT"
+    },
+    {
+      "title": "Les armes autonomes font l’objet d’un premier accord à l’ONU, après dix ans de discussions",
+      "summary": "Quelque 128 États sont parvenus à Genève à définir ces systèmes létaux et à établir des principes de base. L’étape décisive interviendra en novembre: la tenue de négociations pour un traité contraignantAprès plusieurs années de discussions, près de 130 pays ont trouvé samedi un premier accord à l’ONU sur un texte définissant les armes autonomes, une première étape avant d’éventuelles négociations ",
+      "link": "https://www.letemps.ch/articles/les-armes-autonomes-font-l-objet-d-un-premier-accord-a-l-onu-apres-dix-ans-de-discussions",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "politique_nationale",
+        "politique_internationale",
+        "geopolitique",
+        "ia_tech"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 19:17:11 +0200"
+    },
+    {
+      "title": "«Entre le taxi, la soirée et un verre en plus, j’en suis déjà à 60 euros» : avec l’inflation, trouver l’amour n’a jamais coûté aussi cher",
+      "summary": "Sorties, repas, abonnements aux applications de rencontres... Alors que l’inflation fait son retour depuis le début du conflit au Moyen-Orient, trouver l’âme sœur devient aussi, de plus en plus, une question de budget.",
+      "link": "https://www.lefigaro.fr/conso/entre-le-taxi-la-soiree-et-un-verre-en-plus-j-en-suis-deja-a-60-euros-avec-l-inflation-trouver-l-amour-n-a-jamais-coute-aussi-cher-20260905",
+      "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique",
+        "economie"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 19:00:00 +0200"
+    },
+    {
+      "title": "De ringard à icône TikTok, comment le cavalier brodé de Ralph Lauren s’est remis en selle",
+      "summary": "Après un coup de projecteur de Taylor Swift et portée par le fantasme d’une Amérique élégante, la marque connaît un spectaculaire retour en grâce, aussi bien culturel qu’économique. Un succès qui la positionne sur le créneau du luxe accessibleA Zurich, à quelques pas de la Paradeplatz, il est désormais possible de boire un thé ou un café siglé Ralph Lauren sous le regard de Polo Bear, l’ours prepp",
+      "link": "https://www.letemps.ch/articles/de-ringard-a-icone-tiktok-comment-le-cavalier-brode-de-ralph-lauren-s-est-remis-en-selle",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 18:34:12 +0200"
+    },
+    {
+      "title": "Le PQ gèlerait les salaires des députés, des ministres et des p.-d.g. des sociétés d’État",
+      "summary": "Ces mesures seraient en vigueur jusqu’au « retour de l’équilibre budgétaire » au Québec.",
+      "link": "https://www.ledevoir.com/politique/quebec/1006847/pq-gelerait-salaires-deputes-ministres-p-g-societes-etat",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 12:05:00 -0400"
+    },
+    {
+      "title": "Guerre en Ukraine : Trump envoie deux émissaires à Moscou, Poutine ordonne l’arrêt des frappes sur Kiev pour trois jours",
+      "summary": "« 20 Minutes » fait le point pour vous tous les soirs sur le conflit en Ukraine. Ce samedi 5 septembre a été marqué par l’arrivée des émissaires américains Jared Kushner et Steve Witkoff en Russie",
+      "link": "https://www.20minutes.fr/monde/ukraine/4242966-20260905-guerre-ukraine-trump-envoie-deux-emissaires-moscou-poutine-ordonne-arret-frappes-kiev-trois-jours?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 15:53:28 GMT"
+    },
+    {
+      "title": "L’armée américaine a frappé trois pétroliers iraniens",
+      "summary": "L’Iran continue de verrouiller le stratégique détroit d’Ormuz, et Washington poursuit son blocus des ports iraniens.",
+      "link": "https://www.ledevoir.com/monde/moyen-orient/1006844/armee-americaine-dit-avoir-detruit-trois-petroliers-iraniens",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 11:50:00 -0400"
+    },
+    {
+      "title": "La catastrophe au Népal, un avant-goût de ce qui attend toutes les régions montagneuses",
+      "summary": "Le réchauffement particulièrement rapide des régions montagneuses fait fondre la glace logée dans les fissures des parois rocheuses, qui joue le rôle de ciment. Et de nombreux glaciers d’altitude sont dans le même état que celui qui s’est effondré le 26 août au Népal, préviennent les chercheurs interrogés par le “New Scientist”.",
+      "link": "https://www.courrierinternational.com/article/climat-la-catastrophe-au-nepal-un-avant-gout-de-ce-qui-attend-toutes-les-regions-montagneuses_267221",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 17:42:19 +0200"
+    },
+    {
+      "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
+      "summary": "Officials said US aircraft carrier and destroyer avoided attacks before three Iranian tankers were struck by the USThe US military said Saturday it struck three Iranian oil tankers after US navy warships came under missile attack, further escalating tensions in the region and warning it would “if necessary, destroy Iran’s limited and exposed oil fleet”.According to the military, a US aircraft carr",
+      "link": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 15:41:22 GMT"
+    },
+    {
+      "title": "Yémen: près de 200 morts dans une nouvelle offensive des rebelles houthis vers la ville de Taëz",
+      "summary": "Au Yémen, des affrontements importants entre forces progouvernementales et Houthis ont eu lieu depuis le jeudi 3 septembre 2026, faisant près de 200 morts, dont des civils. Ce sont les combats les plus meurtriers depuis des années.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260905-y%C3%A9men-pr%C3%A8s-de-200-morts-dans-une-nouvelle-offensive-des-rebelles-houthis-vers-la-ville-de-ta%C3%ABz",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 15:41:21 GMT"
+    },
+    {
+      "title": "Entre Berne et les cantons, le mercato politique est lancé",
+      "summary": "CHRONIQUE. Alors que le mercato estival de football a pris fin cette semaine, celui de la politique suisse ne fait que commencer. A un an des élections fédérales, et avec plusieurs scrutins cantonaux qui se succèdent, les élus naviguent entre la Coupole et leur canton. Mais attention aux «Sesselkleber», écrit la cheffe de la rubrique Suisse du «Temps» Romaine MorardIl a pris tout le monde par surp",
+      "link": "https://www.letemps.ch/articles/entre-berne-et-les-cantons-le-mercato-politique-est-lance",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 17:20:15 +0200"
+    },
+    {
+      "title": "Des nouveaux virus fabriqués par l’intelligence artificielle",
+      "summary": "Grâce à des modèles d’intelligence artificielle, des chercheurs ont conçu 16 nouveaux virus capables d’infecter une bactérie. Une première qui pourrait se révéler utile dans la lutte contre l’antibiorésistance mais qui soulève de nombreuses questions en matière de biosécurité.",
+      "link": "https://www.mediapart.fr/journal/culture-et-idees/050926/des-nouveaux-virus-fabriques-par-l-intelligence-artificielle",
+      "source": "Mediapart",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 17:15:45 +0200"
+    },
+    {
+      "title": "« Manger est un acte culturel, social, affectif et symbolique. C’est pourquoi les injonctions alimentaires ont leurs limites »",
+      "summary": "Sommes-nous vraiment libres de choisir ce que nous mangeons ? Si notre alimentation reste individuelle dans son expression, elle est profondément collective dans sa construction, explique Kilien Stengel, enseignant chercheur à l’université de Tours, dans une tribune au « Monde ».",
+      "link": "https://www.lemonde.fr/idees/article/2026/09/05/manger-est-un-acte-culturel-social-affectif-et-symbolique-c-est-pourquoi-les-injonctions-alimentaires-ont-leurs-limites_6766354_3232.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 17:00:08 +0200"
+    },
+    {
+      "title": "Les Louanges et Arielle Soucy éclairent notre monde au FME",
+      "summary": "La 24e édition du Festival de musique émergente d’Abitibi-Témiscamingue bat son plein à Rouyn-Noranda jusqu’à dimanche.",
+      "link": "https://www.ledevoir.com/culture/musique/1006841/louanges-arielle-soucy-eclairent-notre-monde-fme",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 10:51:55 -0400"
+    },
+    {
+      "title": "Suède: les positions prorusses d'une membre du parti d'extrême droite SD créent des remous",
+      "summary": "À une semaine des législatives, les Démocrates de Suède, le parti d'extrême droite, se retrouvent au cœur d’une polémique qui touche à un sujet particulièrement sensible dans le pays : les ingérences russes. Une enquête révèle les activités prorusses d’une salariée du parti au Parlement, proche d’un de ses dirigeants. Pour une formation qui aspire à entrer au gouvernement, ces révélations sont emb",
+      "link": "https://www.rfi.fr/fr/europe/20260905-su%C3%A8de-les-positions-prorusses-d-une-membre-du-parti-d-extr%C3%AAme-droite-sd-cr%C3%A9ent-des-remous",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 14:46:20 GMT"
+    },
+    {
+      "title": "Stefano Stoll, directeur d’Images Vevey: «On fait de la démesure sur mesure»",
+      "summary": "Ce week-end s’ouvre la 10e édition d’Images Vevey, biennale des arts visuels qui s’est fait une spécialité de penser autrement la manière de présenter des expositions photographiques. Entretien avec son directeur et fondateur, Stefano StollDepuis 2008, Images Vevey réenchante tous les deux ans l’espace public à travers près de 50&nbsp;expositions se déployant dans toute la ville. Si ce rendez-vous",
+      "link": "https://www.letemps.ch/articles/stefano-stoll-directeur-d-images-vevey-on-fait-de-la-demesure-sur-mesure",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 16:28:53 +0200"
+    },
+    {
+      "title": "“C’était ça ou mourir”, de Thélyson Orélien, un roman québécois qui “ouvre les yeux et le cœur”",
+      "summary": "Paru le 19 août chez Grasset, le premier roman de Thélyson Orélien, écrivain québécois d’origine haïtienne, est l’un des événements de cette rentrée littéraire française. Mais avant de conquérir l’Europe francophone, “C’était ça ou mourir” a séduit la critique québécoise, emportée par ce récit “doux et poignant” de l’exil d’un professeur d’histoire de Port-au-Prince chassé de son pays par la viole",
+      "link": "https://www.courrierinternational.com/article/en-librairie-c-etait-ca-ou-mourir-de-thelyson-orelien-un-roman-quebecois-qui-ouvre-les-yeux-et-le-c-ur_263416",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 16:07:36 +0200"
+    },
+    {
+      "title": "Pour ses 25 ans, le Laténium invite les visiteurs à se plonger dans l’archéologie pour repenser l’avenir",
+      "summary": "Le plus grand musée archéologique de Suisse fêtera les 12 et 13 septembre son 25e anniversaire. De nombreuses animations permettront au public de confronter passé, présent et futur. A cette occasion, plongée dans l’histoire de l’institutionQue peuvent nous apprendre les sociétés du passé pour imaginer et construire les mondes de demain? Cette question sera au centre des discussions et des réflexio",
+      "link": "https://www.letemps.ch/articles/pour-ses-25-ans-le-latenium-invite-les-visiteurs-a-se-plonger-dans-l-archeologie-pour-repenser-l-avenir",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 16:05:49 +0200"
+    },
+    {
+      "title": "RDC: l'incendie d'une salle des fêtes à Kinshasa fait au moins une dizaine de morts et de nombreux blessés",
+      "summary": "En République démocratique du Congo (RDC), une fête de mariage a tourné au drame, dans la nuit du vendredi 4 au samedi 5 septembre 2026, à Kinshasa. Le bilan provisoire est de 12 morts et de nombreux blessés, selon un communiqué du gouvernement. L’incendie s’est déclaré dans une salle située au premier étage d’un bâtiment commercial du boulevard Triomphal.",
+      "link": "https://www.rfi.fr/fr/afrique/20260905-rdc-au-moins-22-morts-et-de-nombreux-bless%C3%A9s-dans-un-incendie-d-une-salle-de-f%C3%AAtes",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 13:57:21 GMT"
+    },
+    {
+      "title": "La grotte du glacier du Rhône sur la sellette",
+      "summary": "L’avenir de la grotte touristique du glacier du Rhône semble scellé. Le Conseil d’Etat valaisan a rejeté le recours de l’exploitant contre une décision ordonnant la remise en état du site et la cessation de son exploitationLe gouvernement valaisan estime que la galerie et les bâches installées sur le glacier du Rhône auraient dû faire l’objet d’autorisations préalables. Il considère également qu’u",
+      "link": "https://www.letemps.ch/articles/la-grotte-du-glacier-du-rhone-sur-la-sellette",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 15:45:47 +0200"
+    },
+    {
+      "title": "Le Centre entame sa campagne pour les élections fédérales de 2027",
+      "summary": "En assemblée à Granges-Paccot ce samedi, le parti centriste s’est rassemblé autour de la réclamation d’un second siège au Conseil fédéralLe Centre Suisse entre en campagne en vue des élections fédérales de 2027. Lors de l’assemblée des délégués samedi à Granges-Paccot (FR), il a affiché son ambition de décrocher un deuxième siège au Conseil fédéral. Le Centre Suisse a aussi donné ses mots d’ordre ",
+      "link": "https://www.letemps.ch/articles/le-centre-entame-sa-campagne-pour-les-elections-federales-de-2027",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 15:17:12 +0200"
+    },
+    {
+      "title": "Les émissaires de Trump à Moscou pour des négociations",
+      "summary": "Selon Trump, Jared Kushner et Steve Witkoff arrivent avec une proposition pour mettre fin à la guerre en Ukraine.",
+      "link": "https://www.ledevoir.com/monde/1006826/emissaires-trump-moscou-negociations",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 09:03:00 -0400"
+    },
+    {
+      "title": "After overtourism besieged Big Sur, the worst finally happened: ‘People kept saying someone is going to die’",
+      "summary": "The coastal community in California had already been devastated by landslides and wildfires before a fatal crashCalifornia’s rugged Big Sur coastline is often called a slice of heaven, 120 miles (195km) of unspoiled rocky promontories, sandy beaches and redwood forests at the foot of the Santa Lucia mountains. This year, it has endured a long summer of hell.Wildfires, road closures and repeated di",
+      "link": "https://www.theguardian.com/us-news/2026/sep/05/california-big-sur-overtourism",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 13:00:36 GMT"
+    },
+    {
+      "title": "Dans «A voix haute», la romancière Polina Panassenko fait son pèlerinage au goulag",
+      "summary": "Dans son deuxième roman, de retour en Russie quinze ans après l’avoir quittée, Polina Panassenko brave les interdits familiaux pour retrouver la trace d’un aïeul déporté. L'autrice, qui vient de remporter le Prix littéraire «Le Monde», est à l'affiche du Livre sur les quais, à MorgesLa double culture ressemble parfois à ces palais des glaces qu’on trouve dans les fêtes foraines: un labyrinthe où c",
+      "link": "https://www.letemps.ch/articles/dans-a-voix-haute-la-romanciere-polina-panassenko-fait-son-pelerinage-au-goulag",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 14:58:13 +0200"
+    },
+    {
+      "title": "Dans l’Himalaya, 10 jours après la terrible crue, un troisième rescapé est extrait d’un tunnel",
+      "summary": "Un troisième survivant a pu être sorti du tunnel d'un chantier dans le nord du Népal après la dramatique inondation du 26 août. Une femme a aussi été retrouvée dans une maisonLes secours sont parvenus samedi à extraire un troisième survivant, de nationalité chinoise, des tunnels ensevelis du nord du Népal qu’ils explorent sans relâche depuis la crue meurtrière du 26&nbsp;août dans l’Himalaya.«Une ",
+      "link": "https://www.letemps.ch/articles/dans-l-himalaya-10-jours-apres-la-terrible-crue-un-troisieme-rescape-est-extrait-d-un-tunnel",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "politique_nationale",
+        "politique_internationale",
+        "geopolitique",
+        "ia_tech"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 14:55:07 +0200"
+    },
+    {
+      "title": "Jérôme Fourquet : « Les Verts ne profitent pas sur le plan électoral des catastrophes climatiques ou naturelles »",
+      "summary": "ANALYSE - Y aura-t-il à la présidentielle un impact électoral des canicules et de leurs conséquences ? Dans une note publiée par la Fondation Jean Jaurès et Le Figaro, Jérôme Fourquet souligne que les traumatismes climatiques ou écologiques récents n’ont pas profité à la formation écologiste.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/jerome-fourquet-les-verts-ne-profitent-pas-sur-le-plan-electoral-des-catastrophes-climatiques-ou-naturelles-20260905",
+      "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 14:54:48 +0200"
+    },
+    {
+      "title": "A Venise, la biennale Homo Faber célèbre l’artisanat face à l’emprise de l’IA",
+      "summary": "Jusqu’au 30 septembre sur l’île de San Giorgio Maggiore, la manifestation vénitienne présente 700 objets réalisés par 500 créateurs explorant le langage de la main humaine. Une quête de beauté et de sensQuoi de mieux, afin de revaloriser notre condition humaine mise à mal par l’automatisation croissante et les progrès de l’intelligence artificielle, que de contempler ce qu’est capable de faire la ",
+      "link": "https://www.letemps.ch/articles/a-venise-la-biennale-homo-faber-celebre-l-artisanat-face-a-l-emprise-de-l-ia",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 14:53:20 +0200"
+    },
+    {
+      "title": "After nine months at sea, a muted stay in Thailand for crew of USS Abraham Lincoln",
+      "summary": "The aircraft carrier’s record-long Iran war deployment, which some of the crew described as a grueling odyssey, is winding down at last.",
+      "link": "https://www.washingtonpost.com/world/2026/09/05/crew-uss-abraham-lincoln-spends-few-days-thailand-after-nine-months-sea/",
+      "source": "The Washington Post",
+      "lang": "en",
+      "country": "États-Unis",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 12:23:56 +0000"
+    },
+    {
+      "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
+      "summary": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on InstagramIn outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner Herzog has created some of cinema’s most memorable monomaniacs – characters singularly obsessed with finding mythical cities made of gold, with building opera houses in the middle of th",
+      "link": "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 12:15:04 GMT"
+    },
+    {
+      "title": "The trollers v the scrollers: Edith Pritchett’s Bayeux tapestry for the modern age",
+      "summary": "Didn’t manage to get tickets to the exhibition of the 11th-century artwork at the British Museum in London? Don’t worry, our cartoonist has got you covered, capturing the many battles of our times in her alternative version Continue reading...",
+      "link": "https://www.theguardian.com/world/ng-interactive/2026/sep/05/alternative-bayeux-tapestry-2026-edith-pritchett",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 12:00:37 GMT"
+    },
+    {
+      "title": "Jay-Z 30 tour review – the sheer profusion of nailed-on classics is dizzying",
+      "summary": "Tottenham Hotspur Stadium, LondonEven though Beyoncé rumours prove unfounded, there are plenty of guests, from Idris Elba to Lauryn Hill – but this show doesn’t need cameos to lift itJay-Z’s first solo tour in nine years bills itself as a celebration: it marks the 30th anniversary of his debut album, Reasonable Doubt. But it feels less concerned with nostalgic reverie than a show of strength in th",
+      "link": "https://www.theguardian.com/music/2026/sep/05/jay-z-30-tour-review",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique",
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 11:47:58 GMT"
+    },
+    {
+      "title": "Rescuers in Nepal find two more people alive after flash flood disaster",
+      "summary": "Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot found 10 days into rescue operationEmergency responders have rescued a Chinese man and a Nepali woman in two separate operations as authorities continued to search for thousands of people missing 10 days after massive floods hit Nepal.The Nepali military said on Saturday a joint team comprising personnel from its army and South",
+      "link": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 11:26:30 GMT"
+    },
+    {
+      "title": "Financement politique: Nigel Farage et Reform UK dans la tourmente après la diffusion d’un reportage en caméra cachée",
+      "summary": "Un reportage mettant en scène des prétendus donateurs face à Nigel Farage et deux de ses plus proches collaborateurs fragilise Reform UK. Il y est question de contourner la loi britannique pour un don de 500 000 livres de la part d’un citoyen américain. Le parti anti-immigration dénonce «une supercherie»Le parti anti-immigration Reform UK de Nigel Farage traverse à nouveau des turbulences. Deux re",
+      "link": "https://www.letemps.ch/articles/financement-politique-nigel-farage-et-reform-uk-dans-la-tourmente-apres-la-diffusion-d-un-reportage-en-camera-cachee",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "politique_nationale",
+        "environnement_climat"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 13:12:02 +0200"
+    },
+    {
+      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
+      "summary": "Exclusive: Guardian investigation reveals targeting of World Central Kitchen convoy was result of widely used military tacticDeath on the road to Rafah: the night the IDF targeted WCK aid workersSeven aid workers killed in an airstrike in Gaza were marked as targets under an Israeli military practice of establishing guilt by association, a Guardian investigation shows.A top Israeli military prosec",
+      "link": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 11:08:31 GMT"
+    },
+    {
+      "title": "‘This is colonialism for clicks’: the influencers attempting to meet and film the world’s most isolated tribes",
+      "summary": "A new breed of adventurer is chasing internet fame by targeting uncontacted peoples. Critics say they are risking the wellbeing of these remote communities – and their own livesHe set out from the beach around midnight, packing his camera, a coconut and a can of Diet Coke. Mykhailo Polyakov – then 24 and a native of Scottsdale, Arizona – pointed his inflatable dinghy out towards the open water, ke",
+      "link": "https://www.theguardian.com/world/2026/sep/05/colonialism-for-clicks-influencers-attempting-meet-film-worlds-most-isolated-tribes",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "politique_internationale",
+        "geopolitique",
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 11:00:35 GMT"
+    },
+    {
+      "title": "A Brazilian documentary taught me the healing power of music",
+      "summary": "Favela Rising showed me how a grassroots movement can change the lives of young people. Its ethos is baked into the youth charity I work for – and where two of Ezra Collective met• ‘Like painting with light’: photographer Temi Adegbayibi on capturing the energy of musicI grew up in Great Yarmouth listening to classical music, learning piano and violin, playing in an orchestra and singing the Beatl",
+      "link": "https://www.theguardian.com/culture/2026/sep/05/my-cultural-awakening-brazilian-documentary-favela-rising-kinetika-bloco",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 11:00:34 GMT"
+    },
+    {
+      "title": "L’Irlande est l’entrepôt numérique de l’Europe, mais à quel prix ?",
+      "summary": "L’Irlande s’est enrichie en attirant les géants de la tech. Mais derrière les milliards investis se profilent des tensions sur le réseau électrique et des objectifs climatiques menacés. Compte tenu de cette facture grandissante, le jeu en vaut-il encore la chandelle ? s’interroge l’“Irish Examiner”.",
+      "link": "https://www.courrierinternational.com/grand-format/opinion-l-irlande-est-l-entrepot-numerique-de-l-europe-mais-a-quel-prix_245139",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique",
+        "environnement_climat",
+        "ia_tech"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 12:46:27 +0200"
+    },
+    {
+      "title": "Paris, Dijon, Saint-Étienne : le Maroc s’invite à la rentrée culturelle française",
+      "summary": "Gastronomie, patrimoine, musique, photographie : le Maroc sera particulièrement à l’honneur dans la programmation culturelle française de cette rentrée.\nThe post Paris, Dijon, Saint-Étienne : le Maroc s’invite à la rentrée culturelle française appeared first on LesEco.ma.",
+      "link": "https://leseco.ma/culture/paris-dijon-saint-etienne-le-maroc-sinvite-a-la-rentree-culturelle-francaise.html",
+      "source": "Les Inspirations Éco",
+      "lang": "fr",
+      "country": "Maroc",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 10:35:52 +0000"
+    },
+    {
+      "title": "En hausse de 4,5%, plus de 14 millions de touristes accueillis à fin août 2026",
+      "summary": "Le Maroc a accueilli 14,1 millions de touristes à fin août 2026, en hausse de 4,5% par rapport à la même période de 2025, soit près de 608.000 arrivées additionnelles, selon le ministère du Tourisme, de l&#8217;Artisanat et de l&#8217;Économie sociale et solidaire. En effet, le mois d&#8217;août a franchi pour la première fois la [&#8230;]",
+      "link": "https://aujourdhui.ma/actualite/en-hausse-de-45-plus-de-14-millions-de-touristes-accueillis-a-fin-aout-2026",
+      "source": "Aujourd'hui le Maroc",
+      "lang": "fr",
+      "country": "Maroc",
+      "themes": [
+        "economie"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 10:15:52 +0000"
+    },
+    {
+      "title": "La France se mobilise pour mettre fin à la chasse à la marmotte : une “question d’ordre moral”",
+      "summary": "Déjà effective en Italie ou en Allemagne, l’interdiction de la chasse à la marmotte est demandée par des associations de défense de la nature. Au-delà du questionnement moral, des inquiétudes naissent au sujet de ses effectifs, constate le quotidien britannique “The Guardian”. Leur nombre serait en baisse en raison du dérèglement climatique.",
+      "link": "https://www.courrierinternational.com/article/animaux-la-france-se-mobilise-pour-mettre-fin-a-la-chasse-a-la-marmotte-une-question-d-ordre-moral_263952",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 12:05:28 +0200"
+    },
+    {
+      "title": "Captain calamity: Pete Hegseth under fire for ‘inept’ leadership of US military",
+      "summary": "The US defense secretary faces internal dissent and discord at the Pentagon, accused of focusing on culture war issues and his own political ambitions as the Iran war drags onIn a different Washington, under a different president, a return to the well-worn playbook of all-out sanctions to counter Iran might have been the signal for a publicity-hungry US secretary of defense to adopt a lower profil",
+      "link": "https://www.theguardian.com/us-news/2026/sep/05/pete-hegseth-pentagon-military",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique",
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 10:00:35 GMT"
+    },
+    {
+      "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
+      "summary": "Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidencyThe far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks after losing the election and still refusing to recognise the result, he summoned the heads of the armed forces to a meeting.The defence minister, Gen Paulo Sérgio Nogueira de Oliveira",
+      "link": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 10:00:34 GMT"
+    },
+    {
+      "title": "«C’est sans précédent» : une cinquantaine de hauts responsables militaires américains soumis au détecteur de mensonges",
+      "summary": "Une vaste enquête a été menée auprès de haut gradés de l’état-major interarmées après que des médias ont révélé que la guerre menée par les États-Unis contre l’Iran a épuisé des stocks de munitions essentielles.",
+      "link": "https://www.lefigaro.fr/international/c-est-sans-precedent-une-cinquantaine-de-hauts-responsables-militaires-americains-soumis-au-detecteur-de-mensonges-20260905",
+      "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 11:49:22 +0200"
+    },
+    {
+      "title": "Fado Festival : la magie de Lisbonne s’invite à Rabat",
+      "summary": "Les 10 et 11 septembre 2026, le Théâtre National Mohammed V de Rabat accueille la 9e édition marocaine du Fado Festival, véritable ambassadeur de la musique portugaise à travers le monde.\nThe post Fado Festival : la magie de Lisbonne s’invite à Rabat appeared first on LesEco.ma.",
+      "link": "https://leseco.ma/culture/fado-festival-la-magie-de-lisbonne-sinvite-a-rabat.html",
+      "source": "Les Inspirations Éco",
+      "lang": "fr",
+      "country": "Maroc",
+      "themes": [
+        "politique_internationale",
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 09:35:26 +0000"
+    },
+    {
+      "title": "Open Portfolio : Casablanca accueille la fine fleur des arts graphiques émergents",
+      "summary": "Du 4 au 6 septembre 2026, Casablanca devient la capitale internationale des arts graphiques émergents. La deuxième édition d’Open Portfolio-FIG investit le Forum de la Culture – Espace Sacré Cœur, ancienne cathédrale du Sacré-Cœur, pour trois jours de découverte, d’échanges et de création.\nThe post Open Portfolio : Casablanca accueille la fine fleur des arts graphiques émergents appeared first on ",
+      "link": "https://leseco.ma/culture/open-portfolio-casablanca-accueille-la-fine-fleur-des-arts-graphiques-emergents.html",
+      "source": "Les Inspirations Éco",
+      "lang": "fr",
+      "country": "Maroc",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 09:34:59 +0000"
+    },
+    {
+      "title": "Trove of documents reveals alleged chemical weapons stockpile in Sudan",
+      "summary": "A text message to a military officer involved in airstrikes included video of an apparent victim with charred skin, with the words: “Your cooking.”",
+      "link": "https://www.washingtonpost.com/world/2026/09/05/trove-documents-reveals-alleged-chemical-weapons-stockpile-sudan/",
+      "source": "The Washington Post",
+      "lang": "en",
+      "country": "États-Unis",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "title": "Deux héroïnes au cœur de contes inquiétants",
+      "summary": "Deux très beaux romans de cette rentrée prennent les chemins du fantastique pour mieux nous parler de notre monde: «Le Livre des souterrains»,\" \"de la nouvelle sensation littéraire Phœbe Hadjimarkos Clarke, et «Caesaria», de l’écrivaine suédoise Hanna Nordenhök.",
+      "link": "https://www.mediapart.fr/journal/culture-et-idees/050926/deux-heroines-au-coeur-de-contes-inquietants",
+      "source": "Mediapart",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 10:24:35 +0200"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : L'Iran promet des représailles « plus dures » si les attaques américaines se poursuivent",
+      "summary": "Revivez avec nous les informations sur le conflit au Moyen-Orient en ce samedi 5 septembre",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4242929-20260905-direct-guerre-moyen-orient-gnognotte-trump-prix-essence-plus-haut?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 08:24:30 GMT"
+    },
+    {
+      "title": "Bientôt en procès, Rachida Dati va réintégrer à sa demande la magistrature",
+      "summary": "L’ancienne ministre de la Justice et de la Culture a demandé à intégrer de nouveau la magistrature, malgré un procès en septembre",
+      "link": "https://www.20minutes.fr/justice/4242942-20260905-bientot-proces-rachida-dati-va-reintegrer-demande-magistrature?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale",
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 08:16:26 GMT"
+    },
+    {
+      "title": "Moches et pas chères, d’où vient cette épidémie d’affiches générées par intelligence artificielle ?",
+      "summary": "Elles pullulent depuis cet été : les affiches générées par IA sont de plus en plus utilisées par les petites entreprises ou les associations, malgré les critiques sur une qualité artistique médiocre",
+      "link": "https://www.20minutes.fr/high-tech/by-the-web/4242299-20260905-moches-cheres-vient-epidemie-affiches-generees-intelligence-artificielle?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 08:02:36 GMT"
+    },
+    {
+      "title": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?",
+      "summary": "A spate of serious safety incidents have increased fears about the power and impenetrability of the most advanced modelsPicture humanity in a boat being swept down a raging river, praying there is no Niagara Falls ahead. Or imagine standing with the pioneering physicists in 1942 before they triggered the first self-sustaining nuclear fission chain reaction beneath a Chicago stadium.These were two ",
+      "link": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique",
+        "ia_tech"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 07:00:30 GMT"
+    },
+    {
+      "title": "Guerre en Ukraine : « Un acte politique »… Kiev fait défiler sa Fashion Week entre bombes et résistance culturelle",
+      "summary": "Alors que les frappes aériennes s’intensifient sur Kiev, la création ukrainienne refuse de s’éteindre",
+      "link": "https://www.20minutes.fr/monde/ukraine/4241988-20260905-guerre-ukraine-acte-politique-kiev-fait-defiler-fashion-week-entre-bombes-resistance-culturelle?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique",
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 06:07:37 GMT"
+    },
+    {
+      "title": "Allemagne : Jeune, radical, « dangereux », nostalgique de la RDA, qui est Ulrich Siegmund, candidat AfD aux régionales ?",
+      "summary": "A 35 ans, le candidat du parti d’extrême droite AfD (alternative pour l’Allemagne) aux régionales dans le Länder de Saxe-Anhalt est donné favori dans les sondages. S’il remporte le scrutin, ce sera une première depuis l’après-guerre",
+      "link": "https://www.20minutes.fr/monde/allemagne/4242759-20260905-allemagne-jeune-radical-dangereux-nostalgique-rda-ulrich-siegmund-candidat-afd-regionales?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 05:02:39 GMT"
+    },
+    {
+      "title": "How posh are you? Do you have a therapist? What would you say to Trump at a party? Marina Hyde answers readers’ questions",
+      "summary": "We asked you what you most wanted to put to our Guardian columnist. You responded in droves, querying her ‘beef’ with Burnham, who she thinks is this generation’s Hugh Grant, and what she really thinks about Richard Osman ...• ‘There is light at the end of this tunnel. But the tunnel is filled with sewage’: an exclusive extract from Marina Hyde’s new bookWhat are your bunker plans?James, Portugal ",
+      "link": "https://www.theguardian.com/politics/2026/sep/05/marina-hyde-guardian-columnist-answers-readers-questions",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique",
+        "culture"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 05:00:29 GMT"
+    },
+    {
+      "title": "Why the Bayeux tapestry and Franco-British relations are natural bedfellows",
+      "summary": "Tapestry’s loan to UK is just another chapter in the love-hate relationship that has spanned the centuries since it was createdFive British prime ministers ago – and six French ones – when Emmanuel Macron first confirmed that France would return the Bayeux tapestry to Britain after 1,000 years, he told an audience at Sandhurst and Theresa May – the No 10 seat-warmer of the day – that when it came ",
+      "link": "https://www.theguardian.com/world/ng-interactive/2026/sep/05/why-bayeux-tapestry-franco-british-politics-natural-bedfellows",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "politique_nationale",
+        "geopolitique"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 05:00:27 GMT"
     },
     {
       "title": "«L’inconnue du quai de Javel»: Jaenada et la jeune morte",
@@ -199,445 +1342,40 @@
       "pubDate": "Sat, 05 Sep 2026 00:00:00 -0400"
     },
     {
-      "title": "Bio",
-      "summary": "Bio\n\n\tAxel Ronse\n  Dominique Duchesnes.\nTitulaire d’un Executive Master in Business Administration de l’école Vlerick et d’une licence de philosophie de l’Université de Gand, Axel Ronse a travaillé sept ans chez Unizo, avant d’être élu député au parlement flamand en 2014. Durant six ans, il a aussi été échevin de la Culture à Courtrai. Et depuis 2024, il est chef de groupe N-VA à la Chambre.Raoul ",
-      "link": "http://www.lesoir.be/769146/article/2026-09-05/bio",
-      "source": "Le Soir",
-      "lang": "fr",
-      "country": "Belgique",
-      "themes": [
-        "politique_internationale",
-        "culture"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 03:59:24 +0000"
-    },
-    {
-      "title": "Making of",
-      "summary": "Making of\n\n\tPour notre premier débat de rentrée politique, on pouvait difficilement réunir deux personnalités plus éloignées idéologiquement. Axel Ronse, chef de groupe N-VA à la Chambre, dans la majorité, et Raoul Hedebouw, président du PTB, dans l’opposition, ont accepté de discuter des défis budgétaires de l’heure, singulièrement d’une potentielle hausse de la TVA. Mais c’est quand ils ont abor",
-      "link": "http://www.lesoir.be/769145/article/2026-09-05/making",
-      "source": "Le Soir",
-      "lang": "fr",
-      "country": "Belgique",
-      "themes": [
-        "geopolitique",
-        "economie"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 03:59:18 +0000"
-    },
-    {
-      "title": "Sept brocantes où faire de jolies trouvailles ce week-end à Bruxelles et en Wallonie",
-      "summary": "Sept brocantes où faire de jolies trouvailles ce week-end à Bruxelles et en Wallonie\n\n\t\n  \n  Pexels  \n\n\tÀ Ixelles, la Grande Braderie promet un week-end animéC’est le rendez-vous XXL du week-end. La 47e Grande Braderie d’Ixelles investit les quartiers du Cimetière d’Ixelles, de l’Université et de la Petite Suisse, autour de la place du même nom. Au total, 500 exposants sont attendus samedi 5 et di",
-      "link": "http://www.lesoir.be/769144/article/2026-09-05/sept-brocantes-ou-faire-de-jolies-trouvailles-ce-week-end-bruxelles-et-en",
-      "source": "Le Soir",
-      "lang": "fr",
-      "country": "Belgique",
+      "title": "De Shakira a The Strokes, pasando por Vetusta Morla: los 10 mejores conciertos y discos para un otoño musical",
+      "summary": "Lo más esperado en la música pop viene marcado por la vuelta de Agorazein y Vetusta Morla, el nuevo disco de Pablo López y... ¿el regreso de Lana del Rey?&nbsp;Leer",
+      "link": "https://www.elmundo.es/la-lectura/2026/09/05/6a9045cdfdddff90218b45b4.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
       "themes": [
         "culture"
       ],
-      "pubDate": "Sat, 05 Sep 2026 03:55:25 +0000"
+      "pubDate": "Sat, 05 Sep 2026 00:17:48 +0200"
     },
     {
-      "title": "Lindsay Clancy, Bolivie, Giorgia Meloni et ONU : les informations de la nuit",
-      "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-      "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-lindsay-clancy-bolivie-giorgia-meloni-et-onu-les-informations-de-la-nuit_267897",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_internationale"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 05:55:05 +0200"
-    },
-    {
-      "title": "Dans «Sauf la frontière», Elisa Shua Dusapin renouvelle la cartographie d’un territoire défiguré par la violence",
-      "summary": "La romancière quitte la fiction pour un reportage littéraire autour du conflit israélo-palestinien. Un texte d’une grande justesse qui rappelle que la violence est l’affaire de tous. L'autrice est présente au Livre sur les quais, à Morges, jusqu'au 6 septembreQuand on a su, il y a&nbsp;2&nbsp;ans, qu’Elisa Shua Dusapin, romancière multiprimée pour ses romans intimistes, quittait les rives de la fi",
-      "link": "https://www.letemps.ch/articles/dans-sauf-la-frontiere-elisa-shua-dusapin-renouvelle-la-cartographie-d-un-territoire-defigure-par-la-violence",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "geopolitique",
-        "culture"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 05:45:01 +0200"
-    },
-    {
-      "title": "La guerre en Iran n’est qu’une « broutille », minimise Donald Trump",
-      "summary": "Le président américain a nié mener une guerre en Iran, alors que son armée a perdu 18 soldats et que le conflit enlisé depuis plusieurs mois a coûté plus de 37,5 milliards de dollars aux contribuables.",
-      "link": "https://www.lemonde.fr/international/article/2026/09/05/la-guerre-en-iran-n-est-qu-une-broutille-minimise-donald-trump_6766098_3210.html",
-      "source": "Le Monde",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 05:32:21 +0200"
-    },
-    {
-      "title": "Nazi-looted painting must be returned to Jewish art dealer’s heir, Argentina court rules",
-      "summary": "Portrait of a Lady had been missing since 1940 before being photographed in 2025 in Argentinian home of Nazi officer’s daughterArgentina must return to the rightful owner’s heir an 18th-century painting stolen by Nazis from a Dutch Jewish art collector, a judge has ruled.Portrait of a Lady by Italian baroque painter Giuseppe Ghislandi was missing for eight decades before being photographed in 2025",
-      "link": "https://www.theguardian.com/world/2026/sep/05/nazi-looted-painting-must-be-returned-to-jewish-art-dealers-heir-argentina-court-rules",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 03:13:46 GMT"
-    },
-    {
-      "title": "Après l’incendie historique en Gironde, le “jeu dangereux” du gouvernement français",
-      "summary": "Alors que la saison touche à sa fin dans le sud-ouest de la France, ravagé par les incendies, un débat s’engage sur les causes de la catastrophe et les moyens de protéger la forêt des landes de Gascogne. Pour le quotidien conservateur allemand “Frankfurter Allgemeine Zeitung”, il est urgent de voir en cette dernière “davantage qu’une simple usine à bois”.",
-      "link": "https://www.courrierinternational.com/article/vu-d-allemagne-apres-l-incendie-historique-en-gironde-le-jeu-dangereux-du-gouvernement-francais_266554",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 05:00:29 +0200"
-    },
-    {
-      "title": "Quoi qu’on fasse, nous les gros, nous serons toujours jugés, et j’en ai ras le bol",
-      "summary": "Déjà stigmatisées par la société, les personnes en surpoids doivent en plus se justifier quand elles maigrissent, s’indigne cette autrice australienne qui revendique le droit d’être grosse dans “The Guardian”. Il n’y a pas de bonnes (les régimes) ou mauvaises (l’Ozempic) façons de maigrir, écrit-elle, simplement des corps différents qu’il serait temps de respecter.",
-      "link": "https://www.courrierinternational.com/article/opinion-quoi-qu-on-fasse-nous-les-gros-nous-serons-toujours-juges-et-j-en-ai-ras-le-bol_263145",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
+      "title": "Los fundadores profundamente 'nerds' detrás de la apuesta de 13.000 millones de dólares de Nvidia por Hugging Face",
+      "summary": "La startup comenzó como una aplicación con nombre de emoji para adolescentes antes de convertirse en una defensora de la IA de código abierto&nbsp;Leer",
+      "link": "https://www.elmundo.es/economia/empresas/2026/09/05/6a9abbecfc6c83093c8b456e.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
       "themes": [
         "ia_tech"
       ],
-      "pubDate": "Sat, 05 Sep 2026 05:00:21 +0200"
+      "pubDate": "Sat, 05 Sep 2026 00:02:02 +0200"
     },
     {
-      "title": "Azadeh Akbari combat l’autoritarisme numérique des géants de la tech",
-      "summary": "PENSEURS DE DEMAIN (6/7). Face aux bouleversements qui secouent la planète, “Die Zeit” mise sur sept intellectuels “des plus prometteurs” pour éclairer le chemin. Azadeh Akbari a vécu en Iran sous le joug de la surveillance numérique du pouvoir. Elle dénonce aujourd’hui depuis l’université Goethe, à Francfort, où elle enseigne les études critiques des données, les stratégies de domination à l’œuvr",
-      "link": "https://www.courrierinternational.com/article/serie-d-ete-azadeh-akbari-combat-l-autoritarisme-numerique-des-geants-de-la-tech_264369",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 05:00:17 +0200"
-    },
-    {
-      "title": "A Long Winter review – hope, desire and subversion in Andrew Haigh’s beautiful winter western",
-      "summary": "Telluride film festivalIn a remote Colorado farmstead, a family with a mother gone missing finds a strange buoyancy and freedom as they wait for the snows to meltAndrew Haigh’s mysterious and beautiful new film is adapted by him from the 2006 story by Colm Tóibín, transplanting the action from the 1930s Spanish Pyrenees to the wintry, vertiginous landscapes of Colorado about the time of the Korean",
-      "link": "https://www.theguardian.com/film/2026/sep/05/a-long-winter-review-andrew-haigh-ebon-moss-bachrach",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique",
-        "culture"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 02:30:23 GMT"
-    },
-    {
-      "title": "Nos conseils de programmes à regarder en replay : Platini, guerre culturelle, pompiers volontaires…",
-      "summary": "La Matinale du « Monde » vous propose une sélection de programmes à (re)voir en différé. Aujourd’hui, notamment, les initiatives de femmes et d’hommes qui œuvrent dans une Ukraine en guerre afin d’enrayer la destruction du patrimoine culturel du pays.",
-      "link": "https://www.lemonde.fr/culture/article/2026/09/05/nos-conseils-de-programmes-a-regarder-en-replay-platini-guerre-culturelle-pompiers-volontaires_6766029_3246.html",
-      "source": "Le Monde",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique",
-        "culture"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 04:30:08 +0200"
-    },
-    {
-      "title": "Ben Simmons handed NBA lifeline in one-year deal with Sacramento Kings",
-      "summary": "Australian returns on AU$4.9m contract after season on sidelinesFormer No 1 pick hopes to reignite basketball career with fourth clubAustralian former No 1 overall draft pick Ben Simmons has taken a significant step towards resurrecting his NBA career, agreeing a one-year deal with the Sacramento Kings.The Melbourne-born guard returns on a US$3.5m (AU$4.9m) contract after sitting ‌out the entire 2",
-      "link": "https://www.theguardian.com/sport/2026/sep/05/ben-simmons-sacramento-kings-nba-basketball-deal",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 02:28:53 GMT"
-    },
-    {
-      "title": "Sydney set to hit 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
-      "summary": "A total fire ban is in place for greater Sydney with extreme fire danger exacerbated by hot and windy conditionsGet our breaking news email, free app or daily news podcastSummer heat is due to arrive early across much of eastern Australia with potentially record early September temperatures predicted for Brisbane and Sydney, while snow was expected in southern New South Wales.Maximum temperatures ",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 02:00:54 GMT"
-    },
-    {
-      "title": "Judge refuses to block Pentagon from firing Stars and Stripes journalists",
-      "summary": "Ruling allows defense department to proceed for now in exerting greater editorial control over military news outletA federal judge has declined to stop the Pentagon from firing journalists who say they were illegally punished for speaking out about the need for the Stars and Stripes publication to maintain its editorial independence.The ruling by US district judge Trevor McFadden allows the Pentag",
-      "link": "https://www.theguardian.com/us-news/2026/sep/04/judge-pentagon-stars-and-stripes",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 01:57:34 GMT"
-    },
-    {
-      "title": "Le Venezuela signe un accord pétrolier avec le colombien GeoPark",
-      "summary": "Le Venezuela signe un accord pétrolier avec le colombien GeoPark\n\n\tGeoPark va devenir ainsi la première compagnie pétrolière colombienne à exploiter un gisement au Venezuela.   L'accord a été signé au palais présidentiel de Miraflores à Caracas par le vice-président de la compagnie pétrolière publique vénézuélienne PDVSA, Jovanny Martinez, et le président du groupe colombien Gilinski et actionnair",
-      "link": "http://www.lesoir.be/769143/article/2026-09-05/le-venezuela-signe-un-accord-petrolier-avec-le-colombien-geopark",
-      "source": "Le Soir",
-      "lang": "fr",
-      "country": "Belgique",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 01:05:02 +0000"
-    },
-    {
-      "title": "Fitch relève d'un cran, à A+, la note du Portugal",
-      "summary": "Fitch relève d'un cran, à A+, la note du Portugal\n\n\tLa perspective attachée à cette note est \"stable\".   \"Ce relèvement illustre le renforcement des finances publiques du Portugal, y compris une trajectoire prévue de baisse de la dette publique et des équilibres budgétaires qui sont considérablement plus solides que ses pairs, le tout étayé par un engagement politique fort en matière de prudence b",
-      "link": "http://www.lesoir.be/769142/article/2026-09-05/fitch-releve-dun-cran-la-note-du-portugal",
-      "source": "Le Soir",
-      "lang": "fr",
-      "country": "Belgique",
-      "themes": [
-        "politique_nationale",
-        "politique_internationale",
-        "economie"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 00:25:02 +0000"
-    },
-    {
-      "title": "Etats-Unis : L’éditeur de Tetris est très remonté contre un jeu vidéo polémique de l’administration Trump",
-      "summary": "The Tetris Company a contesté, vendredi, l’utilisation de son univers dans « Build the Wall », un jeu de l’administration de Donald Trump consacré à l’immigration",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4242928-20260905-etats-unis-editeur-tetris-tres-remonte-contre-jeu-video-polemique-administration-trump?at_medium=display&at_campaign=149",
-      "source": "20 Minutes",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "jeux_video"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 00:22:57 GMT"
-    },
-    {
-      "title": "The rise of south-east Asia’s girl bands: ‘The talent and popularity were always here’",
-      "summary": "Girl bands from the Philippines, Indonesia, Malaysia and Thailand are going global with their fusion of traditional and modern sounds“We all know that music is a universal language,” says Maloi Ricalde from Filipina girl band BINI, which mixes tropical pop with traditional songs, English with Tagalog, and silver knee highs with pastel colours.“Incorporating Filipino language, Filipino culture, Fil",
-      "link": "https://www.theguardian.com/culture/2026/sep/05/the-rise-of-south-east-asias-girl-bands-bini-no-na-4eve-dolla",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 00:00:21 GMT"
-    },
-    {
-      "title": "Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers",
-      "summary": "The Israeli army had helped plan the delivery of food aid on 1 April 2024, but things went wrong from the beginning and ended in seven deaths• Exclusive: why seven international aid workers were killed in Israeli airstrikeOn the evening of 1 April 2024, a team of aid workers from World Central Kitchen (WCK) stood on Gaza’s Mediterranean shore overseeing the unloading of a barge full of desperately",
-      "link": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 00:00:21 GMT"
-    },
-    {
-      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
-      "summary": "Exclusive: Guardian investigation reveals targeting of World Central Kitchen convoy was result of widely used military tactic• Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workersSeven aid workers killed in an airstrike in Gaza were marked as targets under an Israeli military practice of establishing guilt by association, a Guardian investigation shows.A top Isr",
-      "link": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 00:00:20 GMT"
-    },
-    {
-      "title": "Carlos Alcaraz avoids wardrobe malfunction and eases into US Open fourth round",
-      "summary": "The Spaniard’s baggy sleeveless top has been raising eyebrows this week.",
-      "link": "https://www.independent.co.uk/sport/tennis/carlos-alcaraz-daniil-medvedev-american-jessica-pegula-press-association-b3045059.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 23:35:41 GMT"
-    },
-    {
-      "title": "UN General Assembly endorses a new world map that shows more accurately Africa's size",
-      "summary": "The United Nations General Assembly has voted to endorse a new world map that shows Africa's large size more accurately",
-      "link": "https://www.independent.co.uk/news/un-general-assembly-africa-togo-african-union-moldova-b3045096.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "politique_internationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 23:35:27 GMT"
-    },
-    {
-      "title": "El ex jefe de la Policía Local de Ceuta: \"Sánchez hablaba desde el primer momento de ataque a la integridad territorial\"",
-      "summary": "El coronel Sebastián Vega lleva al frente del cuerpo desde 2017 y, un día después de jubilarse, señala que el presidente del Gobierno empezó acusando una violación de las fronteras&nbsp;Leer",
-      "link": "https://www.elmundo.es/espana/2026/09/05/6a9b18d0e4d4d8723e8b45a2.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 01:24:10 +0200"
-    },
-    {
-      "title": "Industria busca frenar en seco la huelga en Airbus: \"La oferta de la empresa es justa y hay que valorar la inversión del Gobierno en Airbus España\"",
-      "summary": "Los efectos sobre la producción del gigante industrial y el bloque del conflico provocan que el Ministerio medie y empuje a los sindicatos al fin de la huelga&nbsp;Leer",
-      "link": "https://www.elmundo.es/economia/empresas/2026/09/05/6a9b0112e85ece64538b458f.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 01:04:03 +0200"
-    },
-    {
-      "title": "Chancellor warns of tough Budget as Iran war puts strain on economy",
-      "summary": "Donald Trump’s war with Iran is hitting ‘inflation, growth and borrowing costs,’ John Healey warns",
-      "link": "https://www.independent.co.uk/news/uk/politics/autumn-budget-john-healey-economy-iran-war-b3045087.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique",
-        "economie"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:59:03 GMT"
-    },
-    {
-      "title": "Corée du Sud: les «nettoyeuses du Net» viennent en aide aux victimes de violences sexuelles en ligne",
-      "summary": "La Corée du Sud est confrontée au fléau des « crimes sexuels en ligne » : des photos ou des vidéos à caractère sexuel, prises à l’insu de femmes, dans des espaces publics ou à domicile, qui finissent sur internet. Un phénomène amplifié par le boom de l'intelligence artificielle, qui facilite la création de deepfakes, des vidéos pornographiques réalisées par IA en incrustant le visage d'une victime",
-      "link": "https://www.rfi.fr/fr/podcasts/reportage-international/20260904-cor%C3%A9e-du-sud-les-nettoyeuses-du-net-viennent-en-aide-aux-victimes-de-violences-sexuelles-en-ligne",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "politique_nationale",
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:49:52 GMT"
-    },
-    {
-      "title": "Las 10 series más esperadas del otoño: Netflix, Prime Video, Filmin, Movistar Plus+ y Apple TV",
-      "summary": "Matthew McConaughey y Woodey Harrelson regresan, esta vez para matarnos de risa&nbsp;Leer",
-      "link": "https://www.elmundo.es/la-lectura/2026/09/05/6a901287fdddffdf6d8b45a7.html",
+      "title": "Anoche conquisté Tebas",
+      "summary": "El fuego lento es garantía de calidad en muchas disciplinas, pero sus efectos en el cine pocas veces se distinguen y celebran.&nbsp;Leer",
+      "link": "https://www.elmundo.es/cultura/2026/09/04/6a9ae96ffc6c83981f8b4575.html",
       "source": "El Mundo",
       "lang": "es",
       "country": "Espagne",
       "themes": [
         "culture"
       ],
-      "pubDate": "Sat, 05 Sep 2026 00:46:20 +0200"
-    },
-    {
-      "title": "Dolly Parton makes history as songs surge in UK charts after her death",
-      "summary": "The country music star has secured her highest-charting single after her death aged 80",
-      "link": "https://www.independent.co.uk/arts-entertainment/music/news/dolly-parton-uk-official-charts-b3044929.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:33:51 GMT"
-    },
-    {
-      "title": "New Strictly hosts flaunt glitterball trophy in behind-the-scenes first look at 2026 series",
-      "summary": "Emma Willis, Josh Widdicombe and Johannes Radebe have filmed the opening number for this year’s launch show",
-      "link": "https://www.independent.co.uk/arts-entertainment/tv/news/strictly-come-dancing-2026-emma-willis-josh-widdicombe-johannes-radebe-b3045002.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:31:13 GMT"
-    },
-    {
-      "title": "Brazilian Supreme Court justices at odds as election and probe into failed bank loom",
-      "summary": "Brazil’s Supreme Court has plunged further into an institutional crisis, as two of its best known justices are now requesting major sanctions against each other",
-      "link": "https://www.independent.co.uk/news/sao-paulo-brazil-senate-jair-bolsonaro-luiz-inacio-lula-da-silva-b3045081.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:22:58 GMT"
-    },
-    {
-      "title": "From cleanskins to hitmen: are mistaken identity killings the result of Australia’s ‘crimetasker’ economy?",
-      "summary": "The underworld is using big paydays and encrypted apps to lure amateurs into gangland hits – even young people with no criminal historyGet our breaking news email, free app or daily news podcastTwo hands extend out the rear passenger window of an Audi sedan as its driver pulls up in front of a house in Sydney’s west.In each fist is the black grip of a semi-automatic handgun. At least four shots ar",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/05/mistaken-identity-killings-australia-crimetasker-economy-ntwnfb",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:20:15 GMT"
-    },
-    {
-      "title": "À la Fondation Blachère, le bleu raconte l'Afrique et ses diasporas",
-      "summary": "Bleu du ciel ou des abysses, bleu des esprits des fleuves ou de l'indigo ; dans la culture africaine, quels pouvoirs attribue-t-on au bleu ? Dans le sud de la France, la Fondation Blachère, à Bonnieux (Vaucluse), ouvre l'enquête avec Afroblue, une exposition qui réunit 36 artistes d'Afrique et de sa diaspora jusqu'au 19 septembre.",
-      "link": "https://www.rfi.fr/fr/podcasts/reportage-culture/20260904-%C3%A0-la-fondation-blach%C3%A8re-le-bleu-raconte-l-afrique-et-ses-diasporas",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:19:22 GMT"
-    },
-    {
-      "title": "Narcotrafic : les États-Unis ont abattu 300 drones à la frontière avec le Mexique",
-      "summary": "Le ministre mexicain de la Défense a précisé qu’il s’agissait de drones commerciaux, utilisés pour repérer «des routes dégagées, où il n’y a pas de présence des autorités».",
-      "link": "https://www.lefigaro.fr/flash-actu/narcotrafic-les-etats-unis-ont-abattu-300-drones-a-la-frontiere-avec-le-mexique-20260905",
-      "source": "Le Figaro",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 05 Sep 2026 00:00:57 +0200"
-    },
-    {
-      "title": "Liban : au moins trois morts et 23 blessés dans des frappes israéliennes dans le sud et l'est",
-      "summary": "Ces frappes interviennent après la prise par l’armée israélienne d’une position stratégique du Hezbollah à Nabatiyé. Israël affirme vouloir empêcher le mouvement pro-iranien de se réimplanter dans la zone.",
-      "link": "https://www.lefigaro.fr/flash-actu/liban-au-moins-trois-morts-et-23-blesses-dans-des-frappes-israeliennes-dans-le-sud-et-l-est-20260904",
-      "source": "Le Figaro",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 23:59:59 +0200"
-    },
-    {
-      "title": "Ceuta en Groenlandia",
-      "summary": "\"¿Puede haber una invasión sin invasores? ¿Una conquista en la que quienes ocupan el territorio no son combatientes, sino personas a las que el Estado atacado tiene la obligación de proteger?\"&nbsp;Leer",
-      "link": "https://www.elmundo.es/espana/2026/09/04/6a9ae747fdddffee568b45cc.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 23:59:46 +0200"
+      "pubDate": "Fri, 04 Sep 2026 23:36:46 +0200"
     },
     {
       "title": "U.S. Embassy in Havana issues health alert as sanctions limit imports to Cuba",
@@ -652,202 +1390,6 @@
       "pubDate": "Fri, 04 Sep 2026 21:14:15 +0000"
     },
     {
-      "title": "Présidentielle 2027: quel rôle pour Jordan Bardella au sein du RN, aux côtés de Marine Le Pen?",
-      "summary": "Après s'être affiché avec le leader britannique d'extrême droite Nigel Farrage à Birmingham vendredi 4 septembre, le président du Rassemblement national, Jordan Bardella est attendu samedi sur les berges du Lac de Côme, en Italie. Le possible futur Premier ministre français – en cas de victoire de Marine Le Pen a la présidentielle 2027 – va participer à un forum économique réputé. Il doit accorder",
-      "link": "https://www.rfi.fr/fr/france/20260904-pr%C3%A9sidentielle-2027-quel-r%C3%B4le-pour-jordan-bardella-au-sein-du-rn-aux-c%C3%B4t%C3%A9s-de-marine-le-pen",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 21:10:50 GMT"
-    },
-    {
-      "title": "Isak’s rapid double sinks Ipswich to give Andoni Iraola first Liverpool win",
-      "summary": "A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his two, well-taken early goals securing the three points. That Cody Gakpo, Isak’s supplier, might have been at Manchester City or Tottenham had the transfer runes",
-      "link": "https://www.theguardian.com/football/2026/sep/04/ipswich-liverpool-premier-league-match-report",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 21:07:54 GMT"
-    },
-    {
-      "title": "El Gobierno impone al 90% de las comunidades el modelo de financiación de Junqueras mientras \"racanea todo\" a Ceuta",
-      "summary": "Sánchez valida el sistema pactado con ERC con la mayoría de comunidades en contra por primera vez en democracia, mientras la consejera ceutí estalla en la reunión&nbsp;Leer",
-      "link": "https://www.elmundo.es/espana/2026/09/04/6a9b0948fdddffd6668b4578.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:54:35 +0200"
-    },
-    {
-      "title": "El Gobierno de Ceuta replica a Sánchez: \"Avisamos el 27 de julio y nos dijeron 'no alarméis que es lo de todos lo veranos'\"",
-      "summary": "La consejera de Hacienda de Ceuta protagoniza una dura intervención a puerta cerrada ante los ministros de Hacienda y Política territorial&nbsp;Leer",
-      "link": "https://www.elmundo.es/espana/2026/09/04/6a9b0689e85eceb80f8b4599.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:54:28 +0200"
-    },
-    {
-      "title": "\"Pensar alemán\": La batalla de AfD en Sajonia-Anhalt",
-      "summary": "La ultraderecha germana se prepara para arrasar mañana en las elecciones de este Estado federado Aspira a impulsar un \"giro de 180 grados\" en política cultural en toda Alemania&nbsp;Leer",
-      "link": "https://www.elmundo.es/internacional/2026/09/04/6a9afc21e85eceea208b4583.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "politique_nationale",
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:54:16 +0200"
-    },
-    {
-      "title": "Tunisie : ouverture d’un concours pour le recrutement de 434 médecins spécialistes",
-      "summary": "Une d&#233;cision du ministre de la Sant&#233;, dat&#233;e du 4 septembre 2026 et publi&#233;e ce vendredi au Journal officiel de la R&#233;publique tunisienne (JORT), porte ouverture, &#224; compter du 16 novembre 2026, d&#8217;un concours sur titres et travaux pour le recrutement de 434 m&#233;decins sp&#233;cialistes de la sant&#233; publique. Selon le texte, 433 postes sont [&#8230;]\nL’article",
-      "link": "https://www.lapresse.tn/2026/09/04/tunisie-ouverture-dun-concours-pour-le-recrutement-de-434-medecins-specialistes/",
-      "source": "La Presse (Tunisie)",
-      "lang": "fr",
-      "country": "Tunisie",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 20:53:43 +0000"
-    },
-    {
-      "title": "Paul Schrader: \"No tardaremos en ver actores generados digitalmente, yo mismo ya estoy trabajando en una película enteramente con IA\"",
-      "summary": "El director, que presenta en Venecia The Basics of Philosophy, reflexiona sobre filosofía, sobre el perdón, sobre la Inteligencia Artificial y sobre el supuesto fin del movimiento MAGA&nbsp;Leer",
-      "link": "https://www.elmundo.es/cultura/cine/2026/09/04/6a9adb38e4d4d88c2c8b4587.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:53:37 +0200"
-    },
-    {
-      "title": "Trump califica el conflicto con Irán como \"small potatoes\" (algo menor) y coincide con Vance en que no es una \"guerra\"",
-      "summary": "\"Yo no lo llamaría una guerra\", ha asegurado el mandatario&nbsp;Leer",
-      "link": "https://www.elmundo.es/internacional/2026/09/04/6a9b2b4afc6c833b478b45b7.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:36:38 +0200"
-    },
-    {
-      "title": "Panique des chercheurs, architecture opaque, capacités démesurées : ce qu’il faut savoir sur Astra, la nouvelle IA qui nous fait «entrer dans l’ère de la superintelligence»",
-      "summary": "DÉCRYPTAGE - Capable d’utiliser seul votre ordinateur, le nouveau modèle d’OpenAI est présenté comme étant «le plus aligné» à ce jour. Et ce, malgré l’inquiétude de certains experts, qui qualifient Astra de «pire évolution jamais observée en matière de sûreté de l’IA».",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/panique-des-chercheurs-architecture-opaque-capacites-demesurees-ce-qu-il-faut-savoir-sur-astra-la-nouvelle-ia-qui-nous-fait-entrer-dans-l-ere-de-la-superintelligence-20260904",
-      "source": "Le Figaro",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 22:33:22 +0200"
-    },
-    {
-      "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
-      "summary": "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islandsDonald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House.It is unlikely Argentina, and far-flung holdovers of the former British em",
-      "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 20:21:52 GMT"
-    },
-    {
-      "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
-      "summary": "AI giant on track to unveil paperwork underpinning its blockbuster Wall Street debut as soon as next week",
-      "link": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique",
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 19:46:21 GMT"
-    },
-    {
-      "title": "Guerre en Ukraine : Donald Trump réaffirme que Vladimir Poutine «n'a pas l'intention d'attaquer» l'Otan",
-      "summary": "«Je lui parle. Je le connais très bien», a assuré le président américain aux journalistes dans le Bureau ovale.",
-      "link": "https://www.lefigaro.fr/flash-actu/guerre-en-ukraine-donald-trump-reaffirme-que-vladimir-poutine-n-a-pas-l-intention-d-attaquer-l-otan-20260904",
-      "source": "Le Figaro",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_internationale",
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 21:44:42 +0200"
-    },
-    {
-      "title": "Plus d’un Québécois sur deux a été touché par la crise climatique en 2026",
-      "summary": "Notre adaptation au dérèglement du climat accuse de sérieux retards, préviennent des experts.",
-      "link": "https://www.ledevoir.com/actualites/environnement/1006673/plus-quebecois-deux-ete-affecte-crise-climatique-2026",
-      "source": "Le Devoir",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "environnement_climat"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 15:38:00 -0400"
-    },
-    {
-      "title": "Colum McCann: «Le plus important se trouve peut-être sous la surface du texte»",
-      "summary": "Roman maritime, roman d'aventures, «Ce qui nous frôle sous la surface» se déroule sur un navire qui répare les câbles internet déposés dans les fonds marins. Avec une infinie délicatesse, le romancier irlandais qui vit à New York, explore notre manque de liens dans un monde ultra-connecté. Il est invité au Livre sur les quais à Morges ce week-endLe rendez-vous en visio était pris, fin de matinée c",
-      "link": "https://www.letemps.ch/articles/colum-mccann-le-plus-important-se-trouve-peut-etre-sous-la-surface-du-texte",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 21:29:44 +0200"
-    },
-    {
-      "title": "Tunisie : de nouvelles mesures pour protéger les systèmes numériques publics contre les cybermenaces",
-      "summary": "La cheffe du gouvernement, Sarra Zaafrani Zenzri, a publi&#233; une circulaire visant &#224; renforcer la s&#233;curisation des syst&#232;mes num&#233;riques nationaux au sein des structures publiques face aux menaces et risques cybern&#233;tiques croissants. Le texte met notamment l&#8217;accent sur la protection des sites web officiels et des plateformes &#233;lectroniques de services publics, a",
-      "link": "https://www.lapresse.tn/2026/09/04/tunisie-de-nouvelles-mesures-pour-proteger-les-systemes-numeriques-publics-contre-les-cybermenaces/",
-      "source": "La Presse (Tunisie)",
-      "lang": "fr",
-      "country": "Tunisie",
-      "themes": [
-        "politique_nationale",
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 19:29:00 +0000"
-    },
-    {
-      "title": "Automne et hiver : Khaled Nouri ordonne le renforcement de la vigilance",
-      "summary": "Le ministre de l&#8217;Int&#233;rieur, Khaled Nouri, a appel&#233; &#224; maintenir un niveau &#233;lev&#233; de vigilance et de pr&#233;paration face aux risques naturels susceptibles de survenir durant les saisons automnale et hivernale. Il a pr&#233;sid&#233;, jeudi, au si&#232;ge de l&#8217;Office national de la Protection civile, une s&#233;ance de travail consacr&#233;e &#224; l&#8217;examen",
-      "link": "https://www.lapresse.tn/2026/09/04/automne-et-hiver-khaled-nouri-ordonne-le-renforcement-de-la-vigilance/",
-      "source": "La Presse (Tunisie)",
-      "lang": "fr",
-      "country": "Tunisie",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 19:25:48 +0000"
-    },
-    {
       "title": "Water crisis in Israel raises fears over impact of Gaza sewage",
       "summary": "Five of Israel’s six desalinization plants are offline. Untreated wastewater from Gaza’s destroyed sewage system could be part of the problem, experts warn.",
       "link": "https://www.washingtonpost.com/world/2026/09/04/water-crisis-israel-raises-fears-over-impact-gaza-sewage/",
@@ -858,105 +1400,6 @@
         "geopolitique"
       ],
       "pubDate": "Fri, 04 Sep 2026 19:10:52 +0000"
-    },
-    {
-      "title": "US economy smashes forecast with 162,000 jobs added in August",
-      "summary": "Expectations for Federal Reserve rate rise in September tick up after strong report",
-      "link": "https://www.ft.com/content/a7ce8b2f-98f5-4e96-afa0-ccf4dceef8bd?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 19:04:05 GMT"
-    },
-    {
-      "title": "Benedikt Roos, chef de l’armée: «Un danger pour l’Europe l’est également pour la Suisse»",
-      "summary": "Cyberattaques, espionnage, désinformation, drones et risque d’extension d’un conflit en Europe: selon le nouveau chef de l’armée, Benedikt Roos, la Suisse n’est plus à l’abri des menaces qui pèsent sur le continent. Face à ce nouvel environnement sécuritaire, il défend un renforcement rapide des capacités dans la défense sol-airDans son bureau niché au cœur de l’aile est du Palais fédéral, le comm",
-      "link": "https://www.letemps.ch/articles/benedikt-roos-un-danger-pour-l-europe-l-est-egalement-pour-la-suisse",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_internationale",
-        "geopolitique",
-        "environnement_climat"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 21:02:38 +0200"
-    },
-    {
-      "title": "Kimi Antonelli: ‘The F1 environment is great but at times it can be very brutal’",
-      "summary": "Before his home grand prix, the Mercedes driver opens up on his rocky debut season and quest to become the first Italian world champion since 1953If Kimi Antonelli feels any pressure as the favourite to take the Formula One world championship at just 20 years old and in his second year in the sport, it is imperceptible. He admits F1 can be brutal but a thing of beauty too, a labour of love for the",
-      "link": "https://www.theguardian.com/sport/2026/sep/04/kimi-antonelli-f1-environment-great-but-brutal-mercedes-italian-grand-prix",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "environnement_climat"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 19:00:15 GMT"
-    },
-    {
-      "title": "L’ONU adopte une résolution promouvant l’usage de cartes représentant mieux la taille des continents",
-      "summary": "L’Assemblée générale des Nations unies a adopté vendredi un texte porté par le Togo et l’Union africaine pour encourager l’abandon de la projection de Mercator, qui agrandit artificiellement les régions des hautes latitudes au détriment de l’Afrique, de l’Amérique latine et de l’Asie du Sud. La France lui a apporté un soutien appuyéL’Assemblée générale de l’ONU a adopté vendredi une résolution pou",
-      "link": "https://www.letemps.ch/articles/l-onu-adopte-une-resolution-promouvant-l-usage-de-cartes-representant-mieux-la-taille-des-continents",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_nationale",
-        "politique_internationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 20:46:32 +0200"
-    },
-    {
-      "title": "“Un Disneyland pour nantis” : comment Burning Man a vendu son âme à la Silicon Valley",
-      "summary": "Dans un long essai publié dans “The San Francisco Standard”, John Law, l’un des trois cofondateurs de Burning Man, revient sur les origines de ce festival créé au milieu des années 1980 comme une utopie anarchiste. Pour mieux déplorer “la machine à fric” qu’il est devenu et sa récupération totale par l’élite de la tech.",
-      "link": "https://www.courrierinternational.com/article/culture-un-disneyland-pour-nantis-comment-burning-man-a-vendu-son-ame-a-la-silicon-valley_267138",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 20:43:11 +0200"
-    },
-    {
-      "title": "Jeune comédienne formidablement givrée, la Genevoise Aurélia Lüscher converse avec sa grand-mère morte à La Bâtie-Festival de Genève",
-      "summary": "L’artiste capture le fantôme de sa grand-mère dans «Au Grand Passage», spectacle mystico-loufoque qui confirme un immense talent d’interprète, à l’affiche des Scènes du Grütli jusqu’à dimanche«Comme un ouragan», chantait naguère Stéphanie de Monaco. Aurélia Lüscher est renversante, mélancolique à la folie, maîtresse de ses sortilèges, océanique à sa façon gamine. Aux Scènes du Grütli à Genève, à l",
-      "link": "https://www.letemps.ch/articles/jeune-comedienne-formidablement-givree-la-genevoise-aurelia-luscher-converse-avec-sa-grand-mere-morte-a-la-batie-festival-de-geneve",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 20:42:26 +0200"
-    },
-    {
-      "title": "Allemagne : Un militant pour le climat recherché pour les sabotages d’installations électriques",
-      "summary": "Un homme de 48 ans est toujours recherché, ce vendredi, en Allemagne après plusieurs sabotages visant des installations électriques. Le suspect revendique une lutte contre les combustibles fossiles",
-      "link": "https://www.20minutes.fr/monde/allemagne/4242900-20260904-allemagne-militant-climat-recherche-sabotages-installations-electriques?at_medium=display&at_campaign=149",
-      "source": "20 Minutes",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "environnement_climat"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 18:17:57 GMT"
-    },
-    {
-      "title": "Rachida Dati va redevenir magistrate grâce à Darmanin",
-      "summary": "Ce retour surprise de Rachida Dati dans la magistrature survient alors que l’ancienne ministre doit être jugée dans quelques jours pour corruption et trafic d’influence. Une vraie provocation.",
-      "link": "https://www.mediapart.fr/journal/france/040926/rachida-dati-va-redevenir-magistrate-grace-darmanin",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 20:15:23 +0200"
     },
     {
       "title": "After CIA director visit to Moscow, Putin pushes harder for military win",
@@ -971,18 +1414,6 @@
       "pubDate": "Fri, 04 Sep 2026 17:55:44 +0000"
     },
     {
-      "title": "Exclusif – De nouvelles transactions financières embarrassantes pour Valérie Dittli",
-      "summary": "Alors que des questions se posent déjà sur des montants versés à la conseillère d’Etat vaudoise via un compte rattaché au parti du Centre, «Le Temps» révèle que 7000 francs de dons à la ministre, opérés par Twint, sont également sujets à cautionRévélés dans la presse en fin de semaine dernière, certains dons effectués pour soutenir Valérie Dittli interrogent. Les sommes ont été versées sur un comp",
-      "link": "https://www.letemps.ch/articles/exclusif-de-nouvelles-transactions-financieres-embarrassantes-pour-valerie-dittli",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 19:50:00 +0200"
-    },
-    {
       "title": "Guerre en Ukraine : Le pouvoir ukrainien frappé au cœur, Trump et ses négociateurs de retour dans le dossier",
       "summary": "« 20 Minutes » fait le point pour vous tous les soirs sur le conflit en Ukraine. Ce vendredi 4 septembre a été marqué par la frappe russe sur le QG des renseignements ukrainiens dans le centre historique de Kiev",
       "link": "https://www.20minutes.fr/monde/ukraine/4242824-20260904-guerre-ukraine-pouvoir-ukrainien-frappe-ur-trump-negociateurs-retour-dossier?at_medium=display&at_campaign=149",
@@ -993,91 +1424,6 @@
         "geopolitique"
       ],
       "pubDate": "Fri, 04 Sep 2026 17:49:19 GMT"
-    },
-    {
-      "title": "Palestine – agression génocidaire sioniste : Quatre Palestiniens tombent en martyrs",
-      "summary": "Deux morts et des bless&#233;s alors que l&#8217;occupation renouvelle ses violations du cessez-le-feu &#224; Gaza. Idem et sous les balles des forces de l&#8217;occupation sioniste et des colons, deux autres Palestiniens sont tomb&#233;s en martyrs hier, dans le village d&#8217;Al-Mughayyir au nord de Ramallah. Les forces d&#8217;occupation sionistes ont poursuivi, hier, leurs violations de l&#82",
-      "link": "https://www.lapresse.tn/2026/09/04/palestine-agression-genocidaire-sioniste-quatre-palestiniens-tombent-en-martyrs/",
-      "source": "La Presse (Tunisie)",
-      "lang": "fr",
-      "country": "Tunisie",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 17:45:47 +0000"
-    },
-    {
-      "title": "Le retrait de Johanna Gapany met le siège du PLR fribourgeois aux Conseils des Etats en grand danger",
-      "summary": "La sénatrice libérale-radicale ne cherchera pas à obtenir un troisième mandat en 2027. Son retrait place son parti dans une situation difficile. Tout indique qu’il provoquera une âpre bataille dans le canton de FribourgComme d’autres, elle ne répond pas au téléphone. Jeudi soir, la sénatrice Johanna Gapany a surpris. Face à l’assemblée des délégués des libéraux-radicaux, réunis à Fribourg, elle a ",
-      "link": "https://www.letemps.ch/articles/le-retrait-de-johanna-gapany-met-le-siege-du-plr-fribourgeois-aux-conseils-des-etats-en-grand-danger",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 19:39:32 +0200"
-    },
-    {
-      "title": "Élections régionales en Allemagne: le parti d'extrême droite AfD mobilise le passé est-allemand",
-      "summary": "C'est une élection régionale très attendue qui se tiendra, dimanche 6 septembre, en Allemagne. En Saxe-Anhalt, dans l'Est du pays, l'extrême droite pourrait arriver au pouvoir pour la première fois depuis la Seconde guerre mondiale. Une des raisons du succès de l'AfD (Alternative pour l'Allemagne), créditée de plus de 40% dans les sondages, c'est le sentiment d'identité des Allemands de l'Est et l",
-      "link": "https://www.rfi.fr/fr/podcasts/reportage-international/20260904-%C3%A9lections-r%C3%A9gionales-en-allemagne-le-parti-d-extr%C3%AAme-droite-afd-mobilise-le-pass%C3%A9-est-allemand",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 17:37:23 GMT"
-    },
-    {
-      "title": "La sécheresse et les guerres font bondir les prix alimentaires en août, selon la FAO",
-      "summary": "L’été européen exceptionnellement chaud et le phénomène El Niño menacent entre autres la production.",
-      "link": "https://www.ledevoir.com/economie/consommation/1006655/secheresse-guerres-font-bondir-prix-alimentaires-aout-selon-fao",
-      "source": "Le Devoir",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 13:34:02 -0400"
-    },
-    {
-      "title": "Express",
-      "summary": "PNUD Lancement de la 6e cohorte du projet d&#8217;Acc&#233;l&#233;rateur de croissance verte et d&#8217;emploi La Presse &#8212;Le Programme des Nations unies pour le d&#233;veloppement (Pnud) en Tunisie vient de lancer, en partenariat avec Flat6Labs, un appel &#224; candidatures dans le cadre de la sixi&#232;me cohorte du projet d&#8217;Acc&#233;l&#233;rateur de croissance verte et d&#8217;emploi",
-      "link": "https://www.lapresse.tn/2026/09/04/express-282/",
-      "source": "La Presse (Tunisie)",
-      "lang": "fr",
-      "country": "Tunisie",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 17:30:53 +0000"
-    },
-    {
-      "title": "« Mercator » : l’ONU encourage l’abandon de la projection pour l’utilisation d’une représentation cartographique plus réaliste",
-      "summary": "Cette réforme d’ampleur, adoptée vendredi, incite les organisations internationales et les Etats à utiliser des représentations du type « Equal Earth », plus fidèle à la taille réelle des continents.",
-      "link": "https://www.lemonde.fr/international/article/2026/09/04/l-onu-adopte-une-reforme-d-ampleur-pour-promouvoir-une-cartographie-mondiale-plus-proche-de-la-realite-que-la-projection-dite-de-mercator_6765845_3210.html",
-      "source": "Le Monde",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_internationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 19:29:48 +0200"
-    },
-    {
-      "title": "L'UE veut maintenir sa dynamique d'élargissement tout en renforçant les garde-fous",
-      "summary": "Les ministres des Affaires européennes des 27 États membres de l'Union européenne sont réunis à Dublin, vendredi 4 septembre, avec leurs homologues des pays candidats à l'adhésion. Ils discutent de l'état d'avancement des négociations, mais abordent aussi une question plus délicate : comment maintenir l'enthousiasme des populations pour l'Europe tout en préservant l'UE des mauvaises surprises aprè",
-      "link": "https://www.rfi.fr/fr/europe/20260904-l-ue-veut-maintenir-sa-dynamique-d-%C3%A9largissement-tout-en-renfor%C3%A7ant-les-garde-fous",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "politique_nationale",
-        "politique_internationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 17:25:44 GMT"
     },
     {
       "title": "Trump’s huge Venezuela deal began with a call and a bet on an oilman",
@@ -1092,31 +1438,6 @@
       "pubDate": "Fri, 04 Sep 2026 17:05:09 +0000"
     },
     {
-      "title": "Le spectacle de la frontière: la longue histoire du contrôle de gens du voyage en Europe occidentale",
-      "summary": "OPINION. Comme au début du XXe siècle, le débat public entourant les gens du voyage ne rend aujourd’hui compte ni de leurs itinéraires ni des raisons de leurs mobilités, telles que les visites familiales ou, à l’époque, des liens avec la population rurale, écrit Sarah Frenking, professeure assistante d'histoire contemporaine à l'Université de GenèveFin août, l’arrivée d’un groupe de gens du voyage",
-      "link": "https://www.letemps.ch/articles/le-spectacle-de-la-frontiere-la-longue-histoire-du-controle-de-gens-du-voyage-en-europe-occidentale",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 19:01:55 +0200"
-    },
-    {
-      "title": "Les États-Unis s’acharnent contre la Cour pénale internationale, l’Union européenne tergiverse",
-      "summary": "Des magistrats internationaux sous sanctions, des États mis sous pression pour renier leurs engagements: l’offensive de Washington contre la CPI est extrêmement violente. Face à elle, l’Union européenne tarde à activer un mécanisme de protection pourtant à portée de main.",
-      "link": "https://www.mediapart.fr/journal/international/040926/les-etats-unis-s-acharnent-contre-la-cour-penale-internationale-l-union-europeenne-tergiverse",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_internationale",
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 19:01:20 +0200"
-    },
-    {
       "title": "RNI : Chaouki vante le bilan du gouvernement Akhannouch à Khémisset",
       "summary": "Mohamed Chaouki, président du Rassemblement national des indépendants (RNI), a estimé que le gouvernement actuel, dirigé par Aziz Akhannouch, a opéré une transformation « qualitative et sans précédent » dans la gestion des politiques publiques, à travers le lancement de plusieurs grands chantiers de réforme au cœur des secteurs sociaux, notamment la santé et l’éducation.\nThe post RNI : Chaouki van",
       "link": "https://leseco.ma/maroc/rni-chaouki-vante-le-bilan-du-gouvernement-akhannouch-a-khemisset.html",
@@ -1129,30 +1450,6 @@
       "pubDate": "Fri, 04 Sep 2026 16:41:41 +0000"
     },
     {
-      "title": "Pourquoi nous devons réduire notre dépendance envers Microsoft",
-      "summary": "ÉDITORIAL. La décision de la Confédération de fournir des alternatives au géant technologique américain à 3000 employés est majeure. Elle doit permettre d’accroître sensiblement notre souveraineté numériqueQu’avons-nous contre Microsoft? Rien. La multinationale fait partie des géants de la tech américains plutôt sages. Loin des dérives de Meta sur les données personnelles au sein de Facebook ou In",
-      "link": "https://www.letemps.ch/articles/pourquoi-nous-devons-reduire-notre-dependance-envers-microsoft",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 18:40:09 +0200"
-    },
-    {
-      "title": "« Nous ne sommes pas prêts à ce qui va suivre » : les puissants modèles d’OpenAI et Anthropic, une menace sans précédent pour la cybersécurité mondiale",
-      "summary": "DÉCRYPTAGE - Face à des modèles IA capables d’identifier et d’exploiter des failles à une vitesse inédite, entreprises et États doivent revoir d’urgence leurs défenses.",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/nous-ne-sommes-pas-prets-a-ce-qui-va-suivre-les-puissants-modeles-d-openai-et-anthropic-une-menace-sans-precedent-pour-la-cybersecurite-mondiale-20260904",
-      "source": "Le Figaro",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 18:37:04 +0200"
-    },
-    {
       "title": "Rentrée littéraire : Les frères Bogdanoff sont-ils des (bons) personnages de roman ?",
       "summary": "La rentrée littéraire est marquée par la sortie, non pas d’un, mais de deux ouvrages sur Igor et Grichka Bogdanoff. L’un est un roman, l’autre un portrait intimiste, mais tous deux esquissent les contours d’une lignée et de personnages hors normes",
       "link": "https://www.20minutes.fr/arts-stars/livres/4242740-20260904-rentree-litteraire-freres-bogdanoff-bons-personnages-roman?at_medium=display&at_campaign=149",
@@ -1163,152 +1460,6 @@
         "culture"
       ],
       "pubDate": "Fri, 04 Sep 2026 16:35:47 GMT"
-    },
-    {
-      "title": "Protection des éléphants : le Kenya confronté à la “rançon de son succès”",
-      "summary": "Alors que le Kenya a pratiquement endigué le braconnage, les conflits entre les hommes et les éléphants sont devenus la première cause de mortalité illégale des pachydermes dans le pays. Régulièrement, la presse se fait l’écho de champs dévastés et d’intrusions parfois meurtrières.",
-      "link": "https://www.courrierinternational.com/article/animaux-protection-des-elephants-le-kenya-confronte-a-la-rancon-de-son-succes_267577",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 18:32:05 +0200"
-    },
-    {
-      "title": "Sécheresse: le plan d’urgence du gouvernement ne satisfait pas les agriculteurs",
-      "summary": "Les mesures d’aide d’un peu plus de 1 milliard d’euros annoncées par le gouvernement vendredi 4 septembre pour soutenir les agriculteurs après un été de sécheresse et de canicule sont jugées largement insuffisantes par les organisations syndicales.",
-      "link": "https://www.mediapart.fr/journal/france/040926/secheresse-le-plan-d-urgence-du-gouvernement-ne-satisfait-pas-les-agriculteurs",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 18:29:20 +0200"
-    },
-    {
-      "title": "Comment Giorgia Meloni a tenu 1413 jours au pouvoir en Italie sans perdre ses électeurs",
-      "summary": "La cheffe du gouvernement italien bat le record de Silvio Berlusconi avec une coalition stable et une communication directe sur les réseaux sociaux. Mais l’émergence du parti d’extrême droite de Roberto Vannacci menace cet équilibre«Le peuple te vomit». Le tag salit les habits blancs de Giorgia Meloni, le visage détendu et le regard tendu vers l’horizon, sur l’affiche invitant les habitants de Bar",
-      "link": "https://www.letemps.ch/articles/comment-giorgia-meloni-a-tenu-1413-jours-au-pouvoir-en-italie-sans-perdre-ses-electeurs",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_nationale",
-        "politique_internationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 18:07:15 +0200"
-    },
-    {
-      "title": "Milei ressuscite les revendications argentines sur les Malouines : un “virage radical”",
-      "summary": "Le président argentin a annoncé le 3 septembre un durcissement des sanctions contre les entreprises étrangères opérant dans ces îles sans autorisation de l’Argentine, ainsi que la construction d’une base navale en Terre de Feu. Une manière de relancer son mandat en s’appuyant sur Trump.",
-      "link": "https://www.courrierinternational.com/article/geopolitique-milei-ressuscite-les-revendications-argentines-sur-les-malouines-un-virage-radical_267576",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 18:00:26 +0200"
-    },
-    {
-      "title": "“Elle ne devrait même pas exister” : “The Guardian” en extase devant la tapisserie de Bayeux",
-      "summary": "Avant l’ouverture des portes au public, jeudi 10 septembre, une poignée de journalistes ont pu admirer l’œuvre en avant-première dans la pénombre du British Museum. Le chef de la rubrique Culture de ce grand journal londonien en était, pour une expérience aussi bouleversante qu’éprouvante.",
-      "link": "https://www.courrierinternational.com/article/billet-elle-ne-devrait-meme-pas-exister-the-guardian-en-extase-devant-la-tapisserie-de-bayeux_267501",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 17:52:36 +0200"
-    },
-    {
-      "title": "Dans 21 pays, un enfant sur cinq est victime d’atteintes sexuelles en ligne, alerte l’Unicef",
-      "summary": "L’Unicef publie ce jeudi un nouveau rapport concernant les abus sexuels sur des enfants en ligne. Ils croissent notamment en raison du développement des nouvelles technologiesLes chiffres font mal au ventre. Selon un nouveau rapport publié jeudi par l’Unicef, 20&nbsp;millions d’enfants âgés de 12 à 17&nbsp;ans – soit près de 1 sur 5 – ont été victimes d’au moins une forme d’exploitation ou d’attei",
-      "link": "https://www.letemps.ch/articles/dans-21-pays-un-enfant-sur-cinq-est-victime-d-atteintes-sexuelles-en-ligne-alerte-l-unicef",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 17:36:22 +0200"
-    },
-    {
-      "title": "Piratage du Fisc : Un hacker présumé du groupe « Zerobytes » mis en examen et écroué",
-      "summary": "Un homme de 18 ans, suspecté d’être membre du groupe de pirates informatiques « Zerobytes » et d’avoir participé aux attaques contre le fisc cet été, a été mis en examen et placé en détention provisoire",
-      "link": "https://www.20minutes.fr/justice/4242883-20260904-piratage-fisc-hacker-presume-groupe-zerobytes-mis-examen-ecroue?at_medium=display&at_campaign=149",
-      "source": "20 Minutes",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 15:21:34 GMT"
-    },
-    {
-      "title": "“Never Enough. Versions”, de Turnstile : un album qui offre “un festival” en soi",
-      "summary": "Un an après le remarqué “Never Enough”, le groupe de punk américain Turnstile remixe son album en invitant des artistes de tous bords à s’en emparer, d’Elton John à Oklou en passant par Blood Orange et A. G. Cook. “Never Enough. Versions” a conquis les critiques anglophones.",
-      "link": "https://www.courrierinternational.com/article/musique-never-enough-versions-de-turnstile-un-album-qui-offre-un-festival-en-soi_266974",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 17:00:11 +0200"
-    },
-    {
-      "title": "Fermeture des instituts Goethe en Russie : “Cela ne va pas aider nos deux peuples à se comprendre”",
-      "summary": "Visé par des sanctions allemandes, Moscou a riposté en annonçant la fermeture des instituts Goethe en Russie. Pour le journal berlinois “Die Tageszeitung”, la fermeture de ces centres culturels et linguistiques est un clou de plus dans le cercueil de l’amitié germano-russe.",
-      "link": "https://www.courrierinternational.com/une/une-du-jour-fermeture-des-instituts-goethe-en-russie-cela-ne-va-pas-aider-nos-deux-peuples-a-se-comprendre_267670",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique",
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 16:59:54 +0200"
-    },
-    {
-      "title": "A quoi ressemblera le Sommet international sur l’espace d'Emmanuel Macron que Donald Trump veut plomber?",
-      "summary": "L’événement de la semaine prochaine à Paris, cher au président français, se place dans la foulée d’un Space Act voulu par l’UE pour réglementer les activités spatiales. SpaceX et Blue Origin ont annulé leur participation après des pressions de la Maison-Blanche. L’Elysée se veut confiant sur l’utilité de ces échanges malgré toutIl y a de l’eau sur Mars mais aussi dans le gaz. Le média Politico rév",
-      "link": "https://www.letemps.ch/articles/a-quoi-ressemblera-le-sommet-international-sur-l-espace-de-macron-que-trump-veut-plomber",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_internationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 16:57:52 +0200"
-    },
-    {
-      "title": "Shocking ! « Deux fils » de la tapisserie de Bayeux ont été rompus lors du transfert à Londres",
-      "summary": "L’œuvre, très fragile, a été prêtée au British Museum de Londres",
-      "link": "https://www.20minutes.fr/arts-stars/culture/4242848-20260904-shocking-deux-fils-tapisserie-bayeux-rompus-lors-transfert-londres?at_medium=display&at_campaign=149",
-      "source": "20 Minutes",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 14:52:24 GMT"
-    },
-    {
-      "title": "«Cela fait 1424 jours que je suis privé de tout contact avec mes enfants»: un père toujours plus révolté combat sa peine à Genève",
-      "summary": "Condamné à 5 ans et demi de prison pour avoir fait vivre un enfer à sa famille et créé un danger mortel sur la route, le prévenu a comparu en fin de semaine devant la Chambre pénale d’appel. Il plaide l’immense détresse et dénonce un système destructeurIl tient minutieusement le décompte de tous les Noëls, toutes les fêtes d’anniversaire et tous les congés qu’il n’a pas pu passer avec ses deux jeu",
-      "link": "https://www.letemps.ch/articles/cela-fait-1424-jours-que-je-suis-prive-de-tout-contact-avec-mes-enfants-un-pere-toujours-plus-revolte-combat-sa-peine-a-geneve",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 16:37:53 +0200"
     },
     {
       "title": "France : Édouard Balladur s’en va…",
@@ -1336,67 +1487,6 @@
       "pubDate": "Fri, 04 Sep 2026 14:24:09 +0000"
     },
     {
-      "title": "Sommet spatial de Paris: derrière l'absence de SpaceX et Blue Origin «se joue un rapport de force»",
-      "summary": "Sur fond de rumeurs de pression de la Maison Blanche, Blue Origin de Jeff Bezos et SpaceX d'Elon Musk, deux acteurs mondiaux majeurs du secteur spatial privé, ont annulé leur participation au Sommet spatial des 9 et 10 septembre à Paris, voulu par Emmanuel Macron. Entretien avec Xavier Pasco, directeur de la Fondation pour la recherche stratégique (FRS), spécialiste de la politique spatiale améric",
-      "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260904-sommet-spatial-de-paris-derri%C3%A8re-l-absence-de-spacex-et-blue-origin-se-joue-un-rapport-de-force",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "politique_internationale",
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 14:18:45 GMT"
-    },
-    {
-      "title": "Le gouvernement tessinois retire son département à Claudio Zali, mais le ministre refuse de démissionner tout de suite",
-      "summary": "L’ouverture d’une deuxième procédure pénale visant Claudio Zali, conseiller d’Etat démissionnaire, secoue la classe politique tessinoise. En parallèle, les analyses toxicologiques de la femme retrouvée morte dans le lac Ceresio révèlent «une alcoolémie très élevée ainsi que la présence de benzodiazépines»Le Tessin est dans tous ses états. Mercredi en conférence de presse, le Conseil d’Etat, Claudi",
-      "link": "https://www.letemps.ch/articles/le-gouvernement-tessinois-retire-son-departement-a-claudio-zali-mais-le-ministre-refuse-de-demissionner-tout-de-suite",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 16:10:36 +0200"
-    },
-    {
-      "title": "Desmond Tutu et la «folie du pardon»:  «The Foolishness of God» ouvre le FIFDA à Paris",
-      "summary": "Prix Nobel de la paix en 1984 pour sa lutte contre l’apartheid, l’archevêque Tutu a continué à se battre contre les crimes contre l’humanité, en Afrique du Sud, au Rwanda, aux États-Unis… Et il a utilisé une arme bien à lui : le pardon. La réalisatrice américaine Karen Hayes l’a accompagné pendant quinze ans pour faire surgir l’origine très intime de cet engagement radical de Desmond Tutu au servi",
-      "link": "https://www.rfi.fr/fr/culture/20260904-desmond-tutu-et-la-folie-du-pardon-the-foolishness-of-god-ouvre-le-fifda-%C3%A0-paris",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 14:03:03 GMT"
-    },
-    {
-      "title": "Woman, 45, killed in Florence in seventh alleged femicide in Italy since mid-August",
-      "summary": "Lorena Isceri was thrown off a motorway bridge, allegedly by ex-boyfriend Federico VellaA 45-year-old woman abducted and thrown off a motorway bridge near Florence has become the seventh alleged femicide in Italy since mid-August.Lorena Isceri was abducted on Thursday afternoon, allegedly by her ex-boyfriend, Federico Vella, in the Rifredi area of Florence, before being forced into the boot of his",
-      "link": "https://www.theguardian.com/world/2026/sep/04/lorena-isceri-killed-in-florence-femicide-italy",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 13:56:14 GMT"
-    },
-    {
-      "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
-      "summary": "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep AmericasColombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on social media in which he strides through rows of white body bags that he says contained the corpses of 23 “neutralised” guerrillas.De La Espriella took power last month vowin",
-      "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 13:50:43 GMT"
-    },
-    {
       "title": "Conseil d’administration de la CNSS : La couverture sociale à marche forcée, l’équation financière en jeu",
       "summary": "La généralisation de la protection sociale entre&#160; dans une nouvelle phase, où la question ne sera plus seulement celle de la couverture, mais aussi celle de sa soutenabilité. Le Conseil d’administration de la Caisse nationale de sécurité sociale, réuni jeudi 3 septembre sous la présidence de Nadia Fettah, ministre de l’Économie et des Finances, a [&#8230;]",
       "link": "https://lecanardlibere.ma/a-la-une/conseil-dadministration-de-la-cnss-la-couverture-sociale-a-marche-forcee-lequation-financiere-en-jeu/",
@@ -1408,20 +1498,6 @@
         "economie"
       ],
       "pubDate": "Fri, 04 Sep 2026 13:42:01 +0000"
-    },
-    {
-      "title": "A Yverdon-les-Bains, la Maison d’Ailleurs fête son demi-siècle, une fraction d’éternité",
-      "summary": "Ambassade vaudoise des Martiens et des rêveurs, le musée de la science-fiction, de l’utopie et des voyages extraordinaires a accueilli Jules Verne, Alien, Tarkovski, Lovecraft ou Darth Vader dans ses murs. Il célèbre cinquante ans d’activités avec «Un refuge pour l’ailleurs», une exposition qui retrace son histoirePour évoquer la Maison d’Ailleurs, on peut citer l’allégation paradoxale du biblioph",
-      "link": "https://www.letemps.ch/articles/a-yverdon-les-bains-la-maison-d-ailleurs-fete-son-demi-siecle-une-fraction-d-eternite",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_internationale",
-        "geopolitique",
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 15:41:47 +0200"
     },
     {
       "title": "Transformation numérique : Amal El Fallah Seghrouchni primée aux Africa Next Awards à Paris",
@@ -1436,56 +1512,6 @@
         "ia_tech"
       ],
       "pubDate": "Fri, 04 Sep 2026 13:33:03 +0000"
-    },
-    {
-      "title": "Canicule: dans les écoles et les hôpitaux, des promesses en l’air",
-      "summary": "Au cours de l’été caniculaire, des engagements ont été pris pour les écoles et les hôpitaux. En cette rentrée toujours brûlante, le corps enseignant n’a rien vu arriver. Quant aux soignants, ils ont hérité de climatiseurs mobiles achetés en catastrophe sur le budget des établissements.",
-      "link": "https://www.mediapart.fr/journal/france/040926/canicule-dans-les-ecoles-et-les-hopitaux-des-promesses-en-l-air",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "economie",
-        "environnement_climat"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 15:27:38 +0200"
-    },
-    {
-      "title": "«Le Rouge et le Noir» inspire une mini-série, «le meilleur format qui soit»",
-      "summary": "«La mini-série mettra fin au genre de la série», assure le réalisateur Gaël Morel en défendant «Le Rouge et le Noir», adaptation fort classique présentée par France 2 avec Victor Belmondo et Virginie LedoyenIl y a le monument de Claude Autant-Lara, en 1954, avec Gérard Philipe. Et voici un nouveau Le Rouge et le Noir, (plutôt bien) porté cette fois par Victor Belmondo en Julien Sorel, qui défendai",
-      "link": "https://www.letemps.ch/articles/le-rouge-et-le-noir-inspire-une-mini-serie-le-meilleur-format-qui-soit",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_internationale",
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 15:08:07 +0200"
-    },
-    {
-      "title": "Ukraine: après une fusillade entre ses membres, Volodymyr Zelensky recadre les deux agences de renseignement",
-      "summary": "Le président ukrainien Volodymyr Zelensky a annoncé jeudi 3 septembre au soir des sanctions et une enquête après une fusillade cette semaine entre des membres des services de sécurité (SBU) et du renseignement militaire (GUR) à Kiev. L'incident, aux circonstances floues, a exposé au grand jour leur rivalité et blessé plusieurs personnes.",
-      "link": "https://www.rfi.fr/fr/europe/20260904-ukraine-apr%C3%A8s-une-fusillade-entre-ses-membres-volodymyr-zelensky-recadre-les-deux-agences-de-renseignement",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 12:59:43 GMT"
-    },
-    {
-      "title": "Soldats américains «en détente» à Pattaya: les démons de la prostitution militaire",
-      "summary": "La Thaïlande accueille depuis mercredi 2 septembre plus de 5 000 marines américains. 5 jours de permission avant de rentrer chez eux le 6 septembre. Leur porte-avions Abraham Lincoln a accosté dans le port de Pattaya après un record de 286 jours en mer au Moyen-Orient, mobilisé pour le conflit face à l'Iran. Un symbole fort - et de triste mémoire - qui résonne dans toute l'Asie.",
-      "link": "https://www.rfi.fr/fr/podcasts/l-asie-en-mouvement/20260904-soldats-am%C3%A9ricains-en-d%C3%A9tente-%C3%A0-pattaya-les-d%C3%A9mons-de-la-prostitution-militaire",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 12:05:19 GMT"
     },
     {
       "title": "Autour de la diète méditerranéenne, reconnue par l’Unesco comme patrimoine culturel immatériel de l’humanité: Des journées dédiées à la culture culinaire marocaine à Chefchaouen",
@@ -1522,30 +1548,6 @@
         "culture"
       ],
       "pubDate": "Fri, 04 Sep 2026 10:23:33 +0000"
-    },
-    {
-      "title": "SNEP : Hausse du chiffre d’affaires à 379,3 MDH  au 1er semestre 2026",
-      "summary": "Indicateurs Le chiffre d’affaires (CA) de SNEP (Société nationale d’électrolyse et de pétrochimie) s’est situé à 379,3 millions dirhams (MDH) au premier semestre 2026, en croissance de 5,4% comparativement à la même période un an auparavant. Au seul deuxième trimestre 2026, le CA a progressé de 7,8% pour atteindre 186,6 MDH, indique SNEP dans un [&#8230;]",
-      "link": "https://aujourdhui.ma/economie/snep-hausse-du-chiffre-daffaires-a-3793-mdh-au-1er-semestre-2026",
-      "source": "Aujourd'hui le Maroc",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 10:06:39 +0000"
-    },
-    {
-      "title": "Sofac augmente son PNB consolidé de 12% à fin juin",
-      "summary": "Poursuite de la croissance Le produit net bancaire (PNB) consolidé de Sofac s’est établi à 584 millions de dirhams (MDH) à fin juin dernier, en augmentation de 12% par rapport à la même période une année auparavant. En social, le PNB a progressé de 13%, à 594 MDH, traduisant la poursuite de la croissance de [&#8230;]",
-      "link": "https://aujourdhui.ma/economie/sofac-augmente-son-pnb-consolide-de-12-a-fin-juin",
-      "source": "Aujourd'hui le Maroc",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 10:06:10 +0000"
     },
     {
       "title": "Jeux en ligne offshore : le Maroc dans le top 10 mondial",
@@ -1585,54 +1587,29 @@
       "pubDate": "Fri, 04 Sep 2026 08:25:51 +0000"
     },
     {
-      "title": "Sécheresse : Voici les principales mesures du plan à un milliard d’euros pour les agriculteurs",
-      "summary": "La ministre de l’Agriculture, Annie Genevard, a annoncé ce vendredi un vaste plan de soutien censé limiter les faillites des fermes frappées par la sécheresse et les canicules",
-      "link": "https://www.20minutes.fr/planete/secheresse/4242732-20260904-secheresse-voici-principales-mesures-plan-milliard-euros-agriculteurs?at_medium=display&at_campaign=149",
+      "title": "«Des mois, voire des années» pour reconstituer certains stocks... Les États-Unis sont-ils à court de munitions stratégiques ?",
+      "summary": "INFOGRAPHIE – Les forces américaines ont consommé des quantités très importantes de munitions dans leur guerre contre l’Iran. Jusqu’à réduire plusieurs réserves au strict minimum. Mais Donald Trump a démenti toute pénurie.",
+      "link": "https://www.lefigaro.fr/international/des-mois-voire-des-annees-pour-reconstituer-certains-stocks-les-etats-unis-sont-ils-a-court-de-munitions-strategiques-20260904",
+      "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Fri, 04 Sep 2026 10:01:39 +0200"
+    },
+    {
+      "title": "Quelle est la recette du gouvernement de Giorgia Meloni, qui devient le plus long de l’Italie d’après-guerre ?",
+      "summary": "A la tête d’un gouvernement depuis 2022, Giorgia Meloni va battre le record de longévité d’un gouvernement depuis la Seconde Guerre mondiale en Italie. Sa coalition a la majorité parlementaire, et vise un scrutin national en 2027",
+      "link": "https://www.20minutes.fr/monde/italie/4242099-20260904-recette-gouvernement-giorgia-meloni-devient-plus-long-italie-apres-guerre?at_medium=display&at_campaign=149",
       "source": "20 Minutes",
       "lang": "fr",
       "country": "France",
       "themes": [
         "politique_nationale",
-        "culture"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 08:24:58 GMT"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Trump affirme que la guerre en Iran c’est de la « gnognotte » pour les Etats-Unis",
-      "summary": "Revivez avec nous les informations sur le conflit qui oppose l’Iran et les Etats-Unis en ce vendredi 4 septembre",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4242691-20260904-direct-guerre-moyen-orient-coree-sud-bientot-appui-ormuz?at_medium=display&at_campaign=149",
-      "source": "20 Minutes",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
         "geopolitique"
       ],
-      "pubDate": "Fri, 04 Sep 2026 06:39:13 GMT"
-    },
-    {
-      "title": "Guerre en Ukraine : Les émissaires de Trump se rendent à Kiev et Moscou « pour mettre fin à la guerre »",
-      "summary": "Revivez les informations sur le conflit russo-ukrainien de ce vendredi 4 septembre 2026",
-      "link": "https://www.20minutes.fr/monde/ukraine/4242685-20260904-direct-guerre-ukraine-volodymyr-zelensky-attend-emissaires-americains-apres-passage-russie?at_medium=display&at_campaign=149",
-      "source": "20 Minutes",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 05:51:33 GMT"
-    },
-    {
-      "title": "Under pressure, Iran lashes out and ramps up rhetoric",
-      "summary": "Iranian Vice President Mohammad Reza Aref said that Iran’s strategy would now be “asymmetrical” and warned, “Dark months await the American economy.”",
-      "link": "https://www.washingtonpost.com/world/2026/09/03/iran-fires-missiles-drones-kuwait-strikes-resume-us-war/",
-      "source": "The Washington Post",
-      "lang": "en",
-      "country": "États-Unis",
-      "themes": [
-        "geopolitique",
-        "economie"
-      ],
-      "pubDate": "Fri, 04 Sep 2026 00:21:21 +0000"
+      "pubDate": "Fri, 04 Sep 2026 04:47:36 GMT"
     },
     {
       "title": "Bouznika : La vague de démolitions fait marche arrière",
@@ -1672,31 +1649,6 @@
       "pubDate": "Thu, 03 Sep 2026 21:21:19 +0000"
     },
     {
-      "title": "Voyants, médiums, chamanes : les Russes se tournent vers l’occultisme pour retrouver leurs proches disparus en Ukraine",
-      "summary": "RÉCIT - L’armée russe est sans nouvelles de dizaines de milliers de ses soldats, ou ne livre pas d’informations aux familles, qui sont de plus en plus nombreuses à recourir, en désespoir de cause, aux pratiques occultes.",
-      "link": "https://www.lefigaro.fr/international/voyants-mediums-chamanes-les-russes-se-tournent-vers-l-occultisme-pour-retrouver-leurs-proches-disparus-en-ukraine-20260903",
-      "source": "Le Figaro",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Thu, 03 Sep 2026 22:37:15 +0200"
-    },
-    {
-      "title": "‘Supersized’ El Niño’s impact will be felt into 2027, U.N. warns",
-      "summary": "The intensifying climate phenomenon has brought the world into “a danger zone of extreme weather,” U.N. forecasters said.",
-      "link": "https://www.washingtonpost.com/weather/2026/09/04/supersized-el-nino-will-be-felt-into-2027-un-warns/",
-      "source": "The Washington Post",
-      "lang": "en",
-      "country": "États-Unis",
-      "themes": [
-        "geopolitique",
-        "environnement_climat"
-      ],
-      "pubDate": "Thu, 03 Sep 2026 18:01:49 +0000"
-    },
-    {
       "title": "Exportations de vêtements vers l’UE : le Maroc recule en volume, mais progresse en valeur",
       "summary": "Les exportations marocaines de vêtements vers l’Union européenne ont reculé de 9% sur les cinq premiers mois de 2026, à 1,05 milliard d’euros, selon un rapport de l’Association des exportateurs d’habillement d’Istanbul.\nThe post Exportations de vêtements vers l’UE : le Maroc recule en volume, mais progresse en valeur appeared first on LesEco.ma.",
       "link": "https://leseco.ma/business/exportations-de-vetements-vers-lue-le-maroc-recule-en-volume-mais-progresse-en-valeur.html",
@@ -1707,43 +1659,6 @@
         "politique_internationale"
       ],
       "pubDate": "Thu, 03 Sep 2026 15:41:39 +0000"
-    },
-    {
-      "title": "Auto Hall : le capital social porté à 541,4 MDH",
-      "summary": "La Bourse de Casablanca a annoncé, jeudi, les résultats de l'opération d'augmentation de capital en numéraire de la société \"Auto Hall\", portant sur un montant global de 249.993.250 dirhams (DH).\nThe post Auto Hall : le capital social porté à 541,4 MDH appeared first on LesEco.ma.",
-      "link": "https://leseco.ma/business/auto-hall-le-capital-social-porte-a-5414-mdh.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Thu, 03 Sep 2026 15:35:20 +0000"
-    },
-    {
-      "title": "Maroc : le budget genre à l’épreuve des résultats",
-      "summary": "Le Maroc a fait de la budgétisation sensible au genre un pilier de sa gestion des finances publiques. Mais après plus de deux décennies d’institutionnalisation, le défi n’est plus seulement d’intégrer le genre dans les programmes budgétaires, il est désormais de mesurer l’impact réel des crédits engagés sur les inégalités.\nThe post Maroc : le budget genre à l’épreuve des résultats appeared first o",
-      "link": "https://leseco.ma/maroc/maroc-quel-impact-pour-le-budget-genre.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Thu, 03 Sep 2026 14:09:56 +0000"
-    },
-    {
-      "title": "Tensions au Moyen-Orient : le secteur de l’énergie s’embrase",
-      "summary": "Les frappes américaines en Iran ont propulsé les prix du pétrole et du gaz à des sommets inédits depuis des mois, ravivant le spectre d’une crise énergétique mondiale.\nThe post Tensions au Moyen-Orient : le secteur de l’énergie s’embrase appeared first on LesEco.ma.",
-      "link": "https://leseco.ma/international/tensions-au-moyen-orient-le-secteur-de-lenergie-sembrase.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "politique_internationale",
-        "geopolitique"
-      ],
-      "pubDate": "Thu, 03 Sep 2026 13:57:33 +0000"
     },
     {
       "title": "The Ukraine war is intensifying, expanding and stuck",
@@ -2052,52 +1967,64 @@
       "pubDate": "Thu, 27 Feb 2020 08:27:18 +0200"
     },
     {
-      "title": "Peut-être la plus importante ingérence du fédéral dans une campagne électorale québécoise depuis 1995, s’inquiète le chef péquiste, Paul St-Pierre Plamondon",
-      "summary": "PSPP se dit préoccupé: il pourrait s’agir de la plus grande ingérence du gouvernement fédéral dans une campagne électorale québécoise depuis 1995.",
-      "link": "https://www.journaldemontreal.com/2026/09/04/peut-etre-la-plus-importante-ingerence-du-federal-depuis-1995-sinquiete-le-chef-pequiste-paul-st-pierre-plamondon",
+      "title": "EN DIRECT | Salaire des élus, IA et Trump au coeur du 10e jour de campagne",
+      "summary": "La campagne électorale entame samedi son deuxième week-end.",
+      "link": "https://www.journaldemontreal.com/2026/09/05/en-direct--voici-ou-sont-les-chefs-aujourdhui",
+      "source": "Journal de Montréal",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Sat, 05 Sep 2026 12:42:17 EDT"
+    },
+    {
+      "title": "«Chauffeur attitré» d’Olivier Primeau: un proche des Hells Angels s’invite dans la campagne de la CAQ et mobilise la police avec ses fausses images générées par l’IA",
+      "summary": "La Sûreté du Québec, chargée de veiller à la sécurité de la première ministre Fréchette, a mis en garde la CAQ après ces publications.",
+      "link": "https://www.journaldemontreal.com/2026/09/05/chauffeur-attitre--dolivier-primeau--un-proche-des-hells-angels-sinvite-dans-la-campagne-de-la-caq-et-mobilise-la-police-avec-ses-fausses-images-generees-par-lia",
       "source": "Journal de Montréal",
       "lang": "fr",
       "country": "Canada",
       "themes": [
         "politique_nationale"
       ],
-      "pubDate": "Fri, 04 Sep 2026 11:04:14 EDT"
+      "pubDate": "Sat, 05 Sep 2026 00:00:00 EDT"
     },
     {
-      "title": "L’Islande envoie promener l’Union européenne",
-      "summary": "Au lieu de flatter Mark Carney, elle ferait mieux de s’inquiéter de son propre avenir.",
-      "link": "https://www.journaldemontreal.com/2026/09/04/lislande-envoie-promener-lunion-europeenne",
+      "title": "Vivre à Cuba en temps de guerre froide (3e partie, suite et fin)",
+      "summary": "Je vous disais, la semaine dernière, que l’ingéniosité des Cubains est sans limite. «El Cubano inventa», entend-on souvent.",
+      "link": "https://www.journaldemontreal.com/2026/09/05/vivre-a-cuba-en-temps-de-guerre-froide-3e-partie-suite-et-fin",
       "source": "Journal de Montréal",
       "lang": "fr",
       "country": "Canada",
       "themes": [
-        "politique_internationale"
+        "geopolitique"
       ],
-      "pubDate": "Fri, 04 Sep 2026 00:00:00 EDT"
+      "pubDate": "Sat, 05 Sep 2026 00:00:00 EDT"
     },
     {
-      "title": "Les régions «éloignées» méritent aussi une culture foisonnante",
-      "summary": "Nous avons peu entendu parler de culture depuis le début de la campagne électorale. Normal, me dirait-on, il y a urgence ailleurs.",
-      "link": "https://www.journaldemontreal.com/2026/09/04/les-regions-eloignees-meritent-aussi-une-culture-foisonnante",
+      "title": "Poutines et guerre à l’auto: nos clins d’œil de campagne de la semaine",
+      "summary": "Pendant les chefs font campagne aux quatre coins du Québec, notre Bureau parlementaire reste à l’affût pour capter des moments cocasses.",
+      "link": "https://www.journaldemontreal.com/2026/09/05/poutines-et-guerre-a-lauto-nos-clins-dil-de-campagne-de-la-semaine",
       "source": "Journal de Montréal",
       "lang": "fr",
       "country": "Canada",
       "themes": [
-        "culture"
+        "geopolitique"
       ],
-      "pubDate": "Fri, 04 Sep 2026 00:00:00 EDT"
+      "pubDate": "Sat, 05 Sep 2026 00:00:00 EDT"
     },
     {
-      "title": "Christine Fréchette remet en question la viabilité financière d’un Québec indépendant",
-      "summary": "Contrairement à ses prédécesseurs, la première ministre sortante Christine Fréchette remet en question la viabilité financière d’un Québec souverain.",
-      "link": "https://www.journaldemontreal.com/2026/09/04/christine-frechette-remet-en-question-la-viabilite-financiere-dun-quebec-independant",
+      "title": "Dix ans à faire grandir la pêche en kayak au Québec",
+      "summary": "Au cours de la dernière décennie, ce type d’activité a connu une croissance fulgurante et continue d’attirer de nombreux nouveaux adeptes.",
+      "link": "https://www.journaldemontreal.com/2026/09/05/dix-ans-a-faire-grandir-la-peche-en-kayak-au-quebec",
       "source": "Journal de Montréal",
       "lang": "fr",
       "country": "Canada",
       "themes": [
-        "politique_nationale"
+        "economie"
       ],
-      "pubDate": "Fri, 04 Sep 2026 12:09:37 EDT"
+      "pubDate": "Sat, 05 Sep 2026 00:00:00 EDT"
     }
   ]
 }
