@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:36:24.391372+00:00",
+  "generated_at": "2026-11-02T12:59:21.930469+00:00",
   "themes": {
     "politique_nationale": "Politique nationale",
     "politique_internationale": "Politique internationale",
@@ -12,134 +12,192 @@
   },
   "articles": [
     {
-      "title": "Minister says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live",
-      "summary": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’Over on Sky earlier, the Liberal Democrats leader Sir Ed Davey has also backed the government’s move towards an apology saying “we should have that debate”.“If you’ve done something wrong, I have no problem for apologising. I think that’s what normal people expect to do,” he",
-      "link": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 11:33:04 GMT"
-    },
-    {
-      "title": "Five killed in fresh ethnic violence in restive northeast Indian state",
-      "summary": "Killings follow mass protests in Imphal demanding ‌abrogation of a ceasefire arrangement",
-      "link": "https://www.independent.co.uk/asia/india/manipur-ethnic-violence-kuki-naga-b3077062.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 11:25:40 GMT"
-    },
-    {
-      "title": "US warns Russia about ‘mass casualty event’ plot to attack Moscow",
-      "summary": "The alert has prompted the evacuation of Tsaritsyno Museum Reserve, only days before planned peace talks in Abu Dhabi",
-      "link": "https://www.independent.co.uk/news/world/europe/us-warns-russia-about-mass-casualty-terror-plot-b3077017.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique",
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 11:21:05 GMT"
-    },
-    {
-      "title": "Se rapprocher ou non de la Russie? Les Bulgares votent",
-      "summary": "Le second tour de l’élection présidentielle se tient ce dimanche en Bulgarie. La présidente sortante, Iliana Iotova, s’oppose à Andrey Gyurov, un ancien premier ministre pro-occidentalLes Bulgares ont commencé à voter dimanche pour le second tour d’une présidentielle disputée, sur fond de tensions accrues en mer Noire. L’élection met face à face deux candidats aux visions opposées sur la guerre en",
-      "link": "https://www.letemps.ch/articles/se-rapprocher-ou-non-de-la-russie-les-bulgares-votent",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_nationale",
-        "politique_internationale",
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 12:20:19 +0100"
-    },
-    {
-      "title": "Tunisie-Türkiye : 1,7 milliard de dollars d’échanges commerciaux et de nouvelles ambitions d’investissement",
-      "summary": "La Tunisie et la T&#252;rkiye entendent donner un nouvel &#233;lan &#224; leur coop&#233;ration &#233;conomique et commerciale, en misant notamment sur l&#8217;investissement, le tourisme, les &#233;changes universitaires et les projets communs. &#192; l&#8217;occasion de la c&#233;l&#233;bration du 103e anniversaire de la Proclamation de la R&#233;publique de T&#252;rkiye, organis&#233;e &#224; T",
-      "link": "https://www.lapresse.tn/2026/11/01/tunisie-turkiye-17-milliard-de-dollars-dechanges-commerciaux-et-de-nouvelles-ambitions-dinvestissement/",
-      "source": "La Presse (Tunisie)",
-      "lang": "fr",
-      "country": "Tunisie",
-      "themes": [
-        "politique_internationale"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 11:19:49 +0000"
-    },
-    {
-      "title": "Le Standard retombe dans la crise : Vincent Euvrard sous pression, des joueurs en régression et une direction face à ses responsabilités",
-      "summary": "Le Standard retombe dans la crise : Vincent Euvrard sous pression, des joueurs en régression et une direction face à ses responsabilités\n\n\t\n  \n  Tête basse, les Standardmen savent qu’ils traversent la première crise de leur saison. - Photonews  \n\n\tDans l’actualité, il y a ce qu’on appelle les marronniers. Vous savez, ces sujets qui reviennent inlassablement, souvent à intervalles réguliers, comme ",
-      "link": "http://www.lesoir.be/780248/article/2026-11-01/le-standard-retombe-dans-la-crise-vincent-euvrard-sous-pression-des-joueurs-en",
+      "title": "« Ça a été cataclysmique » : ce que l’on sait du spectaculaire crash d’un avion d’affaires en Floride",
+      "summary": "« Ça a été cataclysmique » : ce que l’on sait du spectaculaire crash d’un avion d’affaires en Floride\n\n\t\n  \n  REUTERS  \n\n\tNeuf personnes ont été tuées dimanche dans le sud-est des Etats-Unis dans l’accident spectaculaire d’un avion d’affaires tombé au sol comme une pierre à une dizaine de kilomètres de la résidence de Donald Trump en Floride, selon les autorités. « Ça a été cataclysmique », a comm",
+      "link": "http://www.lesoir.be/780425/article/2026-11-02/ca-ete-cataclysmique-ce-que-lon-sait-du-spectaculaire-crash-dun-avion-daffaires",
       "source": "Le Soir",
       "lang": "fr",
       "country": "Belgique",
-      "themes": [
-        "geopolitique",
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 11:10:46 +0000"
-    },
-    {
-      "title": "Badenoch claims British empire was force for good overall: ‘We have had enough of apologies’",
-      "summary": "The Tory leader criticised the prime minister for considering a formal apology for slavery",
-      "link": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-british-empire-slavery-apology-b3077038.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
       "themes": [
         "politique_nationale"
       ],
-      "pubDate": "Sun, 01 Nov 2026 11:06:12 GMT"
+      "pubDate": "Mon, 02 Nov 2026 12:55:06 +0000"
     },
     {
-      "title": "David Warner slams Australia after defeat to South Africa: ‘It is disgraceful’",
-      "summary": "Australia slipped to a 2-1 series defeat with a meek batting performance in Cape Town",
-      "link": "https://www.independent.co.uk/sport/cricket/david-warner-australia-south-africa-pat-cummins-b3077057.html",
+      "title": "El primer ministro de Bélgica presenta su dimisión tras \"el fracaso en la negociación de los presupuestos\" y el Rey la deja en suspenso hasta el viernes",
+      "summary": "De Weber quería aplicar un duro recorte de 10.000 millones y el acuerdo entre los cincos partidos que forman el Gobierno ha sido imposible&nbsp;Leer",
+      "link": "https://www.elmundo.es/internacional/2026/11/02/6ae85b41e9cf4abb738b4583.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 13:51:23 +0100"
+    },
+    {
+      "title": "Dustin Hoffman reveals ‘terrible experience' filming career-defining role",
+      "summary": "",
+      "link": "https://www.independent.co.uk/bulletin/culture/dustin-hoffman-graduate-autobiography-nichols-b3077534.html",
+      "source": "The Independent",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:49:39 GMT"
+    },
+    {
+      "title": "Ego, ce cher bourreau",
+      "summary": "Ego, ce cher bourreau\n\n\t\n  \n  La méchante petite voix intérieure de « BoJack Horseman », sur Netflix (saison 4, épisode 6), est impitoyable. - Netflix  \n\n\tTu n’es qu’une merde. Une stupide grosse merde. Mais au moins tu en es conscient et ça te rend un peu moins pire que les autres grosses merdes qui ignorent qu’elles le sont. Ou est-ce que c’est pire ? Petit-déjeuner ! Oh je ne mérite pas de peti",
+      "link": "http://www.lesoir.be/780424/article/2026-11-02/ego-ce-cher-bourreau",
+      "source": "Le Soir",
+      "lang": "fr",
+      "country": "Belgique",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:46:27 +0000"
+    },
+    {
+      "title": "What we know about the false nuclear warning in Ukraine following alert system hack",
+      "summary": "",
+      "link": "https://www.independent.co.uk/bulletin/news/ukraine-russia-war-emergency-alert-nuclear-b3077522.html",
       "source": "The Independent",
       "lang": "en",
       "country": "Royaume-Uni",
       "themes": [
         "geopolitique"
       ],
-      "pubDate": "Sun, 01 Nov 2026 11:01:56 GMT"
+      "pubDate": "Mon, 02 Nov 2026 12:45:12 GMT"
     },
     {
-      "title": "Michel Bussi : « Ce n’est pas un roman féministe »",
-      "summary": "Michel Bussi : « Ce n’est pas un roman féministe »\n\n\t\n  \n  Michel Bussi a été séduit par le côté romanesque des Beatles. - Philippe Mtasas  \n\n\tEt si le mythe des Beatles cachait un secret inimaginable ? Michel Bussi nous ouvre les coulisses du groupe le plus légendaire du rock, dans un suspense jubilatoire.\n  \nVous dédiez un livre entier aux Beatles. Pourquoi ce groupe et pas un autre artiste ?J’a",
-      "link": "http://www.lesoir.be/780247/article/2026-11-01/michel-bussi-ce-nest-pas-un-roman-feministe",
-      "source": "Le Soir",
+      "title": "EN DIRECT - Colère lycéenne : l’Union nationale des étudiants de France appelle à une «journée noire» mardi",
+      "summary": "Face à un gouvernement qui n’est selon lui pas à l’écoute, le collectif exhorte la jeunesse à bloquer les universités et à sortir «massivement» dans les rues le 3 novembre.",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-lycees-blocus-mobilisation-appel-greve-universites-blocages-six-seven-manifestation-20261102",
+      "source": "Le Figaro",
       "lang": "fr",
-      "country": "Belgique",
+      "country": "France",
       "themes": [
-        "ia_tech",
-        "culture"
+        "politique_nationale"
       ],
-      "pubDate": "Sun, 01 Nov 2026 11:00:38 +0000"
+      "pubDate": "Mon, 02 Nov 2026 13:41:27 +0100"
     },
     {
-      "title": "‘He’s a force’: Obama answers call to boost Democrats – and rattle Trump",
-      "summary": "Former president has given series of blistering speeches to help candidates in key races – and deployment has proved a hit with party’s progressive wingThat could have been awkward. Barack Obama, campaigning for Senate candidate Abdul El-Sayed in Michigan, acknowledged that his fellow Democrat has criticised some aspects of the Obama presidency.“Yeah, Abdul didn’t agree with some things we wanted ",
-      "link": "https://www.theguardian.com/us-news/2026/nov/01/barack-obama-midterms-democrats-trump",
-      "source": "The Guardian",
+      "title": "Ukraine-Russia war latest: Ukrainians receive fake nuclear emergency alert after app ‘hacked by enemy’",
+      "summary": "Ukraine said there was ‘no radiation threat’ despite warnings from the app",
+      "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-cyberattack-air-raid-b3077274.html",
+      "source": "The Independent",
       "lang": "en",
       "country": "Royaume-Uni",
       "themes": [
         "geopolitique"
       ],
-      "pubDate": "Sun, 01 Nov 2026 11:00:10 GMT"
+      "pubDate": "Mon, 02 Nov 2026 12:40:29 GMT"
     },
     {
-      "title": "Budget fédéral : les entretiens bilatéraux se poursuivent",
-      "summary": "Budget fédéral : les entretiens bilatéraux se poursuivent\n\n\t\n  \n  Bart De Wever (N-VA), Premier ministre. - BELGA.  \n\n\tLe Premier ministre Bart De Wever poursuivait ce dimanche ses entretiens bilatéraux avec ses vice-Premiers ministres, dans le cadre des discussions budgétaires. Frank Vandenbroucke (Vooruit) est attendu au 16 rue de la Loi à 13 h. Le vice-Premier ministre MR David Clarinval doit e",
-      "link": "http://www.lesoir.be/780246/article/2026-11-01/budget-federal-les-entretiens-bilateraux-se-poursuivent",
+      "title": "Les fans des « Feux de l’amour » se mobilisent : « Une perte immense pour la culture télévisuelle française »",
+      "summary": "Les fans des « Feux de l’amour » se mobilisent : « Une perte immense pour la culture télévisuelle française »\n\n\t\n  \n  © SONY PICTURES TELEVISION  \n\n\tLes fans du feuilleton « Les Feux de l’amour » se mobilisent. Le feuilleton américain ne sera plus diffusé en fin de matinée sur TF1 à la fin de l’année 2026. Un véritable crève-cœur pour les fans inconditionnels de la série américaine, à l’antenne de",
+      "link": "http://www.lesoir.be/780423/article/2026-11-02/les-fans-des-feux-de-lamour-se-mobilisent-une-perte-immense-pour-la-culture",
+      "source": "Le Soir",
+      "lang": "fr",
+      "country": "Belgique",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:39:35 +0000"
+    },
+    {
+      "title": "Le prix Médicis 2026 attribué à l’écrivain Philippe Vasset",
+      "summary": "L’auteur est récompensé ce lundi par le prestigieux prix littéraire pour son roman Dans les grandes lignes (Flammarion).",
+      "link": "https://www.lefigaro.fr/livres/le-prix-medicis-2026-attribue-a-l-ecrivain-philippe-vasset-20261102",
+      "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 13:39:21 +0100"
+    },
+    {
+      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+      "summary": "Silicon Valley companies said all-stock deal would create a ‘leader in AI connectivity’",
+      "link": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b",
+      "source": "Financial Times",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:38:56 GMT"
+    },
+    {
+      "title": "Crypto ‘scammers on overdrive’ as Binance customers pull billions from accounts after $6.3bn hack – business live",
+      "summary": "Rolling coverage of the latest economic and financial newsYi He, co-founder of Binance, has said that its top priority is to “ensure the environment is secure, after which users can withdraw their funds and Binance can resume operations.”She rejected comparisons with collapsed rival FTX, writing on X:Every action has a motive. Look at some fraudulent exchanges that absconded, P2P platforms, and co",
+      "link": "https://www.theguardian.com/business/live/2026/nov/02/crypto-scam-binance-billion-hack-business-live-latest-updates-news",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique",
+        "environnement_climat"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:38:06 GMT"
+    },
+    {
+      "title": "Décès du DJ américain Juan Atkins, pionnier de la musique techno",
+      "summary": "Décès du DJ américain Juan Atkins, pionnier de la musique techno\n\n\t\n  \n  BelgaImage.  \n\n\tLe DJ américain Juan Atkins, considéré comme l’un des pionniers de la musique techno, est mort à l’âge de 64 ans, ont annoncé son agence Greensmith Artists et plusieurs de ses proches sur les réseaux sociaux.\n  \n\n\n\n        \n    \n    \nGreensmith a publié la nouvelle en postant sur Instagram un portrait d’Atkins",
+      "link": "http://www.lesoir.be/780422/article/2026-11-02/deces-du-dj-americain-juan-atkins-pionnier-de-la-musique-techno",
+      "source": "Le Soir",
+      "lang": "fr",
+      "country": "Belgique",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:34:35 +0000"
+    },
+    {
+      "title": "Beaches, Beatles and a broken marriage: how Wilhelmina Barns-Graham became a radical art icon",
+      "summary": "The artist who was inspired by Swiss glaciers, the Vietnam war and her own divorce was sidelined from St Ives’ art history – but finally has a major retrospective at TateAt the centre of Tate St Ives’ newly opened retrospective of the British modernist Wilhelmina Barns-Graham, her monumental altar-piece Glacier (Blue Cave) pulls viewers into its frozen tendons of turquoise and white. Its mouth is ",
+      "link": "https://www.theguardian.com/artanddesign/2026/nov/02/beaches-beatles-broken-marriage-wilhelmina-barns-graham-art-tate-st-ives",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "politique_internationale",
+        "geopolitique",
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:30:20 GMT"
+    },
+    {
+      "title": "Juan Atkins, DJ who helped create techno music genre, dies aged 64",
+      "summary": "",
+      "link": "https://www.independent.co.uk/bulletin/culture/juan-atkins-dead-techno-b3077506.html",
+      "source": "The Independent",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:29:37 GMT"
+    },
+    {
+      "title": "Best casino welcome bonuses and sign up offers for UK players in November 2026",
+      "summary": "Compare casino bonuses in the UK, from no deposit free spins to no wagering offers, with bonus codes and the 10x wagering cap explained",
+      "link": "https://www.independent.co.uk/games/casino-bonuses-b2604025.html",
+      "source": "The Independent",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:27:12 GMT"
+    },
+    {
+      "title": "« Instabilité », « Chaos politique », « La situation est grave »... les réactions politiques à la crise qui secoue le fédéral",
+      "summary": "« Instabilité », « Chaos politique », « La situation est grave »... les réactions politiques à la crise qui secoue le fédéral\n\n\t\n  \n  AFP  \n\n\tL’opposition fait part lundi de son incompréhension face à la décision du Premier ministre Bart De Wever de se rendre chez le Roi après l’échec nocturne des négociations budgétaires.\n    \n    \n            À lire aussi\n      En direct – Crise au fédéral : le ",
+      "link": "http://www.lesoir.be/780421/article/2026-11-02/instabilite-chaos-politique-la-situation-est-grave-les-reactions-politiques-la",
       "source": "Le Soir",
       "lang": "fr",
       "country": "Belgique",
@@ -147,55 +205,1400 @@
         "politique_nationale",
         "economie"
       ],
-      "pubDate": "Sun, 01 Nov 2026 10:59:40 +0000"
+      "pubDate": "Mon, 02 Nov 2026 12:23:16 +0000"
     },
     {
-      "title": "Man United sleepwalking towards relegation asks one question: Where is the rage?",
-      "summary": "Chelsea 2-0 Manchester United: A second-half unravelling at Stamford Bridge, turned by Lisandro Martinez’s red card, leaves the visitors hovering above the bottom three and Michael Carrick continuing to insist he will fight on",
-      "link": "https://www.independent.co.uk/sport/football/man-utd-michael-carrick-latest-news-chelsea-premier-league-b3076887.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
+      "title": "Attentat raciste à Trappes : Le père de Pengo Bossio Wangi espère une « prise de conscience » après l’hommage national",
+      "summary": "Le gouvernement a annoncé un hommage national aux victimes de l’attentat raciste des Yvelines, mais n’a toujours pas précisé de date",
+      "link": "https://www.20minutes.fr/societe/4259684-20261102-attentat-raciste-trappes-pere-pengo-bossio-wangi-espere-prise-conscience-apres-hommage-national?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:20:39 GMT"
+    },
+    {
+      "title": "Prix de l'énergie - Testachats conseille de se pencher sur son contrat d'énergie face à la flambée des prix",
+      "summary": "Prix de l'énergie - Testachats conseille de se pencher sur son contrat d'énergie face à la flambée des prix\n\n\tSur base des grilles tarifaires des contrats fixes publiées par la plupart des fournisseurs d'énergie ce 2 novembre, Testachats estime que \"les tarifs fixes de l'énergie coûtent 1.400 euros de plus en novembre qu'en mars\", ce qui les situe à des niveaux qui n'avaient plus été atteints depu",
+      "link": "http://www.lesoir.be/780420/article/2026-11-02/prix-de-lenergie-testachats-conseille-de-se-pencher-sur-son-contrat-denergie",
+      "source": "Le Soir",
+      "lang": "fr",
+      "country": "Belgique",
       "themes": [
         "geopolitique"
       ],
-      "pubDate": "Sun, 01 Nov 2026 10:57:58 GMT"
+      "pubDate": "Mon, 02 Nov 2026 12:20:12 +0000"
     },
     {
-      "title": "Carrick to stay in charge for Roma game; Challinor in at Sheffield Wednesday; Liverpool v Arsenal buildup – matchday live",
-      "summary": "⚽ All the latest as we build up to Sunday’s games⚽ Live scores | Premier League table | FixturesIt is not going well for Oliver Glasner at Nottingham Forest, to say the least.“For me, I go home and have breakfast with my family, so it’s not the worst situation,” Glasner said. “Nobody needs to have pity with Oliver Glasner. If I want, I could start in two weeks somewhere else. I won’t do it. But th",
-      "link": "https://www.theguardian.com/football/live/2026/nov/01/carrick-defiant-after-latest-defeat-liverpool-v-arsenal-buildup-wsl-and-more-matchday-live",
+      "title": "Crise gouvernementale - \"Pas le moment de provoquer une crise politique\" (2)",
+      "summary": "Crise gouvernementale - \"Pas le moment de provoquer une crise politique\" (2)\n\n\tRéuni dimanche soir, le kern s'est terminé vers 01h00 du matin lundi sur un constat d'échec des négociations budgétaires. Le Premier ministre Bart De Wever s'est rendu chez le Roi en matinée. Il lui a présenté sa démission et le Roi tient sa décision en suspens, il consultera dès mardi les présidents de parti de la majo",
+      "link": "http://www.lesoir.be/780419/article/2026-11-02/crise-gouvernementale-pas-le-moment-de-provoquer-une-crise-politique-2",
+      "source": "Le Soir",
+      "lang": "fr",
+      "country": "Belgique",
+      "themes": [
+        "politique_nationale",
+        "geopolitique",
+        "economie"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:20:11 +0000"
+    },
+    {
+      "title": "Près de deux ans après sa terrible chute, «tous les voyants sont au vert» en vue d’un retour de Cyprien Sarrazin en Coupe du monde de ski alpin",
+      "summary": "Victime d’un grave hématome intracrânien en décembre 2024, le skieur français pourrait être au départ du super-G de Copper Mountain (Etats-Unis) le 28 novembreLe skieur français Cyprien Sarrazin, victime d’une chute gravissime il y a près de deux ans, s’est dit lundi «plutôt confiant» dans la possibilité d’être au départ de l’étape de Coupe du monde de ski alpin de Copper Mountain (Etats-Unis), le",
+      "link": "https://www.letemps.ch/articles/pres-de-deux-ans-apres-sa-terrible-chute-tous-les-voyants-sont-au-vert-en-vue-d-un-retour-de-cyprien-sarrazin-en-coupe-du-monde-de-ski-alpin",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 13:19:19 +0100"
+    },
+    {
+      "title": "« Ça fait maintenant 12 ans que Donald Trump nous trotte dans la tête, et c’est épuisant »",
+      "summary": "« Ça fait maintenant 12 ans que Donald Trump nous trotte dans la tête, et c’est épuisant »\n\n\t\n  \n  Pour Jordan Harper, les Etats-Unis ont besoin de personnes qui expriment une vérité spirituelle, afin de remontrer que le type au coin de la rue compte autant que nous. - Brian Hennigan.  \n\n\tJordan Harper est né à Springfield, dans le Missouri, mais il vit à Los Angeles depuis de longues années. Il e",
+      "link": "http://www.lesoir.be/780418/article/2026-11-02/ca-fait-maintenant-12-ans-que-donald-trump-nous-trotte-dans-la-tete-et-cest",
+      "source": "Le Soir",
+      "lang": "fr",
+      "country": "Belgique",
+      "themes": [
+        "politique_nationale",
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:18:36 +0000"
+    },
+    {
+      "title": "Global AI sell-off eases after Nasdaq’s worst month in over a year",
+      "summary": "US tech stocks set to start week higher helped by falling oil price",
+      "link": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:17:58 GMT"
+    },
+    {
+      "title": "Qu’est-ce que l’Institut international d’études géopolitiques ?",
+      "summary": "Fondé et présidé par Khaled Hamadé, l’Institut international d’études géopolitiques (IIEG) est un laboratoire d’idées indépendant, implanté en France et consacré à l’analyse des grandes transformations géopolitiques mondiales.\nThe post Qu’est-ce que l’Institut international d’études géopolitiques ? appeared first on LesEco.ma.",
+      "link": "https://leseco.ma/maroc/quest-ce-que-linstitut-international-detudes-geopolitiques.html",
+      "source": "Les Inspirations Éco",
+      "lang": "fr",
+      "country": "Maroc",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:11:56 +0000"
+    },
+    {
+      "title": "Troubles dépressifs : la vulnérabilité des femmes prend racine dans les inégalités de genre",
+      "summary": "Dans un rapport, publié lundi 2 novembre, le Haut Conseil à l’égalité entre les femmes et les hommes montre que le risque plus élevé de dépression chez les femmes est le produit d’une construction sociale, ces dernières étant, tout au long de leur vie, plus exposées aux inégalités et aux violences.",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/02/troubles-depressifs-la-vulnerabilite-des-femmes-prend-racine-dans-les-inegalites-de-genre_6805249_3224.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 13:10:28 +0100"
+    },
+    {
+      "title": "Technologie : Avec la participation de 900 experts, le Forum international des DSI s’ouvre jeudi à Hammamet",
+      "summary": "La ville de Hammamet accueillera du jeudi 5 au samedi 7 novembre la 12e &#233;dition du Forum international des directeurs des syst&#232;mes d&#8217;information, sous l&#8217;enseigne &#171; Orientation compl&#232;te : de l&#8217;id&#233;e &#224; la valeur &#187;. Ce rendez-vous technologique majeur r&#233;unira des directeurs des syst&#232;mes d&#8217;information, des experts, des entreprises sp&",
+      "link": "https://www.lapresse.tn/2026/11/02/technologie-avec-la-participation-de-900-experts-le-forum-international-des-dsi-souvre-jeudi-a-hammamet/",
+      "source": "La Presse (Tunisie)",
+      "lang": "fr",
+      "country": "Tunisie",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:08:32 +0000"
+    },
+    {
+      "title": "Crise au fédéral : « L’intérêt du pays doit prévaloir sur l’intérêt des partis », insiste Maxime Prévot",
+      "summary": "Crise au fédéral : « L’intérêt du pays doit prévaloir sur l’intérêt des partis », insiste Maxime Prévot\n\n\t\n  \n  LESOIR.  \n\n\tDans deux longues publications diffusées sur son compte X, le ministre des Affaires étrangères s’est exprimé sur la crise au fédéral. « Faire des économies pour assainir nos finances est toujours délicat, mais c’est une nécessité. Nous avons mis en œuvre des réformes importan",
+      "link": "http://www.lesoir.be/780416/article/2026-11-02/crise-au-federal-linteret-du-pays-doit-prevaloir-sur-linteret-des-partis-insiste",
+      "source": "Le Soir",
+      "lang": "fr",
+      "country": "Belgique",
+      "themes": [
+        "politique_nationale",
+        "economie"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:07:26 +0000"
+    },
+    {
+      "title": "We answered your US midterm questions on the economy, the Iran war, immigration and more",
+      "summary": "Millions of Americans are expected to vote in the midterm elections, which could reshape the country. What do you need to know before you head to the polls?The US midterm elections could have an outsized impact on the future of the United States – that’s why over the last month, we’ve been hosting a series of reader conversations on big-ticket issues Americans will see on their ballots.Democratic ",
+      "link": "https://www.theguardian.com/community/2026/nov/02/midterm-reader-q-a-series-immigration-economy",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "politique_nationale",
+        "geopolitique",
+        "economie"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:00:40 GMT"
+    },
+    {
+      "title": "You can go your own way: US diverges from world on emergency preparedness",
+      "summary": "As governments urge public to prepare for cyber-attacks and natural disasters, US focuses on military preparationGovernments around the world are spearheading new campaigns to encourage the general public to be prepared for a host of emergencies that could disrupt essential services, including cyber-attacks and natural disasters. The United States, however, is taking a different approach: focusing",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/us-emergency-preparedness-military",
       "source": "The Guardian",
       "lang": "en",
       "country": "Royaume-Uni",
       "themes": [
         "geopolitique"
       ],
-      "pubDate": "Sun, 01 Nov 2026 10:55:48 GMT"
+      "pubDate": "Mon, 02 Nov 2026 12:00:40 GMT"
     },
     {
-      "title": "Ukraine-Russia war latest: Russian official says oil refinery hit in ‘massive’ drone attack",
-      "summary": "Russian investigators open criminal case over suspected Ukrainian attack on industrial facility",
-      "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-live-drone-oil-refinery-nizhny-novgorod-kstovo-b3077050.html",
-      "source": "The Independent",
+      "title": "Budget 2027 : les discussions se poursuivent dans un hémicycle clairsemé, où les députés votent des amendements au devenir incertain",
+      "summary": "Les débats ont tourné à la critique de la politique économique macroniste, après la publication par l’Insee de mauvaises nouvelles pour la croissance. Un vote solennel est prévu mardi 3 novembre sur le volet recettes.",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/02/budget-2027-les-discussions-se-poursuivent-dans-un-hemicycle-clairseme-ou-les-deputes-votent-des-amendements-au-devenir-incertain_6805244_823448.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "economie"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:57:23 +0100"
+    },
+    {
+      "title": "Sahara occidental : le risque accru d’un affrontement direct entre Rabat et Alger",
+      "summary": "Le 1er novembre a sonné la fin du mandat de la mission onusienne au Sahara occidental. La question du renouvellement de son mandat a donné lieu à une passe d’armes diplomatique à coup de veto successif entre Washington et Moscou. Chacun agissait pour le compte de son poulain respectif, le Maroc et l’Algérie, estime “Le Djely”. Pour le titre guinéen, la fin de la médiation onusienne signifie aussi ",
+      "link": "https://www.courrierinternational.com/article/vu-de-guinee-au-sahara-occidental-le-risque-accru-d-un-affrontement-direct-entre-rabat-et-alger_284101",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:55:43 +0100"
+    },
+    {
+      "title": "Feijóo llama a la \"reconstrucción nacional\" frente a un Gobierno que \"gestiona pensando en el poder como único fin\"",
+      "summary": "El presidente del PP critica que el Ejecutivó esté \"con sondeos para ver si les perjudica\" el siniestro ferroviario de Urda cuando aún \"no se han entregado los cuerpos de las víctimas a sus familiares\"&nbsp;Leer",
+      "link": "https://www.elmundo.es/espana/2026/11/02/6ae87031fc6c83065d8b45a6.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:50:53 +0100"
+    },
+    {
+      "title": "Iran : Téhéran envisage de rouvrir le détroit d’Ormuz",
+      "summary": "L&#8217;Iran &#233;tudie un plan visant &#224; rouvrir le d&#233;troit d&#8217;Ormuz dans un d&#233;lai de deux jours, &#224; condition que les &#201;tats-Unis acceptent ses exigences, a annonc&#233; lundi le minist&#232;re iranien des Affaires &#233;trang&#232;res. T&#233;h&#233;ran avait pr&#233;c&#233;demment propos&#233; un d&#233;lai d&#8217;une semaine. Le porte-parole de la diplomatie irani",
+      "link": "https://www.lapresse.tn/2026/11/02/iran-teheran-envisage-de-rouvrir-le-detroit-dormuz/",
+      "source": "La Presse (Tunisie)",
+      "lang": "fr",
+      "country": "Tunisie",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:50:22 +0000"
+    },
+    {
+      "title": "Carole Melly-Basili, la centriste qui défie Christophe Darbellay en Valais",
+      "summary": "Avocate et mère de trois enfants, la députée de 38 ans brigue une candidature au Conseil des Etats pour les élections fédérales de 2027. Lancée dans une campagne qui durera cinq mois, elle devra convaincre les membres de son parti qu’une nouvelle génération peut siéger parmi les sénateursAux murs de son bureau, elle a accroché des photographies des montagnes de la région. Elle sourit: «Je considèr",
+      "link": "https://www.letemps.ch/articles/carole-melly-basili-la-centriste-qui-defie-christophe-darbellay-en-valais",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:43:36 +0100"
+    },
+    {
+      "title": "Carburants : le gouvernement affirme que le prix du gazole a baissé de « 12 à 18 centimes » dans plus de la moitié des stations-service grâce à la libération de stocks stratégiques",
+      "summary": "Cette baisse de la facture correspond exactement aux promesses faites par Bercy en octobre. Mais certaines stations-service indépendantes regrettent de n’avoir pas bénéficié des déstockages en même temps que les grandes surfaces ou TotalEnergies.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/02/carburants-le-gouvernement-affirme-que-le-prix-du-gazole-a-baisse-de-12-a-18-centimes-dans-plus-de-la-moitie-des-stations-service-grace-a-la-liberation-de-stocks-strategiques_6805242_3234.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:43:05 +0100"
+    },
+    {
+      "title": "‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster",
+      "summary": "The Jojo Rabbit director blamed the dismal numbers for his film of Kazuo Ishiguro’s novel on ‘obsolete’ reviewers’ notices, adding that he works ‘for the people’ – whose Rotten Tomatoes ratings are much higherTaika Waititi has launched a furious broadside at “critics” following the disastrous commercial performance of Klara and the Sun, his new film adapted from a Kazuo Ishiguro novel.In a post on",
+      "link": "https://www.theguardian.com/film/2026/nov/02/taika-waititi-lambasts-critics-after-klara-and-the-sun-box-office-disaster",
+      "source": "The Guardian",
       "lang": "en",
       "country": "Royaume-Uni",
       "themes": [
-        "geopolitique"
+        "culture"
       ],
-      "pubDate": "Sun, 01 Nov 2026 10:38:25 GMT"
+      "pubDate": "Mon, 02 Nov 2026 11:38:35 GMT"
     },
     {
-      "title": "L'Iran avertit qu'une nouvelle guerre avec les États-Unis pourrait être «plus longue que la précédente»",
-      "summary": "Donald Trump a indiqué samedi que les États-Unis avaient anéanti une grande partie des capacités nucléaires iraniennes mais qu’ils devaient encore «s’occuper» d’un ou deux sites.",
-      "link": "https://www.lefigaro.fr/international/l-iran-avertit-qu-une-nouvelle-guerre-avec-les-etats-unis-pourrait-etre-plus-longue-que-la-precedente-20261101",
+      "title": "En Belgique, le Premier ministre remet sa démission, le roi temporise",
+      "summary": "Bart De Wever s’est rendu chez le roi Philippe le lundi 2 novembre. À la tête d’une coalition de cinq partis, le Premier ministre ne parvient pas à les faire tomber d’accord sur un budget. À l’issue de cet entretien, le roi a annoncé qu’il suspendait sa décision quant au sort du Premier ministre et qu’il allait entamer des discussions avec les chefs de parti de la majorité.",
+      "link": "https://www.courrierinternational.com/article/politique-en-belgique-le-premier-ministre-remet-sa-demission-le-roi-temporise_284128",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale",
+        "economie"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:32:43 +0100"
+    },
+    {
+      "title": "Pour Michel Houellebecq, une présidence de Marine Le Pen « ne serait pas très différente de ce que fait Giorgia Meloni » en Italie",
+      "summary": "Dans la presse espagnole, le romancier s’interroge sur l’identité politique du Rassemblement national, qu’il refuse de classer à l’extrême droite et range parmi les « nationalistes, conservateurs ou très conservateurs ».",
+      "link": "https://www.lefigaro.fr/livres/pour-michel-houellebecq-une-presidence-de-marine-le-pen-ne-serait-pas-tres-differente-de-ce-que-fait-giorgia-meloni-en-italie-20261102",
       "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:32:26 +0100"
+    },
+    {
+      "title": "Sidi Bouzid-huile d’olive : plus de 100 sites recensés pour la gestion des margines",
+      "summary": "Le gouvernorat de Sidi Bouzid compte plus de 100 sites destin&#233;s &#224; la gestion des margines, un sous-produit liquide issu de la transformation des olives. Parmi ces installations, deux seulement sont am&#233;nag&#233;es conform&#233;ment aux normes environnementales. Elles sont situ&#233;es dans les d&#233;l&#233;gations de Sidi Ali Ben Aoun, avec une capacit&#233; de 36 000 m&#179;, et [&",
+      "link": "https://www.lapresse.tn/2026/11/02/sidi-bouzid-huile-dolive-plus-de-100-sites-recenses-pour-la-gestion-des-margines/",
+      "source": "La Presse (Tunisie)",
+      "lang": "fr",
+      "country": "Tunisie",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:30:19 +0000"
+    },
+    {
+      "title": "Iran : Téhéran se dit prêt à rouvrir le détroit d’Ormuz sous deux jours si Washington accepte ses conditions",
+      "summary": "La République islamique exige notamment un cessez-le-feu régional et la levée des sanctions, alors que Donald Trump menace de lui « donner un coup de massue », à deux jours des élections de mi-mandat.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/02/iran-teheran-se-dit-pret-a-rouvrir-le-detroit-d-ormuz-sous-deux-jours-si-washington-accepte-ses-conditions_6805241_3210.html",
+      "source": "Le Monde",
       "lang": "fr",
       "country": "France",
       "themes": [
         "geopolitique"
       ],
-      "pubDate": "Sun, 01 Nov 2026 11:33:11 +0100"
+      "pubDate": "Mon, 02 Nov 2026 12:28:23 +0100"
+    },
+    {
+      "title": "Concours GREEN’TIC 2026 : quatre projets agricoles innovants primés",
+      "summary": "Quatre solutions innovantes faisant appel aux technologies num&#233;riques et aux outils intelligents ont &#233;t&#233; prim&#233;es lors de la quatri&#232;me &#233;dition du concours national &#171; GREEN&#8217;TIC 2026 &#187;, organis&#233; dans le cadre de la 16e &#233;dition du Salon international de l&#8217;investissement agricole et de la technologie (SIAT 2026). Les projets r&#233;compens&#",
+      "link": "https://www.lapresse.tn/2026/11/02/concours-greentic-2026-quatre-projets-agricoles-innovants-primes/",
+      "source": "La Presse (Tunisie)",
+      "lang": "fr",
+      "country": "Tunisie",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:26:57 +0000"
+    },
+    {
+      "title": "Belgique : le premier ministre, Bart De Wever, présente sa démission au roi sur fond de blocage budgétaire au Parlement",
+      "summary": "Faute de compromis au sein de la coalition au pouvoir, le premier ministre, Bart De Wever, a présenté lundi sa démission au roi, qui n’a pas tranché et le recevra de nouveau vendredi.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/02/belgique-le-premier-ministre-bart-de-wever-presente-sa-demission-au-roi-sur-fond-de-blocage-budgetaire_6805239_3210.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:24:15 +0100"
+    },
+    {
+      "title": "Prévu du 5 au 8 novembre : Festival international  de la Blouza à Oujda",
+      "summary": "Manifestation La 9ème édition du Festival international de la blouza se tiendra, du 5 au 8 novembre à Oujda, sous le thème «La Blouza, un fil qui relie les régions du Royaume». Placé sous le Haut patronage de SM le Roi Mohammed VI par l’Association orientale pour le développement (AOD), cet événement culturel et artistique [&#8230;]",
+      "link": "https://aujourdhui.ma/culture/prevu-du-5-au-8-novembre-festival-international-de-la-blouza-a-oujda",
+      "source": "Aujourd'hui le Maroc",
+      "lang": "fr",
+      "country": "Maroc",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:24:00 +0000"
+    },
+    {
+      "title": "Guerre d'ego chez Ferrari, les tensions perdurent entre Hamilton et Leclerc",
+      "summary": "",
+      "link": "https://www.lequipe.fr/Formule-1/Article/-c-est-dommage-de-devoir-se-battre-contre-son-equipier-guerre-d-ego-chez-ferrari-les-tensions-perdurent-entre-lewis-hamilton-et-charles-leclerc/1740521#at_medium=RSS_feeds",
+      "source": "L'Équipe",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:14:22 +0100"
+    },
+    {
+      "title": "Jawad Kerdoudi: “Le processus onusien est suspendu, mais le Maroc entend poursuivre son action aux niveaux bilatéral et régional”",
+      "summary": "Pour la première fois depuis 1991, le mandat de la Minurso n’a pas été renouvelé.\nThe post Jawad Kerdoudi: “Le processus onusien est suspendu, mais le Maroc entend poursuivre son action aux niveaux bilatéral et régional” appeared first on LesEco.ma.",
+      "link": "https://leseco.ma/maroc/jawad-kerdoudi-le-processus-onusien-est-suspendu-mais-le-maroc-entend-poursuivre-son-action-aux-niveaux-bilateral-et-regional.html",
+      "source": "Les Inspirations Éco",
+      "lang": "fr",
+      "country": "Maroc",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:12:56 +0000"
+    },
+    {
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "summary": "Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French storesSupermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of their refrigerators and freezers in dozens of stores rose overnight, prompting fears of a cyber-attack similar to one that caused millions of euros of food losses in France.Sweden’s Coop chain told the da",
+      "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:12:36 GMT"
+    },
+    {
+      "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+      "summary": "Residents in Kyiv also warned of chemical attack and street-to-street fighting in false message sent by unknown partyEurope live – latest updatesUnknown hackers have targeted Ukraine’s nationwide emergency alert mobile app, sending residents in Kyiv a warning that they were at risk of an imminent nuclear strike.The app reported a high possibility of nuclear radiation late on Sunday. It also wrongl",
+      "link": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:11:28 GMT"
+    },
+    {
+      "title": "6ème édition de la Semaine du film marocain à Abidjan Le cinéma marocain à la conquête du public ivoirien",
+      "summary": "Initiative Du 2 au 7 novembre 2026, Abidjan accueille la sixième édition de la Semaine du film marocain. Au programme, dix œuvres, des rencontres professionnelles et des échanges d’expertise pour consolider les passerelles cinématographiques entre le Maroc et la Côte d’Ivoire. Le cinéma marocain poursuit son ouverture sur le continent africain. Du 2 au 7 [&#8230;]",
+      "link": "https://aujourdhui.ma/culture/6eme-edition-de-la-semaine-du-film-marocain-a-abidjan-le-cinema-marocain-a-la-conquete-du-public-ivoirien",
+      "source": "Aujourd'hui le Maroc",
+      "lang": "fr",
+      "country": "Maroc",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:10:19 +0000"
+    },
+    {
+      "title": "La Palma sufre un apagón general que deja a la isla sin suministro eléctrico durante casi cuatro horas",
+      "summary": "La isla ya ha recuperado el 100% del suministro eléctrico tras el apagón, según informa Endesa&nbsp;Leer",
+      "link": "https://www.elmundo.es/espana/2026/11/02/6ae84c15e85ece0f5a8b4582.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:10:15 +0100"
+    },
+    {
+      "title": "Accusée de «calomnies racistes», TF1 répond à Jean-Luc Mélenchon et assure son soutien à Anne-Claire Coudray",
+      "summary": "Au lendemain de la publication du message du candidat La France insoumise à l’élection présidentielle, la chaîne a réagi en postant un communiqué sur X.",
+      "link": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/accusee-de-calomnies-racistes-tf1-repond-a-jean-luc-melenchon-et-assure-son-soutien-a-anne-claire-coudray-20261102",
+      "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:06:19 +0100"
+    },
+    {
+      "title": "Sébastien Lecornu se dit prêt à recevoir de nouveau les représentants lycéens « la semaine prochaine » ; plusieurs dizaines de lycées bloqués lundi matin",
+      "summary": "Malgré les concessions annoncées par le gouvernement la semaine du 26 octobre, plusieurs organisations étudiantes et lycéennes ont appelé à poursuivre le mouvement à l’occasion de la rentrée scolaire, lundi 2 novembre.",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/02/sebastien-lecornu-se-dit-pret-a-recevoir-de-nouveau-les-representants-lyceens-la-semaine-prochaine-41-lycees-bloques-lundi-dont-plusieurs-a-paris-marseille-et-toulouse_6805152_823449.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 12:04:51 +0100"
+    },
+    {
+      "title": "‘It still preys on my mind’: readers on their scariest non-horror movies",
+      "summary": "After Guardian writers picked their choices for Halloween, readers have responded with films that send chills down their spines – from Never Let Me Go to The Truman ShowThe murder of the taxi driver is utterly excruciating and the hanging at the end equally so. Both are shown in full, in close up and in real time. The condemned man’s last cigarette is smoked in full. The unease (to put it mildly) ",
+      "link": "https://www.theguardian.com/film/2026/nov/02/scary-non-horror-movies",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:00:41 GMT"
+    },
+    {
+      "title": "‘The content creator election’: digital streamers and TV networks face off for midterms coverage",
+      "summary": "Journalists such as Jim Acosta and Scott MacFarlane are now competing against their former employers for eyeballsOn Tuesday, for the first time in more than 20 years, Jim Acosta, a former CNN stalwart, will not be working for a mainstream television network on election night.Acosta, who left CNN last year after nearly 18 years at the network, is putting on his own live broadcast at the University ",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/content-creators-tv-network-midterm-coverage",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:00:41 GMT"
+    },
+    {
+      "title": "What can Democrats actually do if they win Congress?",
+      "summary": "Democrats are fighting to win control of the House and Senate in the midterms. Here’s what winning would mean for them – and Donald TrumpIf Democrats win back the US House of Representatives or the Senate in the midterm elections on Tuesday, the final two years of Donald Trump’s presidency will look markedly different from the first half. But what would the Democrats’ actually be able to do with e",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/democrats-midterms-congress-win-power",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:00:38 GMT"
+    },
+    {
+      "title": "Automobile Awards by MeetDeal 2026 : Élisez votre voiture préférée avec AD",
+      "summary": "",
+      "link": "https://www.lequipe.fr/special/selection/automobile-awards#at_medium=RSS_feeds",
+      "source": "L'Équipe",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:57:00 +0100"
+    },
+    {
+      "title": "MINURSO: l’ONU officialise la fin des opérations",
+      "summary": "La fin du mandat de la MINURSO se traduit désormais dans les faits. Dimanche 1er novembre, les Nations Unies ont officiellement annoncé la cessation des opérations de la Mission, après sa non-reconduction par le Conseil de sécurité.\nThe post MINURSO: l’ONU officialise la fin des opérations appeared first on LesEco.ma.",
+      "link": "https://leseco.ma/maroc/minurso-lonu-officialise-la-fin-des-operations.html",
+      "source": "Les Inspirations Éco",
+      "lang": "fr",
+      "country": "Maroc",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 10:47:34 +0000"
+    },
+    {
+      "title": "XV de France : Charles Kante Samba et Antoine Deliance remplacent Anthony Jelonch et Joshua Brennan avant les Fidji",
+      "summary": "Pour préparer le match du Championnat des nations face au Fidji programmé samedi (21h10), l'équipe de France devra faire sans deux nouveaux joueurs : Anthony Jelonch et Joshua Brennan. Ils sont remplacés numériquement par le Rochelais Charles Kante Samba et le Lyonnais Antoine Deliance.",
+      "link": "https://www.lequipe.fr/Rugby/Actualites/Xv-de-france-charles-kante-samba-et-antoine-deliance-remplacent-anthony-jelonch-et-joshua-brennan-avant-les-fidji/1740508#at_medium=RSS_feeds",
+      "source": "L'Équipe",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:41:03 +0100"
+    },
+    {
+      "title": "Des traditions qui rassemblent: voyage gourmand à travers la cuisine engadinoise",
+      "summary": "Capuns, fromage de montagne et tourte aux noix: autant de spécialités qui racontent l’histoire d’une région où la gastronomie est intimement liée au paysage, à l’artisanat et à l’histoire. Un voyage à la découverte de recettes ancestrales, d’idées nouvelles et de personnes passionnées qui allient tradition et innovation\n\n\nEn venant du Plateau suisse, les voyageurs qui se rendent en Basse-Engadine ",
+      "link": "https://www.letemps.ch/articles/des-traditions-qui-rassemblent-voyage-gourmand-a-travers-la-cuisine-engadinoise",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "environnement_climat",
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:38:08 +0100"
+    },
+    {
+      "title": "Avec Juan Atkins, la techno a perdu l’un des membres de sa trinité fondatrice",
+      "summary": "Le musicien américain est mort ce week-end à 64 ans. On ne lui doit rien moins que la création, avec Derrick May et Kevin Saunderson, d’un genre qui allait révolutionner la planète sonore. HommageOn dit traditionnellement que la techno est née de la rencontre fortuite, dans une cabine d’ascenseur, de George Clinton et de Kraftwerk – autrement dit du funk et des machines. Ça, c’est pour la métaphor",
+      "link": "https://www.letemps.ch/articles/avec-juan-atkins-la-techno-a-perdu-l-un-des-membres-de-sa-trinite-fondatrice",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:32:45 +0100"
+    },
+    {
+      "title": "En Turquie, la débâcle des fonds d’investissement aux ramifications financières et politiques tentaculaires",
+      "summary": "L’enquête sur la chute du courtier Tera, soupçonné d’avoir orchestré des montages financiers frauduleux, met en cause des élus de l’AKP, le parti au pouvoir, ainsi que des hauts fonctionnaires. Un demi-million d’épargnants attendent le remboursement de leurs investissements.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/02/en-turquie-la-debacle-des-fonds-d-investissement-aux-ramifications-financieres-et-politiques-tentaculaires_6805233_3234.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "economie"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:30:17 +0100"
+    },
+    {
+      "title": "Demain, Israël: entre effroi, larmes et tristesse",
+      "summary": "CHRONIQUE. Des menaces qui pèsent sur Israël aux propos d'élus à la Knesset en passant par des sondages d'opinion, les élections israléennes font réagir Metin Arditi\nL’effroi. Un journaliste interroge Moshe Feiglin, qui vient d’être élu à la Knesset. L’image dégradée de son pays en Occident le préoccupe-t-elle? «Vous faites cause commune avec les islamo-nazis», répond M. Feiglin, «c’est vous qui a",
+      "link": "https://www.letemps.ch/articles/demain-israel-entre-effroi-larmes-et-tristesse",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:28:15 +0100"
+    },
+    {
+      "title": "Corée du Sud: boostées par la demande de semi-conducteurs, les exportations atteignent un niveau record",
+      "summary": "La Corée du Sud a enregistré 115 milliards de dollars d'exportations en octobre 2026. Une hausse de 93 % par rapport à l'année précédente, du jamais vu au pays du matin calme, qui dispose d'une industrie de pointe dans la fabrication de semi-conducteurs, puces essentielles au fonctionnement de l'intelligence artificielle, secteur dans lequel Séoul investit aussi massivement.",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20261102-cor%C3%A9e-du-sud-boost%C3%A9es-par-la-demande-de-semi-conducteurs-les-exportations-atteignent-un-niveau-record",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 10:26:06 GMT"
+    },
+    {
+      "title": "Feijóo promete nombrar un ministro de Transportes con \"trazabilidad\" y \"competencia en la materia\" si alcanza La Moncloa",
+      "summary": "\"¿Cómo es posible que Ábalos y Puente hayan gestionado las infraestructuras de nuestro país durante ocho años?\", se pregunta&nbsp;Leer",
+      "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/02/6ae84413e4d4d8bb058b4599.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 11:18:20 +0100"
+    },
+    {
+      "title": "It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer",
+      "summary": "We cannot let the billionaire class take unprecedented risks with our futureAmerica is a divided country in crisis. Despite the sunny economic forecast coming from the Trump administration, millions of Americans are struggling to find and keep jobs, getting crushed under the rising cost of living, and losing health insurance when they need it the most.Meanwhile, via corporate consolidation and pol",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 10:00:38 GMT"
+    },
+    {
+      "title": "L'ONU met en garde contre des conséquences «irréversibles» sur les glaciers et la banquise au-delà d'un réchauffement planétaire de 1,5 degré Celsius",
+      "summary": "En cas de dépassement de 1,5 degré Celsius de réchauffement planétaire, les conséquences sur les glaciers, la banquise et les surfaces gelées de la Terre seront «irréversibles», alertent deux rapports de l'ONU. Le seuil pourrait être atteint vers 2030. «Des ambitions politiques suffisantes et immédiates» sont réclaméesDépasser 1,5 degré Celsius de réchauffement planétaire aura des conséquences «ir",
+      "link": "https://www.letemps.ch/articles/l-onu-met-en-garde-contre-des-consequences-irreversibles-sur-les-glaciers-et-la-banquise-au-dela-d-un-rechauffement-planetaire-de-1-5-degre-celcius",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "politique_internationale",
+        "environnement_climat"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 10:47:52 +0100"
+    },
+    {
+      "title": "Face aux mobilisations sociales, le gouvernement envisage une revalorisation du smic",
+      "summary": "Le ministre du travail, Jean-Pierre Farandou, s’est dit ouvert à l’idée d’une anticipation au 1ᵉʳ décembre de la revalorisation automatique du salaire minimum au 1ᵉʳ janvier et a évoqué la piste d’un éventuel « coup de pouce ». Reste à savoir si le geste sera suffisant pour calmer la contestation sociale sur le pouvoir d’achat.",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/02/face-aux-mobilisations-sociales-le-gouvernement-envisage-une-revalorisation-du-smic_6805226_823448.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 10:26:45 +0100"
+    },
+    {
+      "title": "Dans «La Solitude des professeurs est infinie», Yannick Haenel signe un hommage vibrant à l'enseignement et à la littérature",
+      "summary": "Avec la fougue caractéristique de sa plume et cet art du clown qu’il manie avec constance, l’auteur partage l’expérience d’un métier si malmené aujourd’hui qu’il a lui-même pratiqué il y a 30 ans en banlieue parisienneQu’est-ce qui peut nous sauver de la catastrophe, intime et collective, pourrait être la question qui traverse tous les livres de Yannick Haenel, depuis Les Petits Soldats en 1995 et",
+      "link": "https://www.letemps.ch/articles/dans-la-solitude-des-professeurs-est-infinie-yannick-haenel-signe-un-hommage-vibrant-a-l-enseignement-et-a-la-litterature",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "economie",
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 10:21:50 +0100"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Kiev fait état de plus de 90 attaques russes contre ses infrastructures énergétiques en une semaine",
+      "summary": "Le ministère de l’énergie a fait état d’un blessé parmi les employés du secteur énergétique dans l’oblast de Kharkiv et d’un autre tué lors d’une attaque russe à Kramatorsk, dans l’oblast de Donetsk.",
+      "link": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-guerre-en-ukraine-pres-de-800-personnes-ont-ete-evacuees-d-olechky-selon-melania-trump-qui-a-negocie-la-treve-humanitaire_6803934_3210.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 10:11:26 +0100"
+    },
+    {
+      "title": "Richard Nixon, “improbable chouchou” des jeunes trumpistes",
+      "summary": "Il a suffi de quelques vidéos virales réalisées par les milléniaux qui gèrent la Fondation Richard-Nixon pour que le président déchu devienne la coqueluche du Washington de Trump. Ce “nixonmaxxing” à l’œuvre chez les membres conservateurs de la Gen Z trouve ses racines dans “la nostalgie populiste qui inspire nombre de personnes à droite”, analyse le quotidien économique américain “The Wall Street",
+      "link": "https://www.courrierinternational.com/stories/etats-unis-richard-nixon-improbable-chouchou-des-jeunes-trumpistes_280853",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 09:25:03 +0100"
+    },
+    {
+      "title": "Pologne: la crise du Tribunal constitutionnel sert à «préparer les législatives de 2027»",
+      "summary": "Le bras de fer politique continue en Pologne autour du Tribunal constitutionnel. Le président Nawrocki refuse toujours de valider la nomination des juges désignés par le Parlement et la nouvelle majorité centriste du Premier ministre Donald Tusk. Le président du Tribunal n'entend pas, quant à lui, se démettre et le face à face entre partisans conservateurs et forces de l'ordre se poursuit à Varsov",
+      "link": "https://www.rfi.fr/fr/europe/20261102-pologne-la-crise-du-tribunal-constitutionnel-sert-%C3%A0-pr%C3%A9parer-les-l%C3%A9gislatives-de-2027",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 08:19:12 GMT"
+    },
+    {
+      "title": "Midterms 2026 : comprendre les prochaines élections américaines grâce aux cartes",
+      "summary": "INFOGRAPHIE – Les élections américaines de mi-mandat, les « Midterms », se tiendront ce mardi 3 novembre. Les électeurs renouvelleront toute la Chambre des représentants, un tiers du Sénat et plusieurs postes de gouverneurs. Un scrutin décisif pour les marges de manœuvre de Donald Trump jusqu’en 2028.",
+      "link": "https://www.lefigaro.fr/international/midterms-2026-comprendre-les-prochaines-elections-americaines-grace-aux-cartes-20261015",
+      "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 09:18:29 +0100"
+    },
+    {
+      "title": "Alstom shares tumble 28% after train maker cuts profit forecast",
+      "summary": "French group also sets out plan to cut €2bn in debt in second major profit warning under new chief Martin Sion",
+      "link": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 08:16:32 GMT"
+    },
+    {
+      "title": "Midterms 2026 : que disent les tout derniers sondages ?",
+      "summary": "INFOGRAPHIE – Les Américains sont appelés aux urnes ce mardi pour les élections de mi-mandat. Celles-ci doivent renouveler l’ensemble de la Chambre des représentants, un peu plus d’un tiers du Sénat ainsi qu’une majorité des postes de gouverneurs.",
+      "link": "https://www.lefigaro.fr/international/midterms-2026-que-disent-les-derniers-sondages-20261005",
+      "source": "Le Figaro",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 09:10:35 +0100"
+    },
+    {
+      "title": "Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? | Raoul de Jong",
+      "summary": "It has been three years since Willem-Alexander said sorry, so please use your trip to the Caribbean to follow his exampleDear King Charles,You are currently on a Caribbean royal tour through the Bahamas, Guyana, and Antigua and Barbuda. I understand that during this tour you will not issue a formal apology for Britain’s role in the transatlantic slave trade, or address the role your own family pla",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/02/king-charles-slavery-apology-caribbean-tour",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 08:00:36 GMT"
+    },
+    {
+      "title": "‘We both know how we feel about death and dying’: Rhys Ifans and Laura Linney on their brutally honest Parkinson’s drama",
+      "summary": "Written by Vicar of Dibley co-creator Paul Mayhew-Archer, who has the disease, Onwards and Sideways sees the actors play a couple who bond over their diagnoses – a devastating subject but laced with humour too, they sayAhead of production on their first job together, Rhys Ifans and Laura Linney didn’t undergo the standard “chemistry read” to make sure they got on. Which is remarkable, given what t",
+      "link": "https://www.theguardian.com/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique",
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 08:00:34 GMT"
+    },
+    {
+      "title": "San Diego et Montréal, deux orchestres pour un même Rafael Payare",
+      "summary": "L’art de partager un directeur musical incombe au travail harmonieux de deux fortes directrices générales.",
+      "link": "https://www.ledevoir.com/culture/musique/1021250/san-diego-montreal-deux-orchestres-meme-rafael-payare",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 03:00:00 -0500"
+    },
+    {
+      "title": "Russie: entre inflation et hausse des charges, une crise majeure frappe le secteur de la restauration",
+      "summary": "Les restaurateurs sont en difficulté en Russie. Avec 15% de fermetures en plus par rapport à l’an dernier pour les commerces de bouche et 28 000 cessations d’activité sur les trois premiers trimestres de 2026, le secteur est en crise. C’est le résultat d’une étude statistique publiée le mois dernier. Face à l’inflation et à la hausse des charges, pour survivre, il faut s’adapter.",
+      "link": "https://www.rfi.fr/fr/monde/20261102-russie-entre-inflation-et-hausse-des-charges-une-crise-majeure-frappe-le-secteur-de-la-restauration",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "economie"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 07:57:37 GMT"
+    },
+    {
+      "title": "Violences sexuelles à l’université: les procédures sont encore défaillantes",
+      "summary": "En cas de sanctions prononcées dans l’enseignement supérieur, c’est le Cneser qui examine les recours. Puis, en bout de chaîne, le Conseil d’État. Or ce dernier récuse une décision sur cinq portant sur des violences sexistes et sexuelles. Une illustration des failles de la procédure.",
+      "link": "https://www.mediapart.fr/journal/france/021126/violences-sexuelles-l-universite-les-procedures-sont-encore-defaillantes",
+      "source": "Mediapart",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 08:21:43 +0100"
+    },
+    {
+      "title": "Philippe Lazzarini: «Les Palestiniens risquent le même destin que les Indiens d'Amérique»",
+      "summary": "Philippe Lazzarini, ex-commissaire général de l’Unrwa (2020-2026) et auteur de Témoin de Gaza : ce qui ne s'efface pas (éd. Favre), est l'invité de RFI ce 2 novembre 2026. L'ancien patron de l'agence de l'ONU pour les réfugiés palestiniens pointe la passivité de la communauté internationale face aux drames de Gaza. Il s'alarme des difficultés financières de l'Unrwa.",
+      "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261102-philippe-lazzarini-les-palestiniens-risquent-le-m%C3%AAme-destin-que-les-indiens-d-am%C3%A9rique",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 07:08:53 GMT"
+    },
+    {
+      "title": "Changement climatique : Ces « plombiers » des forêts annoncent le seuil de dépérissement de plusieurs espèces d’arbres",
+      "summary": "Des chercheurs de l’INRAE et de l’université de Bordeaux étudient les effets de la sécheresse sur les arbres dans une forêt expérimentale située près de Bordeaux",
+      "link": "https://www.20minutes.fr/planete/secheresse/4255033-20261102-changement-climatique-plombiers-forets-annoncent-seuil-deperissement-plusieurs-especes-arbres?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 07:02:36 GMT"
+    },
+    {
+      "title": "“Voir cette terre ressusciter” : à Gaza, des agriculteurs replantent vignes et figuiers",
+      "summary": "Cheikh Ijlin, un quartier du sud de la ville de Gaza, était réputé pour l’abondance de ses figues et de ses raisins. Aujourd’hui, des agriculteurs ensemencent et labourent des terrains ravagés par les années de guerre. Certains y trouvent parfois des racines enfouies sous les décombres, raconte “The Christian Science Monitor”.",
+      "link": "https://www.courrierinternational.com/article/reportage-voir-cette-terre-ressusciter-a-gaza-des-agriculteurs-replantent-vignes-et-figuiers_278373",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique",
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 08:00:09 +0100"
+    },
+    {
+      "title": "« On prend des trucs dans le nez »… Près des Chantiers de l’Atlantique, les habitants menacés par la pollution au plomb",
+      "summary": "Dans ce quartier de Saint-Nazaire, à deux pas des Chantiers de l’Atlantique, une étude a révélé que plus de la moitié des parcelles privées étaient concernées par une présence préoccupante de plomb. Une campagne de dépistage est en cours",
+      "link": "https://www.20minutes.fr/societe/4258307-20261102-prend-trucs-nez-pres-chantiers-atlantique-habitants-menaces-pollution-plomb?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 06:32:36 GMT"
+    },
+    {
+      "title": "Guerre en Iran: malgré les pourparlers au Qatar, Téhéran durcit le ton face à Washington",
+      "summary": "Le Qatar mène actuellement d’intenses consultations avec l’Iran et les États-Unis pour éviter une nouvelle guerre alors que le président américain Donald Trump a menacé l’Iran de nouvelles attaques ce dimanche 1er novembre. Mais Téhéran a également haussé le ton. De son côté, le Premier ministre israélien presse Washington à frapper l'Iran.",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261102-guerre-en-iran-malgr%C3%A9-les-pourparlers-au-qatar-t%C3%A9h%C3%A9ran-durcit-le-ton-face-%C3%A0-washington",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_nationale",
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 06:21:10 GMT"
+    },
+    {
+      "title": "Problèmes de sécurité, risques sur les données, sauvegardes problématiques: un rapport pointe les zones d’ombre entourant Microsoft 365",
+      "summary": "Le Contrôle fédéral des finances vient de publier une analyse approfondie de la mise en place de Microsoft 365 au sein de l’administration fédérale. De nombreuses leçons sont à tirer de ce rapport détailléC’est un rapport que devraient lire toutes les autorités politiques, mais pas seulement. Entreprises et simples citoyens seraient inspirés de se plonger dans les 24 pages de l’étude sobrement int",
+      "link": "https://www.letemps.ch/articles/problemes-de-securite-risques-sur-les-donnees-sauvegardes-problematiques-un-rapport-pointe-les-zones-d-ombre-entourant-microsoft-365",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 07:14:34 +0100"
+    },
+    {
+      "title": "Midterms 2026: la candidature du démocrate Abdul El Sayed divise la communauté juive du Michigan",
+      "summary": "J-1 avant les élections de mi-mandat aux États-Unis. L’opposition démocrate au président Donald Trump espère reprendre le contrôle de la Chambre des représentants – c’est presque toujours le cas lors de midterms – mais aussi peut-être du Sénat. La course s’annonce particulièrement disputée dans le Michigan, où le jeune démocrate Abdul El Sayed espère devenir le premier sénateur musulman de l’histo",
+      "link": "https://www.rfi.fr/fr/podcasts/reportage-international/20261102-midterms-2026-la-candidature-du-d%C3%A9mocrate-abdul-el-sayed-divise-la-communaut%C3%A9-juive-du-michigan",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 06:09:13 GMT"
+    },
+    {
+      "title": "Midterms aux États-Unis : Hasan Piker, le streameur de gauche qui met un pavé dans la mare démocrate avant les élections",
+      "summary": "Figure de Twitch classée très à gauche, Hasan Piker est devenu la cible favorite des républicains dans la course au Sénat du Michigan. Pèse-t-il vraiment sur le scrutin du 3 novembre ?",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4258859-20261102-midterms-etats-unis-hasan-piker-streameur-gauche-met-pave-mare-democrate-avant-elections?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 06:02:37 GMT"
+    },
+    {
+      "title": "These midterms could effectively end the Trump era – but neither side is yet ready for what comes next | Nesrine Malik",
+      "summary": "Despite the US president’s ratings being at rock bottom, undoing his legacy will be difficult, not least because the Democrats are in disarrayThe stats and polling all suggest one thing: the Republicans are set for a hammering in the midterms. Donald Trump has the lowest approval rating of any US president going into a midterm election since Harry Truman. And it’s still dropping. The Democrats are",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/02/us-midterms-donald-trump-democrats-us-politics",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "politique_nationale",
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 06:00:32 GMT"
+    },
+    {
+      "title": "Google search has gone from being very handy to useless | First Dog on the Moon",
+      "summary": "Google’s AI summary is punching a huge hole in their own profits – is this good?Sign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading...",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/02/google-search-has-gone-from-being-very-handy-to-useless",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:54:05 GMT"
+    },
+    {
+      "title": "Argentine: la production de véhicules plonge, le secteur automobile en grande difficulté",
+      "summary": "Les difficultés économiques se renforcent pour Javier Milei en Argentine. Plombée par la politique d’austérité du président ultralibéral, l’économie devrait entrer en récession technique le mois prochain. En cause notamment, une consommation en berne et une chute de la production industrielle, qui se fait sentir dans la région de Cordoba, où le secteur automobile est en perte de vitesse.",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261102-argentine-la-production-de-v%C3%A9hicules-plonge-le-secteur-automobile-en-grande-difficult%C3%A9",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "economie"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:42:18 GMT"
+    },
+    {
+      "title": "Midterms 2026: dans l'Ohio, ultimes sessions de porte-à-porte pour convaincre les électeurs",
+      "summary": "Les élections de mi-mandat aux États-Unis se tiennent mardi 3 novembre. Des élections décisives pour la suite de la présidence de Donald Trump, qui pourraient voir les républicains perdre leur majorité à la Chambre, mais aussi au Sénat. Parmi les États qui pourraient faire la différence : l'Ohio. À Médina, la section locale du Parti démocrate effectue ses dernières opérations de porte à porte en e",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261102-midterms-2026-dans-l-ohio-ultimes-sessions-de-porte-%C3%A0-porte-pour-convaincre-les-%C3%A9lecteurs",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:14:53 GMT"
+    },
+    {
+      "title": "Crimes contre les journalistes: «La situation s'aggrave surtout pour les journalistes en zone de combat»",
+      "summary": "Voilà treize ans, jour pour jour, que les deux reporters de RFI Ghislaine Dupont et Claude Verlon ont été assassinés par des jihadistes à Kidal, au nord du Mali. À la suite de ce double meurtre, l’Assemblée générale de l’ONU a voté une résolution qui proclame le 2 novembre « Journée internationale de la fin de l’impunité pour les crimes commis contre les journalistes ». Face à la violence, quelle ",
+      "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261102-violences-contre-les-journalistes-la-situation-s-aggrave-surtout-pour-les-journalistes-en-zone-de-combat",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:10:50 GMT"
+    },
+    {
+      "title": "Radical-right youth groups are at the root of Europe’s populist surge | Cas Mudde and Duncan McDonnell",
+      "summary": "From France’s Jordan Bardella to Italy’s Giorgia Meloni, organised youth politics has produced many rightwing leaders. Democrats must catch upThe leaders of the most successful populist radical right parties in western Europe have one thing in common that is often overlooked. Italy’s Matteo Salvini, Jordan Bardella from France, Jimmie Åkesson from the Sweden Democrats, and Tom Van Grieken from Bel",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/02/radical-right-youth-europe-populist-surge-france-jordan-bardella-italy-giorgia-meloni",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "politique_nationale",
+        "economie"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:00:31 GMT"
+    },
+    {
+      "title": "AI mania can’t survive higher interest rates",
+      "summary": "The price of money is the pin that deflates market bubbles",
+      "link": "https://www.ft.com/content/6e99dc59-8bd0-4c5c-8186-f6ceed04233a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:00:17 GMT"
+    },
+    {
+      "title": "Life in Tehran under Trump’s blockade",
+      "summary": "The city has recaptured its prewar energy even as residents are gripped by trepidation over what is next",
+      "link": "https://www.ft.com/content/6242529a-9233-4f99-ac90-72bee1099abf?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:00:17 GMT"
+    },
+    {
+      "title": "« Dubai Papers » : l’heure du procès pour une « officine de fraude fiscale à grande échelle »",
+      "summary": "Neuf responsables du cabinet Hélin International, trois avocats et un expert-comptable français sont jugés à partir de lundi à Paris. Ils sont accusés d’avoir méthodiquement aidé plus de 300 contribuables français à frauder le fisc pendant des années grâce à des montages sophistiqués.",
+      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/02/dubai-papers-l-heure-du-proces-pour-une-officine-de-fraude-fiscale-a-grande-echelle_6804884_4355770.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 06:00:15 +0100"
+    },
+    {
+      "title": "L’Iran met en garde les États-Unis contre une reprise des hostilités",
+      "summary": "L’Iran a menacé dimanche les États-Unis d’une guerre “plus longue que la précédente” si Donald Trump décidait de reprendre les hostilités. Le président américain s’est entretenu dans la journée avec Benyamin Nétanyahou, lequel l’a exhorté à bombarder l’Iran immédiatement après les élections américaines de mi-mandat, qui auront lieu ce mardi.",
+      "link": "https://www.courrierinternational.com/article/geopolitique-l-iran-met-en-garde-les-etats-unis-contre-une-reprise-des-hostilites_284001",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 06:00:12 +0100"
+    },
+    {
+      "title": "The race to keep AI under control",
+      "summary": "Safety breaches are raising doubts about the ability of leading labs to keep increasingly powerful systems in check",
+      "link": "https://ig.ft.com/ai-safety/?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:00:08 GMT"
+    },
+    {
+      "title": "Le « super El Niño » continue sa progression : « Il est déjà d’une ampleur inédite »",
+      "summary": "Ce phénomène cyclique naturel né dans le Pacifique provoque des aléas climatiques en cascade. Tous les indicateurs pointent vers un épisode d’une ampleur majeure, alors que son pic n’est pas encore atteint. Samedi, le président bolivien a déclaré l’état d’urgence.",
+      "link": "https://www.lemonde.fr/planete/article/2026/11/02/le-super-el-nino-continue-sa-progression-il-est-deja-d-une-ampleur-inedite_6804881_3244.html",
+      "source": "Le Monde",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 06:00:03 +0100"
+    },
+    {
+      "title": "Pierre Blanc, de Leclanché: «Nos compétiteurs reçoivent un support massif de l’Etat. En Suisse, il n’y a aucune aide»",
+      "summary": "Le fabricant de batteries d’Yverdon (VD) est enferré dans une crise inédite: la direction court derrière la trésorerie, alors que la demande est massive et que des investisseurs seraient prêts à financer la croissance. La direction revient sur cette situation de blocageMi-octobre, Leclanché a réussi in extremis à couvrir les deux mois de salaires en retard. C’était la seconde grande crise de tréso",
+      "link": "https://www.letemps.ch/articles/pierre-blanc-de-leclanche-nos-competiteurs-recoivent-un-support-massif-de-l-etat-en-suisse-il-n-y-a-aucune-aide",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "economie"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 06:00:02 +0100"
+    },
+    {
+      "title": "Une fiscalité municipale qui favorise la biodiversité? L’idée est explorée au Québec.",
+      "summary": "Saint-Jérôme, Blainville et Vaudreuil-Dorion collaborent à une étude de l’organisme Nature-Action Québec.",
+      "link": "https://www.ledevoir.com/actualites/environnement/1021361/fiscalite-municipale-favorise-biodiversite-idee-est-exploree-quebec",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "title": "De nouvelles turbines pourraient sauver la vie de milliers d’anguilles",
+      "summary": "Hydro-Québec juge «intéressants» les résultats d’un rapport sur cette technologie, bien qu’ils soient «préliminaires».",
+      "link": "https://www.ledevoir.com/actualites/environnement/1021430/nouvelles-turbines-pourraient-sauver-vie-milliers-anguilles",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "title": "Ottawa autorise un nouveau port avant la fin de l’évaluation environnementale du Québec",
+      "summary": "La construction de ce port industriel  à Sorel-Tracy détruira l’habitat d’une espèce au seuil de l’extinction.",
+      "link": "https://www.ledevoir.com/actualites/environnement/1021397/ottawa-autorise-nouveau-port-avant-fin-evaluation-environnementale-quebec",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "title": "Un camp de l'ELN bombardé au Venezuela, au moins 19 morts recensés",
+      "summary": "Un militaire de haut rang a précisé que l'attaque du 30 octobre dans l'Etat d'Apure a été menée avec l'aide des Etats-Unis. Ce bombardement illustre un «changement de doctrine» de la part de Caracas, selon la militante des droits humains Rocío San MiguelAu moins 19 personnes ont été tuées dans le bombardement par l'armée vénézuélienne d'un camp de la guérilla colombienne ELN en territoire vénézuél",
+      "link": "https://www.letemps.ch/articles/un-camp-de-l-eln-bombarde-au-venezuela-au-moins-19-morts-recenses",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "politique_nationale",
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:57:38 +0100"
+    },
+    {
+      "title": "EN DIRECT Guerre en Ukraine : Reprise des attaques russes dans la région de Kherson après le cessez-le-feu...",
+      "summary": "Suivez avec nous les informations de ce lundi 2 novembre 2026 sur le conflit russo-ukrainien",
+      "link": "https://www.20minutes.fr/monde/ukraine/4259540-20261102-direct-guerre-ukraine-russie-ukraine-touchees-cyberattaques?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 04:38:36 GMT"
+    },
+    {
+      "title": "Martha Stewart says she ‘really screwed up’ after dressing as homeless person for Halloween",
+      "summary": "Multimillionaire lifestyle mogul says her costume was ‘insensitive and not funny’ after provoking furious backlashMartha Stewart has apologised after sharing an image of herself dressed as a homeless person for Halloween, which provoked a backlash online.The 85-year-old media personality, who is worth an estimated US$400m, shared a picture of herself on Instagram on 31 October, in which she had a ",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/02/martha-stewart-apology-homeless-halloween-costume-backlash",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 04:35:53 GMT"
+    },
+    {
+      "title": "La Corée du Sud prévoit un budget record pour l'intelligence artificielle en 2027",
+      "summary": "Séoul veut allouer 21 300 milliards de wons (14,3 milliards d'euros) pour l'IA et les semi-conducteurs dans son budget pour 2027. Concernant la défense, le président sud-coréen réclame une hausse des investissements de 8,2 % par rapport à 202621 300 milliards de wons (14,3 milliards d'euros): ce sont les investissements record prévus par la Corée du Sud pour l'intelligence artificielle (physique e",
+      "link": "https://www.letemps.ch/articles/la-coree-du-sud-prevoit-un-budget-record-pour-l-intelligence-artificielle-en-2027",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "politique_nationale",
+        "geopolitique",
+        "economie",
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:34:04 +0100"
+    },
+    {
+      "title": "Dans l’horlogerie, la fuite vers le luxe n’est pas une fatalité",
+      "summary": "ÉDITORIAL. L’industrie européenne du luxe est au régime minceur. La cause externe est un coup d’arrêt de la demande en Chine. Mais les symptômes sont plus profonds: le secteur doit renouer avec ses fondamentaux. C’est peut-être une chance pour nos horlogersLe luxe est en crise de croissance. L’horlogerie suisse n’y échappe pas, mais subit une crise supplémentaire: l’érosion systémique des volumes.",
+      "link": "https://www.letemps.ch/articles/dans-l-horlogerie-la-fuite-vers-le-luxe-n-est-pas-une-fatalite",
+      "source": "Le Temps",
+      "lang": "fr",
+      "country": "Suisse",
+      "themes": [
+        "economie"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:30:00 +0100"
+    },
+    {
+      "title": "Niger: arrivée d'un premier convoi de militaires algériens avec des camions-citernes à Agadez",
+      "summary": "Une semaine après la résolution du Parlement algérien autorisant l’envoi de troupes au Niger voisin, des militaires algériens ont franchi la frontière pour rallier ce week-end le nord du Niger. Les forces armées algériennes ont convoyé plusieurs dizaines de camions transportant du carburant dans le cadre de la coopération entre les deux pays.",
+      "link": "https://www.rfi.fr/fr/afrique/20261102-niger-arriv%C3%A9e-d-un-premier-convoi-de-militaires-alg%C3%A9riens-avec-des-camions-citernes-%C3%A0-agadez",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 04:09:23 GMT"
+    },
+    {
+      "title": "Tchad: 25 morts dans des affrontements entre éleveurs et agriculteurs liés à l'eau",
+      "summary": "Au moins 25 personnes ont été tuées et 22 autres blessées vendredi 30 octobre 2026 dans des affrontements intercommunautaires dans le sud-ouest du Tchad. Le pays est fréquemment affecté par ce type de violences dans certaines zones rurales, où les conflits liés à l'accès aux ressources peuvent prendre une tournure meurtrière.",
+      "link": "https://www.rfi.fr/fr/afrique/20261102-tchad-25-morts-dans-des-affrontements-entre-%C3%A9leveurs-et-agriculteurs-li%C3%A9s-%C3%A0-l-eau",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 04:08:36 GMT"
+    },
+    {
+      "title": "André Janones, “chien fou” et chef de l’“armée de Lula”",
+      "summary": "Responsable de la campagne numérique qui a aidé Lula à renverser la vapeur lors du second tour de la présidentielle brésilienne, le député fédéral André Janones, avocat de formation, assure avoir tout appris sur le terrain. Le quotidien “Folha de São Paulo” dresse le portrait de cet iconoclaste devenu la coqueluche de la gauche internationale.",
+      "link": "https://www.courrierinternational.com/article/bresil-andre-janones-chien-fou-et-chef-de-l-armee-de-lula_282813",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique",
+        "ia_tech"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:00:13 +0100"
+    },
+    {
+      "title": "Aux Pays-Bas, des “standing ovations” systématiques, donc suspectes",
+      "summary": "Le public néerlandais a l’habitude de se lever comme un seul homme à la fin de tous les concerts de musique classique. Ces ovations debout déconcertent les musiciens étrangers, ainsi que ce journaliste spécialisé du quotidien “NRC”.",
+      "link": "https://www.courrierinternational.com/article/musique-classique-aux-pays-bas-des-standing-ovations-systematiques-donc-suspectes_279811",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 05:00:11 +0100"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Se disant jusqu’à présent « gentil », Trump veut « donner un coup de massue » à l’Iran",
+      "summary": "Le Premier ministre israélien Netanyahou pousserait Trump à reprendre les frappes contre l’Iran dès la fin des midterms mardi aux États-Unis",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4259408-20261102-guerre-moyen-orient-disant-jusqu-present-gentil-trump-veut-donner-coup-massue-iran?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale",
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 02:56:46 GMT"
+    },
+    {
+      "title": "Trump makes final pitch to restive voters in midterms campaign",
+      "summary": "Republican Party is defending its control of Congress against signs of backlash against president",
+      "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 01:47:26 GMT"
+    },
+    {
+      "title": "Favorable au dialogue avec Moscou, Iliana Iotova élue présidente de la Bulgarie",
+      "summary": "Partisane du dialogue avec Poutine pour mettre fin à la guerre en Ukraine, la sortante Iliana Iotova a remporté la présidentielle en Bulgarie face au candidat pro-occidental",
+      "link": "https://www.20minutes.fr/monde/ukraine/4259403-20261102-favorable-dialogue-moscou-iliana-iotova-elue-presidente-bulgarie?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 01:04:57 GMT"
+    },
+    {
+      "title": "La trata de esclavos bajo la Monarquía británica persigue al rey Carlos III en su gira caribeña y enrarece la cumbre de la Commonwealth",
+      "summary": "Jamaica y otras naciones de la región exigen a Londres una reparación por siglos de tráfico humano y al monarca una petición de perdón por el papel de la Corona en el mayor crimen de lesa humanidad de la Historia&nbsp;Leer",
+      "link": "https://www.elmundo.es/internacional/2026/11/02/6ae756f1e85ece7c778b4573.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 01:10:55 +0100"
+    },
+    {
+      "title": "Cryosphere faces permanent damage when world overshoots 1.5C, scientists warn",
+      "summary": "UN-backed report finds even temporary rises above Paris agreement target could cause harm to glaciers and polar ice sheetsEarth’s icy regions face such dangerous melting that global heating should be brought back below 1C after an inevitable period of overshooting global temperature targets, a UN report has found.Permanent and widespread losses of snow and ice expose a “persistent myth” that overs",
+      "link": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
+      "source": "The Guardian",
+      "lang": "en",
+      "country": "Royaume-Uni",
+      "themes": [
+        "geopolitique",
+        "environnement_climat"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 00:01:25 GMT"
+    },
+    {
+      "title": "Antonelli, el precoz redentor para un Mundial destinado al fracaso",
+      "summary": "El italiano, el campeón más joven de la historia, salvó un campeonato marcado por un reglamento infame&nbsp;Leer",
+      "link": "https://www.elmundo.es/deportes/formula-1/2026/11/01/6adca234e85ece28268b4577.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 23:35:14 +0100"
+    },
+    {
+      "title": "Un vote pour la démocratie",
+      "summary": "L’inflation pousse les électeurs aux urnes, mais la démocratie américaine les inquiète aussi.",
+      "link": "https://www.ledevoir.com/opinion/chroniques/1021418/vote-democratie",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "economie"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 17:31:00 -0500"
+    },
+    {
+      "title": "Paul St-Pierre Plamondon accepte de rencontrer Mark Carney",
+      "summary": "Mark Carney a tendu la main vers son homologue en amont du Sommet de la francophonie au Cambodge.",
+      "link": "https://www.ledevoir.com/politique/1021412/paul-st-pierre-plamondon-accepte-rencontrer-mark-carney",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 17:20:00 -0500"
+    },
+    {
+      "title": "\"Accidente atentado\":  así se activó un 'ejército digital' para exculpar al Gobierno tras  la tragedia de Urda",
+      "summary": "Cuando aún no se conocía el alcance de la tragedia, en la red social X ya había una 'explicación' repetida por cientos de usuarios: \"Fue un sabotaje israelí\". Pese a las evidencias, la falsedad no se quedó ahí y se amplificó luego con intervenciones en TVE. En medio del dolor, \"el primero que habla sustenta el relato\", señala un experto&nbsp;Leer",
+      "link": "https://www.elmundo.es/cronica/2026/11/01/6ae4f536fc6c83707c8b458d.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 22:43:47 +0100"
+    },
+    {
+      "title": "Atrapados en su mente: diseñan un software que permite comunicarse a pacientes de la UCI que parecían estar en coma",
+      "summary": "Un algoritmo desarrollado en la Universidad de Columbia logra que pacientes inmóviles y sin respuesta física regulen el pitido de una máquina. La idea es evolucionar el sistema para que transmita necesidades básicas como hambre o dolor&nbsp;Leer",
+      "link": "https://www.elmundo.es/salud/2026/11/01/6ade59ade9cf4a41288b4592.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "geopolitique",
+        "ia_tech"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 22:43:38 +0100"
+    },
+    {
+      "title": "Bulgarie: la présidente sortante Iliana Iotova remporte l'élection présidentielle",
+      "summary": "La présidente sortante Iliana Iotova, qui plaide pour le dialogue avec Moscou afin de mettre fin à la guerre en Ukraine, a remporté dimanche 1ᵉʳ novembre la présidentielle en Bulgarie, selon plusieurs sondages à la sortie des urnes.",
+      "link": "https://www.rfi.fr/fr/europe/20261101-bulgarie-la-pr%C3%A9sidente-sortante-iliana-iotova-remporte-l-%C3%A9lection-pr%C3%A9sidentielle",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_nationale",
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 21:34:51 GMT"
+    },
+    {
+      "title": "Los hackers de Kim Jong-un que están detrás del mayor robo de criptomonedas de la historia",
+      "summary": "Pyongyang ha convertido los ciberataques en una industria que desafía las sanciones internacionales y financia su programa nuclear&nbsp;Leer",
+      "link": "https://www.elmundo.es/internacional/2026/11/01/6ae73e8cfc6c83d74f8b457f.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 21:19:02 +0100"
+    },
+    {
+      "title": "Présidentielle 2027 : Édouard Philippe n’en veut vraiment pas et Natacha Polony dévoile un soutien de poids",
+      "summary": "D’ici au premier tour de l’élection présidentielle le 18 avril 2027, « 20 Minutes » vous livre le dimanche soir les dernières informations de la campagne. On retrouve Édouard Philippe, Natacha Polony et François Asselineau",
+      "link": "https://www.20minutes.fr/politique/4259366-20261101-presidentielle-2027-edouard-philippe-veut-vraiment-natacha-polony-devoile-soutien-poids?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 20:00:56 GMT"
+    },
+    {
+      "title": "Entre les États-Unis et l'Iran, «le ton a changé», estime le chercheur Thierry Coville",
+      "summary": "Troisième journée consécutive de pourparlers à Doha entre médiateurs qatariens et négociateurs iraniens. Vont-ils permettre d'asseoir de nouveau Washington et Téhéran à la table des négociations ? Alors que le président Donald Trump a menacé une nouvelle fois d'intensifier ses frappes sur l'Iran, le chef de la sécurité iranienne a annoncé avoir reçu une lettre de la part du vice-président J.D. Van",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261101-entre-les-%C3%A9tats-unis-et-l-iran-le-ton-a-chang%C3%A9-estime-le-chercheur-thierry-coville",
+      "source": "RFI",
+      "lang": "fr",
+      "country": "France/Afrique",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 17:59:49 GMT"
+    },
+    {
+      "title": "La acampada de Sol claudica ante la Delegación del Gobierno y se prepara para la última noche con una advertencia: \"Hay gente que se quedará\"",
+      "summary": "Este lunes celebrarán una jornada de despedida con actuaciones musicales, aunque algunos ocupantes, entre ellos una asociación de personas sin hogar, pretenden resistir en la plaza&nbsp;Leer",
+      "link": "https://www.elmundo.es/madrid/2026/11/01/6ae77551e4d4d83d0b8b458e.html",
+      "source": "El Mundo",
+      "lang": "es",
+      "country": "Espagne",
+      "themes": [
+        "politique_nationale",
+        "culture"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 18:50:24 +0100"
+    },
+    {
+      "title": "Mark Carney dit avoir eu une «bonne conversation» avec Donald Trump",
+      "summary": "Celle-ci a porté sur «l’avenir des échanges commerciaux entre le Canada et les États-Unis», dit le premier ministre.",
+      "link": "https://www.ledevoir.com/politique/canada/1021346/mark-carney-dit-avoir-eu-bonne-conversation-donald-trump",
+      "source": "Le Devoir",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 12:40:00 -0500"
+    },
+    {
+      "title": "En Indonésie, la Gen Z poursuit la contestation malgré les pressions de l’État",
+      "summary": "Depuis début 2025, les mobilisations étudiantes se succèdent en Indonésie, sur fond de crise sociale, environnementale et démocratique. Une colère qui fait écho aux manifestations de la jeunesse française, mais qui se heurte à une “criminalisation arbitraire”.",
+      "link": "https://www.courrierinternational.com/article/societe-en-indonesie-la-gen-z-poursuit-la-contestation-malgre-les-pressions-de-l-etat_283480",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "environnement_climat"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 18:30:04 +0100"
+    },
+    {
+      "title": "Bouches-du-Rhône : Un homme interpellé après qu’un pompier a été « très grièvement blessé par balle »",
+      "summary": "Le ministre de l’Intérieur Laurent Nuñez a annoncé ce dimanche qu’un pompier a été sérieusement blessé aux Pennes-Mirabeau par un individu qui « est actuellement remis aux autorités de la police judiciaire », a déclaré le préfet Jacques Witkowski",
+      "link": "https://www.20minutes.fr/faits_divers/faits-divers-marseille/4259355-20261101-bouches-rhone-pompier-blesse-balle-lors-intervention-raid-place?at_medium=display&at_campaign=149",
+      "source": "20 Minutes",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 17:25:34 GMT"
+    },
+    {
+      "title": "À Lyon, les liaisons dangereuses des ultras de l’OL avec l’extrême droite",
+      "summary": "Dans les tribunes du stade de Décines, une minorité active attise la haine et les violences sans que l’Olympique lyonnais ne fasse preuve d’une volonté forte pour endiguer le phénomène. La conséquence de plusieurs décennies de porosité entre les groupes de supporteurs et l’extrême droite la plus radicale.",
+      "link": "https://www.mediapart.fr/journal/france/011126/lyon-les-liaisons-dangereuses-des-ultras-de-l-ol-avec-l-extreme-droite",
+      "source": "Mediapart",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 17:59:54 +0100"
+    },
+    {
+      "title": "“Ils ont redonné confiance” : comment les étudiants serbes ont gagné face à l’apathie et au désespoir",
+      "summary": "Avant même d’infliger une défaite cuisante au populiste Aleksandar Vucic lors des élections du 25 octobre, les étudiants serbes avaient réussi à chambouler la culture politique de leur pays, saluait ce quotidien de Belgrade juste avant le scrutin.",
+      "link": "https://www.courrierinternational.com/article/decryptage-ils-ont-redonne-confiance-comment-les-etudiants-serbes-ont-gagne-face-a-l-apathie-et-au-desespoir_282483",
+      "source": "Courrier International",
+      "lang": "fr",
+      "country": "France",
+      "themes": [
+        "culture"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 17:45:00 +0100"
     },
     {
       "title": "Sissi promet de quitter le pouvoir en 2030: vrai tournant pour l’Égypte ou mise en scène du régime militaire?",
@@ -210,350 +1613,16 @@
       "pubDate": "Sun, 01 Nov 2026 10:25:37 GMT"
     },
     {
-      "title": "Kim Jong-un dispara bombas de racimo y acelera su carrera armamentística mientras Trump busca una nueva cita con el dictador",
-      "summary": "Washington explora un encuentro entre ambos líderes aprovechando la próxima gira asiática del presidente estadounidense&nbsp;Leer",
-      "link": "https://www.elmundo.es/internacional/2026/11/01/6ae712c2fc6c83d01e8b456f.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 11:25:28 +0100"
-    },
-    {
-      "title": "Un avocat demande une tutelle partielle pour la commune de Crans-Montana",
-      "summary": "Devant l’ampleur des montants que risquent de coûter les conséquences civiles du drame du Constellation, Sébastien Fanti interpelle le Conseil d'EtatFace à l’incertitude financière liée aux éventuelles conséquences civiles suite à l’incendie du Constellation, un avocat de plusieurs victimes demande la mise sous régie partielle de l’exécutif de Crans-Montana. Il veut aussi une enquête sur les finan",
-      "link": "https://www.letemps.ch/articles/un-avocat-demande-une-tutelle-partielle-pour-la-commune-de-crans-montana",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 11:18:17 +0100"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : le site pétrolier de Kstovo, grande raffinerie de Russie, visé par une attaque ; 371 drones russes « abattus ou neutralisés », selon Kiev",
-      "summary": "Le gouverneur de la région de Nijni Novgorod, Gleb Nikitine, a rapporté « une attaque massive de drones » dans la nuit et dimanche matin, au cours de laquelle « une entreprise industrielle dans le district de Kstovo a subi d’importants dégâts ».",
-      "link": "https://www.lemonde.fr/international/live/2026/11/01/en-direct-guerre-en-ukraine-le-site-petrolier-de-kstovo-grande-raffineries-de-russie-vise-par-une-attaque-371-drones-russes-abattus-ou-neutralises-selon-kiev_6803934_3210.html",
-      "source": "Le Monde",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 11:18:15 +0100"
-    },
-    {
-      "title": "Romeo + Juliet at 30: how Baz Luhrmann made teens fall in love with Shakespeare",
-      "summary": "The maximalist, heart over head adaptation of the romantic tragedy made stars of its leads and became an English teacher’s most trusted weapon for Bard-averse studentsRomeo + Juliet is not the most renowned or beloved of Shakespeare’s plays, but it is perhaps the most foundational. The 16th-century tragedy, a story of love-addled teenagers and white-hot resentment, is often an English student’s fi",
-      "link": "https://www.theguardian.com/film/2026/nov/01/baz-luhrmann-romeo-and-juliet-turns-30",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique",
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 10:00:08 GMT"
-    },
-    {
-      "title": "La Türkiye enregistre des recettes touristiques record de 51,3 milliards de dollars au cours des neuf premiers mois de 2026",
-      "summary": "Le ministre turc de la Culture et du Tourisme, Mehmet Nuri Ersoy, a pr&#233;sent&#233; les r&#233;sultats touristiques du pays pour le troisi&#232;me trimestre et les neuf premiers mois de 2026 lors d&#8217;une conf&#233;rence de presse &#224; &#304;stanbul. Entre janvier et septembre, les recettes touristiques ont atteint 51,3 milliards de dollars, en hausse de 2,4 % [&#8230;]\nL’article La Türkiy",
-      "link": "https://www.lapresse.tn/2026/11/01/la-turkiye-enregistre-des-recettes-touristiques-record-de-513-milliards-de-dollars-au-cours-des-neuf-premiers-mois-de-2026/",
-      "source": "La Presse (Tunisie)",
-      "lang": "fr",
-      "country": "Tunisie",
-      "themes": [
-        "politique_nationale",
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 09:47:14 +0000"
-    },
-    {
-      "title": "Dans les sous-sols du musée d’art moderne de Lugano, Kaari Upson nous attire dans le labyrinthe de ses obsessions",
-      "summary": "La plasticienne américaine, disparue en 2021, s’y connaît en maisons hantées. Elle suspend des «living rooms», moule des matelas usagés, reproduit des maisons de poupée à échelle monumentale. Une première rétrospective présente son travail au Tessin«Ma petite lumière disparue, je me suis assise dans l’obscurité un long moment. Cette obscurité était festonnée de cendres et n’avait aucun goût et fai",
-      "link": "https://www.letemps.ch/articles/dans-les-sous-sols-du-musee-d-art-moderne-de-lugano-kaari-upson-nous-attire-dans-le-labyrinthe-de-ses-obsessions",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_internationale",
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 10:40:54 +0100"
-    },
-    {
-      "title": "«Les personnes âgées ne sont pas assez reconnues»: Présidente des Vert·e·s, Rebecca Joly veut inscrire les aînés dans la Constitution vaudoise",
-      "summary": "La députée verte Rebecca Joly déposera mardi une initiative pour que les aînés soient davantage soutenus, sur le modèle neuchâtelois. Elle mise sur un mandat général plutôt que des prestations définies, ce qui soulève la question de son utilité concrèteD’ici à 2040, une personne sur cinq aura 65&nbsp;ans ou plus dans le canton de Vaud et le nombre des aînés de plus de 80&nbsp;ans devrait doubler. ",
-      "link": "https://www.letemps.ch/articles/les-personnes-agees-ne-sont-pas-assez-reconnues-presidente-des-vert-e-s-rebecca-joly-veut-inscrire-les-aines-dans-la-constitution-vaudoise",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "environnement_climat"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 10:29:54 +0100"
-    },
-    {
-      "title": "Delhi rolls out new anti-pollution measures to get ahead of toxic winter smog",
-      "summary": "Parking charges at authorised sites are doubled and private office staff asked to work from home",
-      "link": "https://www.independent.co.uk/asia/india/delhi-pollution-parking-fare-work-from-home-b3077028.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "environnement_climat"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 09:26:53 GMT"
-    },
-    {
-      "title": "North Korea tests missile-mounted cluster bomb warheads in military push",
-      "summary": "North’s defence science research institute conducts tests to assess ‘adaptation and power’ of warhead",
-      "link": "https://www.independent.co.uk/asia/east-asia/north-korea-cluster-bomb-warhead-test-b3077022.html",
-      "source": "The Independent",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 09:23:41 GMT"
-    },
-    {
-      "title": "Deux nouveaux véhicules tunisiens bientôt sur le marché : que révèle ce nouveau projet ?",
-      "summary": "La start-up tunisienne IntiGo annonce le d&#233;veloppement de deux nouveaux v&#233;hicules destin&#233;s respectivement &#224; la mobilit&#233; urbaine et au transport de marchandises. Baptis&#233;s iCITY et iPRO, ces deux mod&#232;les reposeraient sur un m&#234;me ch&#226;ssis et sont pr&#233;sent&#233;s par leur promoteur comme des solutions compactes et &#233;conomiques. Dans une publication d",
-      "link": "https://www.lapresse.tn/2026/11/01/made-in-tunisia-deux-nouveaux-vehicules-tunisiens-bientot-sur-le-marche/",
-      "source": "La Presse (Tunisie)",
-      "lang": "fr",
-      "country": "Tunisie",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 09:23:23 +0000"
-    },
-    {
-      "title": "«L’esprit critique» expositions: de la biennale de Lyon à Vancouver",
-      "summary": "Le podcast culturel de «Mediapart» vous emmène dans les différents lieux de la biennale d’art contemporain de Lyon et s’intéresse ensuite à la rétrospective Stan Douglas au Jeu de paume, à Paris.",
-      "link": "https://www.mediapart.fr/journal/culture-et-idees/011126/l-esprit-critique-expositions-de-la-biennale-de-lyon-vancouver",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 10:01:18 +0100"
-    },
-    {
-      "title": "Entre 1936 et 2026, des résonances artistiques contre la guerre et les fascismes",
-      "summary": "Une exposition fait actuellement dialoguer les années 1936 et 2026, au siège du Parti communiste français. Affiches, tableaux, sculptures et gravures montrent que la menace guerrière et fasciste n’a jamais pu effacer la résistance, par l’art ou la manifestation. Des thèmes qui résonnent grandement avec l’actualité.",
-      "link": "https://www.mediapart.fr/journal/culture-et-idees/011126/entre-1936-et-2026-des-resonances-artistiques-contre-la-guerre-et-les-fascismes",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique",
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 10:01:08 +0100"
-    },
-    {
-      "title": "Comment la Chine se nourrit des terres rares birmanes",
-      "summary": "Dopée par la guerre civile et la demande mondiale, l’exploitation incontrôlée des terres rares ravage les écosystèmes birmans et enrichit des acteurs armés, au mépris des populations. Les pluies diluviennes qui s’abattent depuis fin septembre contribuent à propager des eaux toxiques.",
-      "link": "https://www.mediapart.fr/journal/economie-et-social/011126/comment-la-chine-se-nourrit-des-terres-rares-birmanes",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 10:00:52 +0100"
-    },
-    {
-      "title": "Santiago Abascal: \"El crecimiento de Vox es lo que asegura la alternativa\"",
-      "summary": "En la semana más crítica, con 69 fallecidos en el accidente de Urda y la campaña electoral avanzando hacia las elecciones del 29-N, Santiago Abascal se muestra cauto con la situación, critica el \"abandono que sufren los españoles\" y confía en un cambio político en el que su partido tenga un papel protagonista&nbsp;Leer",
-      "link": "https://www.elmundo.es/espana/2026/10/31/6ae5d63221efa081798b4597.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "politique_nationale",
-        "economie"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 09:56:11 +0100"
-    },
-    {
-      "title": "Pourquoi les avions tournent-ils en rond avant d’atterrir ? L’ONU a un plan pour y remédier",
-      "summary": "Les retards du trafic a&#233;rien co&#251;tent des milliards de dollars et transforment les voyages en &#233;preuves. Pourtant, certains pays montrent qu&#8217;une meilleure coordination permet d&#8217;&#233;conomiser des milliers d&#8217;heures de vol et de r&#233;duire les &#233;missions de gaz &#224; effet de serre. L&#8217;agence de l&#8217;ONU pour l&#8217;aviation civile souhaite que le rest",
-      "link": "https://www.lapresse.tn/2026/11/01/pourquoi-les-avions-tournent-ils-en-rond-avant-datterrir-lonu-a-un-plan-pour-y-remedier/",
-      "source": "La Presse (Tunisie)",
-      "lang": "fr",
-      "country": "Tunisie",
-      "themes": [
-        "politique_internationale"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 08:45:05 +0000"
-    },
-    {
-      "title": "El PP retoma la \"política para adultos\" como estrategia: \"Es el 'momento Feijóo', somos el Gobierno a la espera\"",
-      "summary": "Los 'populares' combinarán el perfil gestor con ataques frontales a Sánchez: \" Habrá voto de ajuste de cuentas\"&nbsp;Leer",
-      "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/01/6ae5daade9cf4a7d748b45a1.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 09:44:18 +0100"
-    },
-    {
-      "title": "En Bulgarie, le second tour de l’élection présidentielle est ouvert, duel serré en vue sur fond de tensions avec la Russie",
-      "summary": "La présidente sortante Iliana Iotova, 62 ans, qui plaide pour le dialogue avec Moscou afin de mettre fin à la guerre en Ukraine, affronte Andreï Guiourov, 50 ans, ancien premier ministre intérimaire soutenu par l’opposition pro-occidentale.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/01/en-bulgarie-le-second-tour-de-l-election-presidentielle-s-ouvre-dimanche-avec-un-duel-serre-sur-fond-de-tensions-avec-la-russie_6804128_3210.html",
-      "source": "Le Monde",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_nationale",
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 09:42:19 +0100"
-    },
-    {
-      "title": "Raymond Queneau, entre «l’art et la rigolade»",
-      "summary": "Né en 1903 et mort d’un cancer du poumon en 1976, Raymond Queneau est un écrivain français pas comme les autres. Auteur d’une œuvre inclassable, romanesque et poétique, savoureuse et grave, populaire et expérimentale, l’homme a marqué l’histoire littéraire française.",
-      "link": "https://www.rfi.fr/fr/culture/20261101-raymond-queneau-entre-l-art-et-la-rigolade",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 08:00:24 GMT"
-    },
-    {
-      "title": "Dafne Keen and Harriet Walter on working with Patrick Stewart: ‘I’ve never seen anyone so ecstatic’",
-      "summary": "The late actor’s co-stars in Logan and Anthony and Cleopatra remember dog impressions, marching band-conducting and a fervent belief in funI had the unbelievable privilege of working with Patrick when I was 11 [in Logan]. He was a man of extraordinary warmth, wit and generosity. He possessed that increasingly rare ability to make everyone around him feel as though they were being let in on somethi",
-      "link": "https://www.theguardian.com/culture/2026/nov/01/dafne-keen-and-harriet-walter-on-working-with-patrick-stewart-ive-never-seen-anyone-so-ecstatic",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 08:00:06 GMT"
-    },
-    {
-      "title": "“Griefbots”, “thanabots”, “deadbots” : quand la tech propose de ressusciter nos morts",
-      "summary": "E-mails, notes vocales, vidéos, historique d’achats… Aujourd’hui, chaque personne qui disparaît laisse derrière elle les archives de toute une vie. Avec l’aide de l’IA, des entreprises proposent d’utiliser ce patrimoine pour créer des avatars et, bientôt, des jumeaux numériques. Ce qui ne va pas sans soulever de multiples questions éthiques, souligne le journal espagnol “El Mundo”.",
-      "link": "https://www.courrierinternational.com/article/deuil-griefbots-thanabots-deadbots-quand-la-tech-propose-de-ressusciter-nos-morts_273957",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 08:33:40 +0100"
-    },
-    {
-      "title": "Que sont les «batailles d'aura», ces duels d'ados sur les réseaux et «in real life»?",
-      "summary": "Ces duels de gestes populaires, issus de la culture Internet, sont la tendance du moment chez les jeunes, du Mexique à la Suisse. Regard sociologique sur un mouvement qui se déroule hors et en ligneQue ce soit dans les cours de récréation, les journaux télévisés mais surtout dans les feeds des réseaux sociaux, rares sont ceux qui ont pu échapper au phénomène des «batailles d’aura» ces dernières se",
-      "link": "https://www.letemps.ch/articles/que-sont-les-batailles-d-aura-ces-duels-d-ados-sur-les-reseaux-et-in-real-life",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "jeux_video",
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 08:30:47 +0100"
-    },
-    {
-      "title": "Carburant : E. Leclerc baisse à partir de ce dimanche le prix du gazole dans ses stations",
-      "summary": "Grâce au déstockage de réserves stratégiques décidé par le gouvernement, la baisse est de 21 centimes par litre pour le gazole dans les 742 stations-service E. Leclerc",
-      "link": "https://www.20minutes.fr/economie/4259281-20261101-carburant-e-leclerc-baisse-partir-dimanche-prix-gazole-stations?at_medium=display&at_campaign=149",
+      "title": "« On a du mal à dire qui a écrit quoi »... Comment les stars de la romance écrivent à quatre mains ?",
+      "summary": "Longtemps solitaire, l’écriture se conjugue désormais au pluriel pour certaines plumes. Les deux stars de la romance que sont Delinda Dane et Lyly Bay viennent de sortir leur premier livre commun « Icarus Fall »",
+      "link": "https://www.20minutes.fr/arts-stars/livres/4256423-20261101-mal-dire-ecrit-quoi-comment-stars-romance-ecrivent-quatre-mains?at_medium=display&at_campaign=149",
       "source": "20 Minutes",
       "lang": "fr",
       "country": "France",
       "themes": [
-        "politique_nationale"
+        "culture"
       ],
-      "pubDate": "Sun, 01 Nov 2026 07:22:57 GMT"
-    },
-    {
-      "title": "La Malaisie étouffe sous les nuages toxiques venus des incendies d'Indonésie",
-      "summary": "Ces dernières semaines, les incendies en Indonésie ont accentué la pollution de l’air dans le pays et chez les voisins. Si le retour de la pluie atténue depuis le weekend dernier le brouillard toxique dans la région, l’heure est aussi aux premiers bilans : en Indonésie, la pollution de l’air aurait provoqué 3 560 morts. En Malaisie voisine, une étude scientifique commandée par la Fédération des fa",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20261101-en-malaisie-les-lourdes-cons%C3%A9quences-humaines-et-%C3%A9conomiques-des-fum%C3%A9es-en-provenance-d-indon%C3%A9sie",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "environnement_climat"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 07:19:40 GMT"
-    },
-    {
-      "title": "Armement: le Conseil fédéral reprend le pouvoir",
-      "summary": "CHRONIQUE. Le Conseil fédéral a peut-être déjà tiré une leçon du fiasco de l’achat des F-35 américains. En témoigne le retour des critères politiques et de relations extérieures dans l’acquisition du prochain système de défense sol-air de l’armée, écrit Yves PetignatIl y a de l’espoir. Le Conseil fédéral aura peut-être retenu quelque chose de la débâcle dans l’acquisition des avions de combat F-35",
-      "link": "https://www.letemps.ch/articles/armement-le-conseil-federal-reprend-le-pouvoir",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_nationale",
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 08:01:32 +0100"
-    },
-    {
-      "title": "La crise du raffinage de pétrole engendre des profits record chez les négociants et les pétroliers",
-      "summary": "Les frappes, en Ukraine, en Russie et au Moyen-Orient, ciblent les actifs énergétiques et font ainsi exploser les prix des carburants. Un contexte favorable aux détenteurs de raffineries en état de fonctionner mais aussi aux nombreux négociants en SuisseLes prix du pétrole étaient à nouveau en hausse cette semaine. Le baril de Brent a clôturé vendredi à 117&nbsp;dollars, un gain de dix pourcent de",
-      "link": "https://www.letemps.ch/articles/la-crise-du-raffinage-de-petrole-engendre-des-profits-record-chez-les-negociants-et-les-petroliers",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_nationale",
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 08:00:05 +0100"
-    },
-    {
-      "title": "UE: une nouvelle taxe sur les petits colis étrangers entre en vigueur, la fast fashion chinoise visée",
-      "summary": "L'offensive européenne sur les petits colis en provenance de l'extérieur de l'Union européenne se poursuit. Dimanche 1er novembre entrent en vigueur de nouveaux frais pour l'arrivée de ces colis sur le marché européen. Les plateformes chinoises comme Shein et Temu sont clairement visées par ces mesures.",
-      "link": "https://www.rfi.fr/fr/europe/20261101-ue-une-nouvelle-taxe-sur-les-petits-colis-%C3%A9trangers-entre-en-vigueur-la-fast-fashion-chinoise-vis%C3%A9e",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "politique_internationale"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 06:57:09 GMT"
-    },
-    {
-      "title": "Jacinda Ardern in Sydney Opera House talk advises politicians to ‘rebuild trust by building financial security’",
-      "summary": "Former New Zealand prime minister has moved to Australia and is lecturing at University of Sydney – and from stage of city’s famous landmarkJacinda Ardern, who now calls Sydney home, has delivered a message to Australian politicians from the stage of the city’s Opera House.Politicians, the former New Zealand prime minister turned academic told the audience on Sunday, were exacerbating the problem ",
-      "link": "https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 06:53:22 GMT"
-    },
-    {
-      "title": "Indian forces tighten security in Delhi ahead of big opposition protest",
-      "summary": "Opposition says hundreds of thousands of people expected to participate in march demanding election chief resign over voter list changesIndian security personnel carrying batons and shields and accompanied by riot control vehicles surrounded the site of a planned opposition ⁠protest in Delhi on Sunday that is set to demand the resignation of the country’s election chief over a controversial revisi",
-      "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "politique_nationale",
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 06:20:58 GMT"
+      "pubDate": "Sun, 01 Nov 2026 09:02:37 GMT"
     },
     {
       "title": "Route du Rhum 2026 : « J’ai vécu à crédit toute la saison »… La galère des skippeurs en quête de sponsors",
@@ -568,665 +1637,6 @@
       "pubDate": "Sun, 01 Nov 2026 06:02:39 GMT"
     },
     {
-      "title": "My wife and I are in our late 70s and don’t have any children. Who can help us in our old age? | Annalisa Barbieri",
-      "summary": "Getting older and losing your autonomy is even harder without family around. You need to consider both the practical and emotional issues involvedMy wife and I are in our late 70s, and have been married for more than 40 years. We didn’t have kids and were rather traumatised after failed IVF. My wife is Asian and has no UK-based family. I do, but they are not close geographically, nor are they peop",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/01/late-70s-no-children-who-help-old-age-annalisa-barbieri",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 06:00:05 GMT"
-    },
-    {
-      "title": "‘The term is becoming unrecognisable’: have the experts who believed in a single autism spectrum changed their minds?",
-      "summary": "There has been a steep rise in the number of people labelled autistic over the last 20 years. Is that down to greater understanding – or overdiagnosis?The home of 85-year-old Uta Frith does not exactly look like the latest front in the culture wars. Located in a serenely quiet corner of north-west London, it suggests a life still well lived, a set of deep interests and an idyllic kind of retiremen",
-      "link": "https://www.theguardian.com/society/2026/nov/01/the-term-is-becoming-unrecognisable-have-the-experts-who-believed-in-a-single-autism-spectrum-changed-their-minds",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique",
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 06:00:04 GMT"
-    },
-    {
-      "title": "I’m sick of smug celebrities on the podcast circuit. No wonder there’s a fuss when someone speaks the truth | Imogen West-Knights",
-      "summary": "It was so refreshing to hear Aaron Sorkin admit he was bad at parts of directing after his movie flop. If only others could be as frankBy most accounts, Aaron Sorkin’s new film The Social Reckoning, a follow-up to his 2010 smash-hit The Social Network, is a flop. The film critic Mark Kermode’s response to seeing it was that Sorkin, who is widely regarded as one of the greatest living screenwriters",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/01/smug-celebrities-podcast-circuit-aaron-sorkin",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique",
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 06:00:04 GMT"
-    },
-    {
-      "title": "« On ne ressent rien » : des étudiants en cinéma chinois jugent sévèrement « Sanxingdui », le premier film 100 % IA",
-      "summary": "Le fiasco de cette production s’inscrit dans un contexte de malaise de l’industrie du septième art, minée par l’effondrement de la fréquentation et des recettes.",
-      "link": "https://www.lemonde.fr/culture/article/2026/11/01/on-ne-ressent-rien-des-etudiants-en-cinema-chinois-jugent-severement-sanxingdui-le-premier-film-100-ia_6804056_3246.html",
-      "source": "Le Monde",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "ia_tech",
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 06:30:10 +0100"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Trump menace de frapper de nouveau l’Iran, en « dix minutes »",
-      "summary": "Le président des États-Unis estime qu’il doit encore « s’occuper » d’un ou deux sites en Iran. Des informations de presse évoquent une possible campagne militaire courte et intense après les midterms",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4259270-20261101-guerre-moyen-orient-trump-menace-frapper-nouveau-iran-dix-minutes?at_medium=display&at_campaign=149",
-      "source": "20 Minutes",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 05:09:21 GMT"
-    },
-    {
-      "title": "Russia forced to ship grain via Arctic as Black Sea battles rage",
-      "summary": "Farmers are exporting agricultural goods from ports thousands of miles away, driving up costs for overseas buyers",
-      "link": "https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 05:00:09 GMT"
-    },
-    {
-      "title": "Military briefing: what would another US-Iran conflict look like?",
-      "summary": "US and Israeli options to escalate range from maritime campaigns to attempting regime change but risk provoking retaliation",
-      "link": "https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 05:00:09 GMT"
-    },
-    {
-      "title": "Are the US midterms going to see a blue wave of Democrats winning seats – or a blue flood?",
-      "summary": "Donald Trump uttered five words this summer that could seal the Republican party’s fate: ‘Pretend I’m on the ticket’He spoke admiringly of a senator’s posterior. He baselessly accused a Muslim candidate of being a terrorist. He boasted about his renovations of the White House. He quipped that his own supporters couldn’t afford a hamburger at his Mar-a-Lago club. Every now and then, he spoke about ",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "politique_nationale",
-        "politique_internationale"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 05:00:03 GMT"
-    },
-    {
-      "title": "How to improve your memory: 10 easy, enjoyable expert tips – from reading a book to getting more sleep",
-      "summary": "Relying on technology can make us forgetful, but there are some simple ways to sharpen your recall. Memory experts describe the tricks and habits that can helpMemory can worsen as we age, but it is often possible to do something about it. Here, memory experts share their advice on how to improve your power of recall. Continue reading...",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/01/how-to-improve-your-memory-10-easy-enjoyable-expert-tips-from-reading-a-book-to-getting-more-sleep",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 05:00:03 GMT"
-    },
-    {
-      "title": "Piles of rubbish, power cuts and potholes: anger grows over Johannesburg’s run-down infrastructure",
-      "summary": "The problems run deep in South Africa’s largest city. Will voters punish the ANC in next week’s local elections?One week before the local elections in South Africa, the pavements and roads of the Johannesburg township Alexandra were filled with piles of rubbish, rotting in the heat. At the Jukskei River, its banks choked with rubble and litter, foul-smelling brown water flowed out of a culvert.“We",
-      "link": "https://www.theguardian.com/world/2026/nov/01/anger-over-johannesburgs-run-down-infrastructure-elections",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique",
-        "environnement_climat"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 05:00:03 GMT"
-    },
-    {
-      "title": "Sahara occidental : la Russie et les Etats-Unis s’opposent au Conseil de sécurité sur l’avenir de la mission de l’ONU, qui ne sera pas reconduite après 35 ans sur le terrain",
-      "summary": "La mission onusienne chargée de veiller au respect du cessez-le-feu dans l’ex-colonie espagnole, que se disputent le Maroc et le Front Polisario, va cesser d’exister à compter du 1ᵉʳ novembre. Le Conseil de sécurité a échoué à en prolonger le mandat, suscitant la crainte d’une reprise des hostilités.",
-      "link": "https://www.lemonde.fr/afrique/article/2026/11/01/sahara-occidental-la-disparition-annoncee-de-la-mission-de-l-onu-ouvre-une-periode-d-incertitudes_6804008_3212.html",
-      "source": "Le Monde",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_internationale",
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 05:15:09 +0100"
-    },
-    {
-      "title": "Manifestations du 31 octobre : « Tentative de meurtre » contre un gendarme, interpellations… Le point sur l’Acte III",
-      "summary": "Le ministre de l’Intérieur Laurent Nuñez estime que « les cortèges se sont bien déroulés », malgré « la violence inouïe » de casseurs contre les forces de l’ordre",
-      "link": "https://www.20minutes.fr/societe/4259268-20261101-manifestations-31-octobre-tentative-meurtre-contre-gendarme-interpellations-point-acte-iii?at_medium=display&at_campaign=149",
-      "source": "20 Minutes",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 04:04:51 GMT"
-    },
-    {
-      "title": "La COP d’Erevan analysée par Steven Guilbeault, figure des négociations sur la biodiversité : « La question des subventions néfastes est probablement le cheval de bataille des prochaines années »",
-      "summary": "L’ancien ministre de l’environnement du Canada, et artisan de l’accord de Kunming-Montréal de 2022, un texte fondateur pour le vivant, porte un regard positif sur la conférence qui s’est achevée le 31 octobre en Arménie.",
-      "link": "https://www.lemonde.fr/planete/article/2026/11/01/cop-biodiversite-a-erevan-la-presidence-armenienne-a-fait-un-travail-exemplaire_6803972_3244.html",
-      "source": "Le Monde",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_nationale",
-        "environnement_climat"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 05:00:27 +0100"
-    },
-    {
-      "title": "« Je ne voudrais pas qu’ils tombent là-dessus » : en préparation du jour où ils vont disparaître, ils font le ménage dans leur téléphone",
-      "summary": "Messages, photos, notes… Nos smartphones conservent des années de vie privée susceptibles de tomber entre les mains de nos proches après notre mort. Pour éviter les découvertes embarrassantes, certains font du tri dans leurs traces numériques.",
-      "link": "https://www.lemonde.fr/pixels/article/2026/11/01/je-ne-voudrais-pas-qu-ils-tombent-la-dessus-en-preparation-du-jour-ou-ils-vont-disparaitre-ils-font-le-menage-dans-leur-telephone_6803967_4408996.html",
-      "source": "Le Monde",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 05:00:09 +0100"
-    },
-    {
-      "title": "Plusieurs morts dans le bombardement d'un camp de la guérilla colombienne au Venezuela",
-      "summary": "Plusieurs personnes sont décédées suite à un bombardement attribué à l'armée vénézuélienne contre un camp de la guérilla colombienne ELN en territoire vénézuélien.",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261101-plusieurs-morts-dans-le-bombardement-d-un-camp-de-la-gu%C3%A9rilla-colombienne-au-venezuela",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 03:11:21 GMT"
-    },
-    {
-      "title": "«Incroyable, géniale, magique», la cérémonie d’ouverture des JOJ a marqué les esprits",
-      "summary": "La cérémonie d’ouverture des JOJ au stade Abdoulaye Wade, mêlant cultures sénégalaise et africaine, et symboles olympiques, a enthousiasmé spectateurs, athlètes et volontaires, tous unanimes pour la qualifier d’« incroyable » et de « magique ».",
-      "link": "https://www.rfi.fr/fr/sports/20261101-incroyable-g%C3%A9niale-magique-la-c%C3%A9r%C3%A9monie-d-ouverture-des-joj-a-marqu%C3%A9-les-esprits",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 01:43:19 GMT"
-    },
-    {
-      "title": "Le projet d’arc de triomphe de Trump visé par une nouvelle plainte",
-      "summary": "Après la plainte d’anciens combattants et de défenseurs du patrimoine, la ville de Washington et l’État de Virginie ont à leur tour saisi la justice américaine, samedi 31 octobre, pour tenter de bloquer la construction de l’arc de triomphe monumental que Donald Trump souhaite ériger dans la capitale fédérale.",
-      "link": "https://www.courrierinternational.com/article/etats-unis-le-projet-d-arc-de-triomphe-de-trump-vise-par-une-nouvelle-plainte_283838",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_internationale"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 02:01:22 +0100"
-    },
-    {
-      "title": "Des «chatbots» d’IA diffusent de fausses informations sur les élections américaines de mi-mandat",
-      "summary": "Selon un sondage, deux Américains sur cinq ont fait usage à l’intelligence artificielle pour s’informer sur le sujet.",
-      "link": "https://www.ledevoir.com/monde/etats-unis/1021307/chatbots-ia-diffusent-fausses-informations-elections-americaines-mi-mandat",
-      "source": "Le Devoir",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 20:57:54 -0400"
-    },
-    {
-      "title": "Michigan feud threatens Democratic unity in key Senate race",
-      "summary": "Abdul El-Sayed disinvites former primary rival Haley Stevens from campaign event amid war of words over Israel",
-      "link": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 23:57:07 GMT"
-    },
-    {
-      "title": "Jesucristo, John Wayne y la batalla religiosa en las elecciones estadounidenses",
-      "summary": "El nacionalismo cristiano refuerza la alianza entre Trump y los evangélicos, mientras candidatos demócratas apelan a la fe para ganar terreno en estados conservadores&nbsp;Leer",
-      "link": "https://www.elmundo.es/internacional/2026/11/01/6ae4adace9cf4a7f048b4590.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 00:04:11 +0100"
-    },
-    {
-      "title": "Presidentes de empresas con capital público nombrados por el PSOE han contactado con el PP y aseguran que son profesionales",
-      "summary": "El baile en las cúpulas de importantes empresas, si Feijóo logra gobernar tras el 29-N&nbsp;Leer",
-      "link": "https://www.elmundo.es/economia/macroeconomia/2026/11/01/6ae3285c21efa0fe6f8b457f.html",
-      "source": "El Mundo",
-      "lang": "es",
-      "country": "Espagne",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sun, 01 Nov 2026 00:03:23 +0100"
-    },
-    {
-      "title": "Royaume-Uni: le Premier ministre se dit ouvert à des excuses officielles sur l'esclavage",
-      "summary": "Le Premier ministre britannique Andy Burnham a assuré au quotidien The Guardian qu'il était ouvert à ce que son pays présente des excuses officielles pour son rôle dans la traite transatlantique d'esclaves, mais exclut toute réparation financière aux descendants. Des propos tenus avant un déplacement dans les Caraïbes, la semaine prochaine. À Antigua-et-Barbuda, le chef de file des travaillistes d",
-      "link": "https://www.rfi.fr/fr/europe/20261031-royaume-uni-le-premier-ministre-se-dit-ouvert-%C3%A0-des-excuses-officielles-sur-l-esclavage",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 22:47:29 GMT"
-    },
-    {
-      "title": "La Syrie étudie la possibilité de rejoindre le pacte de défense de La Mecque",
-      "summary": "La Syrie étudie la possibilité de rejoindre le pacte de défense de La Mecque, signé le 7 août dernier par l'Arabie saoudite, le Pakistan et la Turquie, a annoncé samedi 31 octobre à Bahreïn le ministre syrien des Affaires étrangères, Assaad Hassan al-Chibani. Quel intérêt pour la Syrie de rejoindre un pacte pointé du doigt pour son manque d'efficacité face aux Houthis ?",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20261031-la-syrie-%C3%A9tudie-la-possibilit%C3%A9-de-rejoindre-le-pacte-de-d%C3%A9fense-de-la-mecque",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 22:35:07 GMT"
-    },
-    {
-      "title": "Pologne: le bras de fer s'intensifie entre le Premier ministre Tusk et le président Navrocki",
-      "summary": "En pleine crise politique en raison du bras de fer sur la composition du Tribunal constitutionnel, le président polonais a mené ce samedi 31 octobre des consultations avec les représentants des partis de la majorité centriste et de l'opposition nationaliste pour trouver une issue à la crise politique et institutionnelle, sans résultats tangibles. Son adversaire frontal, le Premier ministre Donald ",
-      "link": "https://www.rfi.fr/fr/europe/20261031-pologne-le-bras-de-fer-s-intensifie-entre-le-premier-ministre-tusk-et-le-pr%C3%A9sident-navrocki",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 21:31:00 GMT"
-    },
-    {
-      "title": "Les Vert·e·s vaudois lancent Sophie Michaud Gigon pour le Conseil des Etats en octobre 2027",
-      "summary": "La conseillère nationale de 51 ans, plébiscitée samedi à Renens, pourrait faire campagne aux côtés du socialiste Pierre-Yves Maillard. Objectif: reconquérir le siège détenu par le PLR Pascal BroulisLes Vert·e·s vaudois ont validé samedi la candidature de Sophie Michaud Gigon pour l’élection au Conseil des Etats en octobre 2027. L’actuelle conseillère nationale pourrait faire campagne avec l’actuel",
-      "link": "https://www.letemps.ch/articles/les-vert-e-s-vaudois-lancent-sophie-michaud-gigon-pour-le-conseil-des-etats-en-octobre-2027",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_nationale",
-        "culture"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 22:16:00 +0100"
-    },
-    {
-      "title": "Sur scène à Lausanne, le phénoménal Simon McBurney ressuscite John Berger, géant de la littérature mondiale",
-      "summary": "Le grand comédien britannique joue au Théâtre de Vidy, jusqu’au 8 novembre, «Questions for John», spectacle en forme de conversation avec un poète batailleur sur tous les fronts, mort en 2017. Sous le soleil, il déroule le film d’une amitié prodigieuseLe soleil de midi vous fend. Un coup de lame sur la terrasse de Vidy à Lausanne. Et le comédien Simon McBurney vous montre son trésor, sur son smart",
-      "link": "https://www.letemps.ch/articles/sur-scene-a-lausanne-le-phenomenal-simon-mcburney-ressuscite-john-berger-geant-de-la-litterature-mondiale",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 21:39:31 +0100"
-    },
-    {
-      "title": "«Crystal Lake», une curieuse série dérivée des «Vendredi 13»",
-      "summary": "Pour Halloween, quoi de mieux qu’un petit «Vendredi 13»? La série adaptée des films d’horreur conte la genèse des crimes de la mère de Jason, l’enfant noyé devenu sinistre tueur. En partant dans tous les sens, ce qui la rend, en fait, plutôt sympathiqueElles ne manquent pas, les allusions aux films dans la série. Par exemple, la cabane de Packanack, le camion d’essence rouge Elston Oil, l’auto-sto",
-      "link": "https://www.letemps.ch/articles/crystal-lake-une-curieuse-serie-derivee-des-vendredi-13",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 21:14:38 +0100"
-    },
-    {
-      "title": "«Même manifester, cela devient difficile»: partout en France, des cortèges inquiets pour les libertés",
-      "summary": "Contrairement aux espoirs du gouvernement, la mobilisation n’a pas faibli pour cette troisième journée de manifestations. Les revendications contre la vie chère et pour la défense de l’éducation nationale demeurent, mais une sourde colère monte contre le pouvoir, qui se barricade derrière la répression.",
-      "link": "https://www.mediapart.fr/journal/france/311026/meme-manifester-cela-devient-difficile-partout-en-france-des-corteges-inquiets-pour-les-libertes",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 20:21:50 +0100"
-    },
-    {
-      "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
-      "summary": "Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied cityEvacuees from Russian-occupied Oleshky have been reunited with their families after crossing into Ukrainian-held territory on Saturday.The major rescue operation began on Friday and was carried out under the most significant truce since Russia’s full-scale invasion of Ukraine four and",
-      "link": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 19:17:22 GMT"
-    },
-    {
-      "title": "Dans «Mon enfant explose pour un rien», la pédopsychiatre Gisèle George explique comment endiguer les grandes colères des petits",
-      "summary": "En réagissant de manière neutre aux crises et en valorisant les comportements positifs, les parents peuvent éteindre les manifestations de frustration de leurs rejetonsFrançois, 8&nbsp;ans, estime que débarrasser la table fait de lui une «victime du joug familial». Il se braque et pique une colère noire si la demande est réitérée. Face au tsunami, sa mère accomplit la tâche pour éviter le conflit,",
-      "link": "https://www.letemps.ch/articles/dans-mon-enfant-explose-pour-un-rien-la-pedopsychiatre-gisele-george-explique-comment-endiguer-les-grandes-coleres-des-petits",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 20:17:18 +0100"
-    },
-    {
-      "title": "Some NSW police are now armed with military-style rifles. And they could be deployed to protests",
-      "summary": "Jewish groups welcome the new patrol unit in the wake of the Bondi terror attack. But experts say police use of long-arm firearms must be strictly controlledGet our breaking news email, free app or daily news podcastPolice officers armed with military rifles are a familiar sight in some major global tourist destinations. Now, in an Australian first, they will be visible in Sydney too.On Sunday, th",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/01/nsw-police-armed-response-command-rifles-ntwnfb",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 19:00:50 GMT"
-    },
-    {
-      "title": "«Ce gouvernement n’a plus aucune légitimité»: les manifestants français maintiennent la pression",
-      "summary": "Si la participation est légèrement moindre par rapport à la semaine dernière, la mobilisation contre la vie chère et les violences policières, qui aura été émaillée de quelques heurts, demeure très forteDans le théâtre français classique, celui de Racine et Molière, le troisième acte est celui de la bascule, du tournant de l’histoire. Après un premier acte contre la vie chère, le 17&nbsp;octobre, ",
-      "link": "https://www.letemps.ch/articles/ce-gouvernement-n-a-plus-aucune-legitimite-les-manifestants-francais-maintiennent-la-pression",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "politique_nationale",
-        "culture"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 19:34:08 +0100"
-    },
-    {
-      "title": "Halloween : notre sélection des meilleures œuvres d’horreur de l’année 2026",
-      "summary": "La sortie de “Hope”, ce 28 octobre, est venue confirmer que le cinéma d’horreur était en grande forme en 2026. Mais le genre s’est aussi exprimé sur nos petits écrans, sous la forme de séries et de jeux vidéo. “Courrier international” repasse pour vous l’année en revue. Voici cinq recommandations pour savourer cet Halloween millésimé.",
-      "link": "https://www.courrierinternational.com/article/top-5-halloween-notre-selection-des-meilleures-uvres-d-horreur-de-l-annee-2026_283242",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "jeux_video",
-        "culture"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 19:15:05 +0100"
-    },
-    {
-      "title": "Le guide suprême iranien met en garde les États-Unis et Israël contre une reprise de la guerre",
-      "summary": "Le guide suprême iranien, Mojtaba Khamenei, a rencontré samedi 31 octobre de hauts responsables militaires et leur a ordonné de riposter à toute attaque américaine ou israélienne par une réponse « sans limite géographique », selon un communiqué publié sur son site internet. Trump n'a pas « pris de décision » sur une éventuelle nouvelle opération militaire contre l'Iran, dit Rubio. Samedi soir, l'I",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20261031-le-guide-supr%C3%AAme-iranien-met-en-garde-les-%C3%A9tats-unis-et-isra%C3%ABl-contre-une-reprise-de-la-guerre",
-      "source": "RFI",
-      "lang": "fr",
-      "country": "France/Afrique",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 17:38:11 GMT"
-    },
-    {
-      "title": "Avec la suite de «Tschugger» sous forme de long métrage, David Constantin et le Haut-Valais partent à la conquête du monde",
-      "summary": "Après avoir bricolé des courts métrages et des séries amateurs dans la région de Salquenen, David Constantin et ses amis ont obtenu un succès national avec l’histoire de deux policiers haut-valaisans qui sauvent le monde. Bientôt, ils seront en Inde, sur les plateaux de Bollywood, pour le tournage de leur premier filmUn micro enregistre le bruit du Rhône. Sur la berge traîne une vieille voiture de",
-      "link": "https://www.letemps.ch/articles/avec-la-suite-de-tschugger-sous-forme-de-long-metrage-david-constantin-et-le-haut-valais-partent-a-la-conquete-du-monde",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 18:36:34 +0100"
-    },
-    {
-      "title": "Midterms aux États-Unis : James Talarico, l’étoile montante démocrate au Texas",
-      "summary": "Au Texas, le candidat démocrate au Sénat fait campagne sur sa foi, défendant un christianisme proche des “opprimés” et des “marginalisés”. Il semble tirer son épingle du jeu dans un État historiquement républicain.",
-      "link": "https://www.courrierinternational.com/video/video-midterms-aux-etats-unis-james-talarico-l-etoile-montante-democrate-au-texas_283407",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 18:27:05 +0100"
-    },
-    {
-      "title": "Des agriculteurs et des écologistes réclament un meilleur encadrement des pesticides au Canada",
-      "summary": "Au Québec et en Ontario, des centaines de personnes ont manifesté contre de récentes décisions du gouvernement Carney.",
-      "link": "https://www.ledevoir.com/actualites/environnement/1021277/agriculteurs-ecologistes-reclament-meilleur-encadrement-pesticides-canada",
-      "source": "Le Devoir",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 13:00:00 -0400"
-    },
-    {
-      "title": "Au cœur des forêts du Congo, les feux menacent le deuxième poumon de la planète",
-      "summary": "Dans la réserve communautaire du lac Télé, au cœur du bassin du Congo – et qui joue un rôle clé dans la régulation du carbone mondial –, les forêts sont de plus en plus menacées par des feux destructeurs. La protection du climat et des forêts sera au cœur de la COP31 qui s’ouvrira le 9 novembre en ArménieA l’entrée du village d’Iyahou, au cœur des forêts denses du Congo, un mégot de cigarette traî",
-      "link": "https://www.letemps.ch/articles/au-coeur-des-forets-du-congo-les-feux-menacent-le-deuxieme-poumon-de-la-planete",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "environnement_climat"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 17:57:07 +0100"
-    },
-    {
-      "title": "Des dizaines de milliers de manifestants en France et en Allemagne, avec ou sans masque",
-      "summary": "Des manifestations à l’appel de la jeunesse, notamment, étaient organisées ce 31 octobre en France, pour le troisième samedi consécutif, mais aussi en Allemagne, où le mouvement “Gen Z regelt” a organisé une trentaine de rassemblements. Si les défilés se sont déroulés de façon pacifique, le climat a commencé à se tendre en fin d’après-midi.",
-      "link": "https://www.courrierinternational.com/article/mobilisations-des-dizaines-de-milliers-de-manifestants-en-france-et-en-allemagne-avec-ou-sans-masque_283770",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "environnement_climat"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 17:50:07 +0100"
-    },
-    {
-      "title": "En Pologne, chaos autour du Tribunal constitutionnel, une institution jugée “enterrée”",
-      "summary": "Des heurts ont éclaté en Pologne dans la nuit du vendredi 30 au samedi 31 octobre autour du Tribunal constitutionnel, une institution contestée depuis que les nationaux conservateurs du PiS l’ont politisée entre 2015 et 2023. Le gouvernement en place cherche à en finir avec une paralysie institutionnelle qui ne fera pourtant que s’aggraver, estime la presse polonaise.",
-      "link": "https://www.courrierinternational.com/article/crise-en-pologne-chaos-autour-du-tribunal-constitutionnel-une-institution-jugee-enterree_283737",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 17:31:41 +0100"
-    },
-    {
-      "title": "«Ces petits gestes semblent anodins, mais quand on se sent seul au monde, ça compte»: la solidarité ne s’essouffle pas après le drame de Crans-Montana",
-      "summary": "La Fondation Alix Perroud, créée par la famille d’une jeune fille décédée au Constellation, organisait vendredi sa première soirée de soutien. Alors que plusieurs organismes existent déjà pour soutenir les victimes et leurs proches, celui-ci se focalise sur le bien-être et la reconstruction à long terme. Reportage et décryptage«On a des mouchoirs?» «Oui, il va falloir…» Vendredi soir au Musée olym",
-      "link": "https://www.letemps.ch/articles/ces-petits-gestes-semblent-anodins-mais-quand-on-se-sent-seul-au-monde-ca-compte-la-solidarite-ne-s-essouffle-pas-apres-le-drame-de-crans-montana",
-      "source": "Le Temps",
-      "lang": "fr",
-      "country": "Suisse",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 17:27:48 +0100"
-    },
-    {
-      "title": "It’s closer to Beijing than Washington – and residents of this Alaskan outpost are reeling from Trump’s policies",
-      "summary": "On the Bering Sea, Unalaska is the US’s most productive seafood port, employing thousands of workers. But Trump’s cuts, and his disastrous war with Iran, have caused chaos – and put Republican control of Congress at riskIt was less than 17 hours until the start of Alaska’s lucrative Bering Sea crab season, and Oystein Lone was standing on a dock in the city of Unalaska, preparing to embark in roug",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "politique_nationale",
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 16:00:47 GMT"
-    },
-    {
-      "title": "Après quatorze ans de jeux vidéo expérimentaux, Deconstructeam frappe encore un grand coup",
-      "summary": "Sorti mardi 27 octobre, «Virtue and a Sledgehammer» est le jeu vidéo le plus ambitieux du trio espagnol Deconstructeam. L’occasion de revenir sur le parcours de ce studio féru d’expérimentation et habitué des coups de massue.",
-      "link": "https://www.mediapart.fr/journal/economie-et-social/311026/apres-quatorze-ans-de-jeux-video-experimentaux-deconstructeam-frappe-encore-un-grand-coup",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "jeux_video"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 16:57:25 +0100"
-    },
-    {
-      "title": "Evacuees from Russian-occupied city arrive in Ukraine",
-      "summary": "Complex humanitarian mission extracted hundreds of people from Oleshky during rare local ceasefire between Moscow and Kyiv",
-      "link": "https://www.ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1",
-      "source": "Financial Times",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 15:17:34 GMT"
-    },
-    {
-      "title": "Sahara occidental : la mission de l’ONU dans l’impasse après un duel Washington-Moscou",
-      "summary": "Le mandat de la mission de maintien de la paix de l’ONU au Sahara occidental (Minurso) prend fin ce samedi 31 octobre. Il n’a pas été reconduit, la veille, à la suite de vetos américain et russe au Conseil de sécurité de l’ONU, ce qui fait planer l’incertitude dans ce dossier sensible qui a envenimé les relations entre le Maroc et l’Algérie.",
-      "link": "https://www.courrierinternational.com/article/afrique-sahara-occidental-la-mission-de-l-onu-dans-l-impasse-apres-un-duel-washington-moscou_283704",
-      "source": "Courrier International",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_internationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 15:49:30 +0100"
-    },
-    {
-      "title": "Ottawa reporte l’entrée en vigueur des normes d’émissions jusqu’en 2029",
-      "summary": "Il y a huit mois seulement, le gouvernement Carney avait annoncé qu’elles prendraient effet en 2027.",
-      "link": "https://www.ledevoir.com/actualites/environnement/1021265/ottawa-reporte-entree-vigueur-normes-emissions-jusqu-2029",
-      "source": "Le Devoir",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 10:25:00 -0400"
-    },
-    {
-      "title": "Les détecteurs d’intelligence artificielle, une solution séduisante mais imparfaite",
-      "summary": "L’affaire Thélyson Orélien a mis en lumière le rôle que pourront avoir les détecteurs d’IA dans un monde où nous ne sommes plus capables de faire la différence entre la création humaine et celle d’une machine. Les scientifiques mettent néanmoins en garde sur leurs performances.",
-      "link": "https://www.mediapart.fr/journal/culture-et-idees/311026/les-detecteurs-d-intelligence-artificielle-une-solution-seduisante-mais-imparfaite",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 15:19:03 +0100"
-    },
-    {
-      "title": "Bulle de l’IA: le troisième avertissement des marchés",
-      "summary": "En deux jours, plus de 1 500 milliards de dollars de capitalisation liés à l’intelligence artificielle se sont évaporés. Au-delà de l’ampleur de la correction boursière, un signal inquiète particulièrement les investisseurs: les géants du numérique ne sont pas épargnés par cette débâcle.",
-      "link": "https://www.mediapart.fr/journal/international/311026/bulle-de-l-ia-le-troisieme-avertissement-des-marches",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 15:14:56 +0100"
-    },
-    {
-      "title": "Le guide suprême iranien met en garde les États-Unis et Israël contre une reprise de la guerre",
-      "summary": "Des médias évoquent une possible campagne militaire courte et intense après les élections américaines de mi-mandat.",
-      "link": "https://www.ledevoir.com/monde/moyen-orient/1021259/guide-supreme-iranien-met-garde-etats-unis-contre-reprise-attaques",
-      "source": "Le Devoir",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 08:45:00 -0400"
-    },
-    {
-      "title": "À Erevan, la COP Biodiversité accouche d’une souris",
-      "summary": "La 17e COP consacrée à la biodiversité s’est achevée à Erevan samedi 31 octobre au matin. Un épais corpus de textes a été adopté, mais les pays ne se sont accordés que sur les plus petits dénominateurs communs, renvoyant les sujets difficiles aux prochaines négociations, dans deux ans.",
-      "link": "https://www.mediapart.fr/journal/international/311026/erevan-la-cop-biodiversite-accouche-d-une-souris",
-      "source": "Mediapart",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "environnement_climat"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 13:23:01 +0100"
-    },
-    {
-      "title": "Days away from a national verdict on Trump 2.0, we check in with nine voters across the political spectrum",
-      "summary": "Millions will vote to decide which party controls Congress – which will have a huge impact on Trump’s final years in officeUS voters will soon deliver a national verdict on the second presidency of Donald Trump. On 3 November, millions of Americans will vote in midterm elections to decide control of the House of Representatives and Senate, as well as the governorships in 36 states and state legisl",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth",
-      "source": "The Guardian",
-      "lang": "en",
-      "country": "Royaume-Uni",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 11:00:44 GMT"
-    },
-    {
-      "title": "James Talarico, un espoir démocrate au Texas",
-      "summary": "À 37 ans, le candidat au poste de sénateur place le parti d’opposition face à une rupture significative dans cet État.",
-      "link": "https://www.ledevoir.com/monde/etats-unis/1021157/james-talarico-espoir-democrate-texas",
-      "source": "Le Devoir",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "title": "Les démocrates peuvent-ils gagner une ou les deux chambres du Congrès?",
-      "summary": "Le parti d’opposition à Donald Trump porte de grands espoirs sur la Chambre des représentants… et même sur le Sénat.",
-      "link": "https://www.ledevoir.com/monde/etats-unis/1021151/democrates-peuvent-ils-gagner-ou-deux-chambres-congres",
-      "source": "Le Devoir",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "title": "Le «Canada fort» et la Loi sur les Indiens",
-      "summary": "La sortie de Wab Kinew a fait écran au débat sur le conflit entre le projet de loi C-39 et les droits des Autochtones.",
-      "link": "https://www.ledevoir.com/opinion/chroniques/1021178/canada-fort-loi-indiens",
-      "source": "Le Devoir",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "geopolitique"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
       "title": "L’IA, nouveau visage de la peur de l’inconnu",
       "summary": "La rapidité à laquelle se développe cette technologie rend uniques les craintes qui y sont associées.",
       "link": "https://www.ledevoir.com/actualites/societe/1021130/ia-nouveau-visage-peur-inconnu",
@@ -1235,30 +1645,6 @@
       "country": "Canada",
       "themes": [
         "ia_tech"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "title": "Arthabaska, le signal d’alarme du DSN",
-      "summary": "Le départ de médecins à Arthabaska rappelle que le Dossier santé numérique ne réussira pas sans transparence ni gouvernance claire.",
-      "link": "https://www.ledevoir.com/opinion/editoriaux/1021136/arthabaska-signal-alarme-dsn",
-      "source": "Le Devoir",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "title": "Le loup dans la bergerie",
-      "summary": "Le livre bleu péquiste explique que les relations internationales du Québec seront mises au service de l’indépendance.",
-      "link": "https://www.ledevoir.com/opinion/chroniques/1021181/loup-bergerie",
-      "source": "Le Devoir",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "politique_internationale"
       ],
       "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
     },
@@ -1372,91 +1758,6 @@
       "pubDate": "Fri, 30 Oct 2026 15:31:04 +0000"
     },
     {
-      "title": "Farid Bennis: “Les fonds levés seront exclusivement consacrés à la croissance externe”",
-      "summary": "À l’occasion de son introduction en Bourse, Laprophan entend consacrer les fonds levés à la croissance externe et poursuivre son expansion à l’international.\nThe post Farid Bennis: “Les fonds levés seront exclusivement consacrés à la croissance externe” appeared first on LesEco.ma.",
-      "link": "https://leseco.ma/business/farid-bennis-les-fonds-leves-seront-exclusivement-consacres-a-la-croissance-externe.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 14:44:34 +0000"
-    },
-    {
-      "title": "Sommet Russie-Afrique: Rabat réaffirme ses ambitions continentales",
-      "summary": "Représentant le Roi Mohammed VI au troisième Sommet Russie-Afrique, la cheffe du gouvernement, Fatima Ezzahra El Mansouri, a réaffirmé la place centrale du continent dans la politique étrangère du Royaume.\nThe post Sommet Russie-Afrique: Rabat réaffirme ses ambitions continentales appeared first on LesEco.ma.",
-      "link": "https://leseco.ma/maroc/sommet-russie-afrique-rabat-reaffirme-ses-ambitions-continentales.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "politique_nationale",
-        "politique_internationale"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 14:41:00 +0000"
-    },
-    {
-      "title": "IA et cybersécurité: les entreprises à l’heure des arbitrages",
-      "summary": "L’intelligence artificielle s’invite dans les processus métiers, tandis que la cybersécurité devient un enjeu stratégique pour les directions générales.\nThe post IA et cybersécurité: les entreprises à l’heure des arbitrages appeared first on LesEco.ma.",
-      "link": "https://leseco.ma/business/ia-et-cybersecurite-les-entreprises-a-lheure-des-arbitrages.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 14:35:03 +0000"
-    },
-    {
-      "title": "Intelligence artificielle: le coût caché du passage à l’échelle",
-      "summary": "Entre l’expérimentation d’un outil et son déploiement dans toute une entreprise, la facture peut changer considérablement.\nThe post Intelligence artificielle: le coût caché du passage à l’échelle appeared first on LesEco.ma.",
-      "link": "https://leseco.ma/business/intelligence-artificielle-le-cout-cache-du-passage-a-lechelle.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 14:28:50 +0000"
-    },
-    {
-      "title": "Cybersécurité: les budgets progressent, les fragilités persistent",
-      "summary": "La cybersécurité gagne du terrain dans les arbitrages financiers des entreprises marocaines.\nThe post Cybersécurité: les budgets progressent, les fragilités persistent appeared first on LesEco.ma.",
-      "link": "https://leseco.ma/business/cybersecurite-les-budgets-progressent-les-fragilites-persistent.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 14:20:15 +0000"
-    },
-    {
-      "title": "IA, cloud et data centers: où se joueront les prochains investissements ?",
-      "summary": "L’essor de l’intelligence artificielle accélère la transformation des besoins numériques des entreprises marocaines. Derrière les applications et les promesses de productivité se dessinent de nouveaux investissements dans le cloud, les centres de données, les capacités de calcul et les services spécialisés. L’ouverture d’une région cloud d’Oracle à Casablanca et les projets d’infrastructures souve",
-      "link": "https://leseco.ma/business/ia-cloud-et-data-centers-ou-se-joueront-les-prochains-investissements.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 14:10:11 +0000"
-    },
-    {
-      "title": "Bourse de Casablanca : la cotation de Managem suspendue",
-      "summary": "Dans un avis publié ce vendredi 30 octobre, la Bourse de Casablanca a annoncé la suspension de la cotation des titres de Managem.\nThe post Bourse de Casablanca : la cotation de Managem suspendue appeared first on LesEco.ma.",
-      "link": "https://leseco.ma/business/bourse-de-casablanca-la-cotation-de-managem-suspendue.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 13:59:06 +0000"
-    },
-    {
       "title": "Sahara marocain : Washington bouscule le Polisario et ses soutiens",
       "summary": "Autonomie sous souveraineté marocaine érigée en unique solution réaliste, disparition de la référence au référendum dans le nom de la MINURSO, réduction drastique des effectifs onusiens, recensement des réfugiés de Tindouf… Le premier projet de résolution américain sur le Sahara introduit des changements substantiels par rapport au texte adopté en 2025. Une inflexion diplomatique majeure, [&#8230;",
       "link": "https://lecanardlibere.ma/a-la-une/sahara-marocain-washington-bouscule-le-polisario-et-ses-soutiens/",
@@ -1467,115 +1768,6 @@
         "politique_internationale"
       ],
       "pubDate": "Fri, 30 Oct 2026 13:15:19 +0000"
-    },
-    {
-      "title": "Gouvernance: les entreprises face à l’exigence de transparence et de performance",
-      "summary": "À la Bourse de Casablanca, une rencontre a mis en avant le Code de bonne gouvernance 2025, les exigences de transparence et l’évolution du MASI ESG.\nThe post Gouvernance: les entreprises face à l’exigence de transparence et de performance appeared first on LesEco.ma.",
-      "link": "https://leseco.ma/business/gouvernance-les-entreprises-face-a-lexigence-de-transparence-et-de-performance.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 13:13:15 +0000"
-    },
-    {
-      "title": "Mohamed Benouda: “Nous voulons construire depuis le Maroc un champion technologique, industriel et médical”",
-      "summary": "Suite à l’annonce d’un accord d’investissement de 400 millions de dirhams entre ABA Life, pôle santé d’ABA Technology, et Admaius Capital Partners, le groupe marocain entend franchir une nouvelle étape dans son développement.\nThe post Mohamed Benouda: “Nous voulons construire depuis le Maroc un champion technologique, industriel et médical” appeared first on LesEco.ma.",
-      "link": "https://leseco.ma/business/mohamed-benouda-nous-voulons-construire-depuis-le-maroc-un-champion-technologique-industriel-et-medical.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "ia_tech"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 12:50:11 +0000"
-    },
-    {
-      "title": "Introduction en bourse: Laprophan voit grand",
-      "summary": "Après T2S Group Holding et Jet Energy, le groupe pharmaceutique Laprophan s’apprête à rejoindre la Bourse de Casablanca.\nThe post Introduction en bourse: Laprophan voit grand appeared first on LesEco.ma.",
-      "link": "https://leseco.ma/business/introduction-en-bourse-laprophan-voit-grand.html",
-      "source": "Les Inspirations Éco",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 12:20:54 +0000"
-    },
-    {
-      "title": "Minerais critiques, un pilier essentiel de l’économie nationale",
-      "summary": "Il peut devenir un levier de transformation industrielle Influence : Un policy paper, publié par The Policy Center for the New South, traitant du secteur des minerais, il y a près d’un an, a élaboré une réflexion stratégique articulée autour de trois dimensions complémentaires. Le Maroc doit simultanément structurer son approche nationale et se positionner [&#8230;]",
-      "link": "https://aujourdhui.ma/economie/minerais-critiques-un-pilier-essentiel-de-leconomie-nationale",
-      "source": "Aujourd'hui le Maroc",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "economie"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 11:17:47 +0000"
-    },
-    {
-      "title": "Dinos Alive Casablanca célèbre Halloween avec deux journées d’animations en famille",
-      "summary": "EXPOSITION Dinos Alive Casablanca prend les couleurs d’Halloween et propose aux familles deux journées d’animations au sein de l’exposition, à Sela Park Almaz. Au programme : peinture sur citrouilles, maquillage pour enfants, costumes et restauration spéciale Halloween. Produite par Exhibition Hub, acteur majeur dans la production d’expositions immersives, en partenariat avec Fever, plateforme tec",
-      "link": "https://aujourdhui.ma/lifestyle/dinos-alive-casablanca-celebre-halloween-avec-deux-journees-danimations-en-famille",
-      "source": "Aujourd'hui le Maroc",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 11:10:48 +0000"
-    },
-    {
-      "title": "une rencontre entre art, haute couture et diplomatie culturelle : Le Maroc à l’honneur à la World Designer Fashion Week d’Astana",
-      "summary": "Mode  Le Maroc a été mis à l’honneur lors de la World Designer Fashion Week à Astana, au Kazakhstan, à travers la collection «Soul of Morocco», imaginée par Fatima El Hajjaji, peintre, et sa fille Imane Belmkaddem, designer spécialisée en diplomatie culturelle. Cette collection exclusive de caftans et de manteaux artisanaux revisite le patrimoine marocain, [&#8230;]",
-      "link": "https://aujourdhui.ma/lifestyle/une-rencontre-entre-art-haute-couture-et-diplomatie-culturelle-le-maroc-a-lhonneur-a-la-world-designer-fashion-week-dastana",
-      "source": "Aujourd'hui le Maroc",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "politique_internationale",
-        "culture"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 11:10:42 +0000"
-    },
-    {
-      "title": "« L’Héritier des secrets » Un drame familial entre non-dits, identité et quête de vérité",
-      "summary": "Cinéma  Réalisé par Mohamed Nadif, L’Héritier des secrets explore les blessures de l’abandon, les secrets familiaux et la quête d’identité à travers le parcours de Farid, un homme marqué depuis l’enfance par la disparition de son père. Des décennies plus tard, une lettre venue de Montréal bouleverse ses certitudes et révèle une vérité longtemps dissimulée [&#8230;]",
-      "link": "https://aujourdhui.ma/lifestyle/lheritier-des-secrets-un-drame-familial-entre-non-dits-identite-et-quete-de-verite",
-      "source": "Aujourd'hui le Maroc",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 11:09:51 +0000"
-    },
-    {
-      "title": "Four Seasons Resort Marrakech dévoile Inara, une nouvelle table inspirée par la richesse du patrimoine marocain",
-      "summary": "Gastronomie  Le Four Seasons Resort Marrakech enrichit son offre gastronomique avec l’ouverture d’Inara Restaurant &#38; Lounge, une nouvelle adresse qui célèbre le patrimoine culinaire et culturel marocain dans un cadre inspiré des riads traditionnels, entre fontaine centrale et jardins verdoyants. Sous la direction du chef exécutif Jean-Denis Rieubland, Meilleur Ouvrier de France, le restaurant ",
-      "link": "https://aujourdhui.ma/lifestyle/four-seasons-resort-marrakech-devoile-inara-une-nouvelle-table-inspiree-par-la-richesse-du-patrimoine-marocain",
-      "source": "Aujourd'hui le Maroc",
-      "lang": "fr",
-      "country": "Maroc",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 11:08:03 +0000"
-    },
-    {
-      "title": "« Je n’ai plus peur que les gens se disent que je chante mal », confie TeddyBear, révélation de la chanson francophone",
-      "summary": "Le premier album de TeddyBear, « Le plus beau », sort ce vendredi. « 20 Minutes » a rencontré à Paris l’artiste belge qui, après avoir été batteur, a commencé à chanter il y a trois ans et semble promis à un bel avenir musical",
-      "link": "https://www.20minutes.fr/arts-stars/culture/musique/4256341-20261030-plus-peur-gens-disent-chante-mal-confie-teddybear-revelation-chanson-francophone?at_medium=display&at_campaign=149",
-      "source": "20 Minutes",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Fri, 30 Oct 2026 07:47:37 GMT"
     },
     {
       "title": "La montagne a accouché d’un député : Barik, le conte de fées numérique",
@@ -1662,18 +1854,6 @@
         "environnement_climat"
       ],
       "pubDate": "Mon, 26 Oct 2026 17:03:59 +0000"
-    },
-    {
-      "title": "Deux euros, UE vs Chine… Ce que l’on sait des nouveaux frais sur les colis",
-      "summary": "Face à la concurrence de la Chine et pour réduire son déficit commercial, Bruxelles va imposer des frais sur les colis importés dans l’Union européenne à partir du 1er novembre",
-      "link": "https://www.20minutes.fr/economie/4257407-20261026-deux-euros-ue-vs-chine-sait-nouveaux-frais-colis?at_medium=display&at_campaign=149",
-      "source": "20 Minutes",
-      "lang": "fr",
-      "country": "France",
-      "themes": [
-        "politique_internationale"
-      ],
-      "pubDate": "Mon, 26 Oct 2026 03:19:41 GMT"
     },
     {
       "title": "Nabil Benabdallah : Un politique chevronné face au défi de l’école",
@@ -1967,6 +2147,79 @@
       "pubDate": "Thu, 27 Feb 2020 08:27:18 +0200"
     },
     {
+      "title": "Les Roses ne font qu’une bouchée du Rise",
+      "summary": "Les Roses n’ont fait qu’une bouchée du Rise, dimanche, dans le cadre de la demi-finale aller des éliminatoires de la Super Ligue du Nord.",
+      "link": "https://www.journaldemontreal.com/2026/11/01/les-roses-ne-font-quune-bouchee-du-rise",
+      "source": "Journal de Montréal",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "politique_internationale"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 21:03:57 EST"
+    },
+    {
+      "title": "Guerre au Moyen-Orient: le prix de l’essence risque de rester élevé pour plusieurs mois",
+      "summary": "Les automobilistes au Québec, mais aussi dans le monde, devront s’attendre à continuer de payer cher à la pompe pour encore plusieurs mois.",
+      "link": "https://www.journaldemontreal.com/2026/11/01/guerre-au-moyen-orient-le-prix-de-lessence-risque-de-rester-eleve-pour-plusieurs-mois",
+      "source": "Journal de Montréal",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 14:04:27 EST"
+    },
+    {
+      "title": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+      "summary": "Le gouvernement de PSPP continuera d’imposer aux fonctionnaires une présence minimale de trois jours par semaine au bureau",
+      "link": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau",
+      "source": "Journal de Montréal",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 EST"
+    },
+    {
+      "title": "Guerre commerciale: une entente avec le Canada est imminente, selon Donald Trump",
+      "summary": "Donald Trump a affirmé que les États-Unis et le Canada étaient « sur le point de conclure un accord » sur l’avenir de leurs échanges commerciaux.",
+      "link": "https://www.journaldemontreal.com/2026/11/01/guerre-commerciale-une-entente-avec-le-canada-est-imminente-selon-donald-trump",
+      "source": "Journal de Montréal",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "geopolitique"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 17:25:46 EST"
+    },
+    {
+      "title": "«Je le remercie pour son changement de ton»: Paul St-Pierre Plamondon rencontrera Mark Carney avant un autre sommet",
+      "summary": "Le premier ministre du Québec, Paul St-Pierre Plamondon, a accepté dimanche l’invitation de son homologue fédéral, Mark Carney.",
+      "link": "https://www.journaldemontreal.com/2026/11/01/je-le-remercie-pour-son-changement-de-ton-paul-st-pierre-plamondon-rencontrera-mark-carney-avant-un-autre-sommet",
+      "source": "Journal de Montréal",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "politique_nationale",
+        "politique_internationale"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 15:28:38 EST"
+    },
+    {
+      "title": "Trois élections partielles au Québec: le Bloc Québécois croit pouvoir gagner du terrain",
+      "summary": "Le gouvernement Carney a déclenché six élections partielles, dimanche, et trois d’entre elles se déroulent au Québec.",
+      "link": "https://www.journaldemontreal.com/2026/11/01/trois-elections-partielles-au-quebec-le-bloc-quebecois-croit-pouvoir-gagner-du-terrain",
+      "source": "Journal de Montréal",
+      "lang": "fr",
+      "country": "Canada",
+      "themes": [
+        "politique_nationale"
+      ],
+      "pubDate": "Sun, 01 Nov 2026 18:03:47 EST"
+    },
+    {
       "title": "INFOGRAPHIE | Les Américains aux urnes mardi: le Congrès va-t-il devenir Démocrate?",
       "summary": "Les projections anticipent une majorité Démocrate à la Chambre des Représentants, mais un duel serré pour le Sénat.",
       "link": "https://www.journaldemontreal.com/2026/11/02/infographie--les-americains-aux-urnes-demain-le-congres-va-t-il-devenir-democrate",
@@ -1977,30 +2230,6 @@
         "politique_nationale"
       ],
       "pubDate": "Sun, 01 Nov 2026 00:00:00 EDT"
-    },
-    {
-      "title": "Pour Halloween, l'administration Trump se moque des arrestations de migrants",
-      "summary": "Le gouvernement Trump a publié samedi à l'occasion d'Halloween plusieurs montages vidéos violents et dégradants célébrant les expulsions d'immigrants.",
-      "link": "https://www.journaldemontreal.com/2026/10/31/pour-halloween-ladministration-trump-se-moque-des-arrestations-de-migrants",
-      "source": "Journal de Montréal",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "politique_nationale"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 16:42:27 EDT"
-    },
-    {
-      "title": "«Il est devenu comme un ami»: Rémi Goulet redonne vie au pilote Gilles Villeneuve dans le film «Villeneuve : l’ascension d’une légende»",
-      "summary": "À 29 ans, l’acteur porte sur ses épaules le défi d’incarner le légendaire pilote automobile Gilles Villeneuve",
-      "link": "https://www.journaldemontreal.com/2026/10/31/il-est-devenu-comme-un-ami--remi-goulet-incarne-le-pilote-gilles-villeneuve-dans-le-film-villeneuve--lascension-dune-legende",
-      "source": "Journal de Montréal",
-      "lang": "fr",
-      "country": "Canada",
-      "themes": [
-        "culture"
-      ],
-      "pubDate": "Sat, 31 Oct 2026 01:00:00 EDT"
     }
   ]
 }
